@@ -6,8 +6,8 @@ Poder visualizar mediante un dashboard interactivo la información perteneciente
 
 
 ## Miembros
-Santiago Valdez \n
-Mariano Sperat \n
-Sofia Lescaffette \n
-Rocio Sendra \n
+Santiago Valdez  
+Mariano Sperat  
+Sofia Lescaffette  
+Rocio Sendra  
 
