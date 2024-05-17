@@ -111,13 +111,10 @@ TablaCompleta.loc[idcorto, 'id_depto'] =  TablaCompleta.loc[idcorto, 'prov_id'] 
 ###Ya tengo estandarizado el formato y unificados los TablaCompleta. Ahora lo siguiente sería el control de calidad.
 
 info = TablaCompleta.info()
-print(info)
+description = TablaCompleta.describe()
 
-### Elimino los elementos nulos
+print(description)
 
-TablaCompleta.dropna(inplace=True)
 
-info = TablaCompleta.info()
-print(info)
+TablaCompleta.to_csv("TP/Dengue-y-Zika-Argentina/TablaCompleta.csv", index=False)       ### Esto sería casi lo último (tendría que hacer antes los otros df)   
 
-### TablaCompleta.to_csv("TP/Dengue-y-Zika-Argentina/TablaCompleta.csv", index=False)       ### Esto sería casi lo último (tendría que hacer antes los otros df)   
