@@ -49,10 +49,10 @@ Then, the tables will be separated into several subtables to normalize and maxim
 
 ## Team
 
-Santiago Valdez
-Mariano Sperat
-Sofia Lescaffette
-Rocio Sendra
+Santiago Valdez  
+Mariano Sperat  
+Sofia Lescaffette  
+Rocio Sendra  
 
 
 ## Roadmap
