@@ -1,0 +1,581 @@
+prov_id,prov,id_depto
+06,Buenos Aires,06000
+06,Buenos Aires,06035
+06,Buenos Aires,06091
+06,Buenos Aires,06270
+06,Buenos Aires,06274
+06,Buenos Aires,06371
+06,Buenos Aires,06410
+06,Buenos Aires,06427
+06,Buenos Aires,06434
+06,Buenos Aires,06490
+06,Buenos Aires,06539
+06,Buenos Aires,06568
+06,Buenos Aires,06658
+06,Buenos Aires,06760
+06,Buenos Aires,06840
+06,Buenos Aires,06861
+02,CABA,02000
+02,CABA,02001
+02,CABA,02010
+02,CABA,02012
+02,CABA,02015
+02,CABA,02002
+02,CABA,02003
+02,CABA,02004
+02,CABA,02005
+02,CABA,02006
+02,CABA,02007
+02,CABA,02008
+02,CABA,02009
+22,Chaco,22039
+22,Chaco,22105
+22,Chaco,22014
+22,Chaco,22028
+22,Chaco,22021
+22,Chaco,22043
+22,Chaco,22049
+22,Chaco,22063
+22,Chaco,22070
+22,Chaco,22084
+22,Chaco,22098
+22,Chaco,22112
+22,Chaco,22140
+14,Córdoba,14014
+14,Córdoba,14021
+14,Córdoba,14161
+18,Corrientes,18000
+18,Corrientes,18021
+18,Corrientes,18126
+18,Corrientes,18168
+30,Entre Ríos,30015
+31,Entre Ríos,31084
+32,Entre Ríos,32084
+33,Entre Ríos,33084
+34,Formosa,34014
+34,Formosa,34028
+34,Formosa,34035
+54,Misiones,54028
+54,Misiones,54063
+54,Misiones,54077
+54,Misiones,54084
+54,Misiones,54098
+66,Salta,66056
+66,Salta,66105
+82,Santa Fe,82077
+82,Santa Fe,82049
+82,Santa Fe,82084
+86,Santiago Del Estero,86035
+86,Santiago Del Estero,86049
+86,Santiago Del Estero,86147
+90,Tucumán,90021
+90,Tucumán,90105
+66,Salta,66028
+66,Salta,66126
+06,Buenos Aires,06441
+50,Mendoza,50028
+02,CABA,02014
+06,Buenos Aires,06028
+02,CABA,06231
+06,Buenos Aires,06231
+06,,06231
+18,Corrientes,06231
+06,Buenos Aires,06252
+06,Buenos Aires,06260
+06,Buenos Aires,06364
+06,Buenos Aires,06412
+22,Chaco,06588
+06,Buenos Aires,06665
+06,Buenos Aires,06805
+18,Corrientes,18133
+06,Buenos Aires,18154
+22,Chaco,22036
+30,Entre Ríos,30084
+22,Chaco,46063
+18,Corrientes,54035
+14,Córdoba,58028
+22,Chaco,66049
+22,Chaco,74028
+82,Santa Fe,82021
+22,Chaco,82119
+02,CABA,86063
+14,Córdoba,90084
+90,Tucumán,90119
+06,Buenos Aires,00427
+66,Salta,00028
+66,Salta,00056
+66,Salta,00126
+06,Buenos Aires,06266
+06,Buenos Aires,06357
+06,Buenos Aires,06515
+06,Buenos Aires,06532
+06,Buenos Aires,06623
+06,Buenos Aires,06791
+06,Buenos Aires,06882
+22,Chaco,22154
+34,Formosa,34007
+34,Formosa,34056
+38,Jujuy,06091
+38,Jujuy,38007
+38,Jujuy,38035
+38,Jujuy,38042
+38,Jujuy,38056
+38,Jujuy,38070
+38,Jujuy,38105
+54,Misiones,54007
+54,Misiones,18084
+54,Misiones,54042
+54,Misiones,54049
+54,Misiones,54056
+54,Misiones,02001
+54,Misiones,54091
+66,Salta,66007
+66,Salta,66035
+66,Salta,66049
+66,Salta,14091
+66,Salta,66070
+66,Salta,66077
+66,Salta,66112
+66,Salta,66133
+66,Salta,66147
+66,Salta,06760
+66,Salta,66161
+66,Salta,50119
+66,Salta,(en blanco)
+82,Santa Fe,82014
+82,Santa Fe,82035
+82,Santa Fe,82063
+82,Santa Fe,82070
+82,Santa Fe,82091
+82,Santa Fe,82105
+86,Santiago Del Estero,86161
+90,Tucumán,90084
+00,,00000
+02,CABA,00020
+34,Formosa,34340
+66,Salta,66660
+02,CABA,02011
+02,CABA,02013
+06,Buenos Aires,06049
+06,Buenos Aires,06056
+06,Buenos Aires,06098
+06,Buenos Aires,06112
+06,Buenos Aires,06119
+06,Buenos Aires,06126
+06,Buenos Aires,06134
+06,Buenos Aires,06161
+06,Buenos Aires,06175
+06,Buenos Aires,06203
+06,Buenos Aires,06210
+06,Buenos Aires,06224
+06,Buenos Aires,06238
+06,Buenos Aires,06245
+06,Buenos Aires,06301
+06,Buenos Aires,06385
+06,Buenos Aires,06408
+06,Buenos Aires,06413
+06,Buenos Aires,06420
+06,Buenos Aires,06469
+06,Buenos Aires,06483
+06,Buenos Aires,06497
+06,Buenos Aires,06518
+06,Buenos Aires,06525
+06,Buenos Aires,06560
+06,Buenos Aires,06581
+06,Buenos Aires,06595
+06,Buenos Aires,06630
+06,Buenos Aires,06638
+06,Buenos Aires,06644
+06,Buenos Aires,06648
+06,Buenos Aires,06655
+06,Buenos Aires,06672
+06,Buenos Aires,06679
+06,Buenos Aires,06707
+06,Buenos Aires,06728
+06,Buenos Aires,06735
+06,Buenos Aires,06749
+06,Buenos Aires,06756
+06,Buenos Aires,06763
+06,Buenos Aires,06778
+06,Buenos Aires,06784
+06,Buenos Aires,06826
+06,Buenos Aires,06847
+10,Catamarca,10007
+10,Catamarca,10021
+10,Catamarca,10035
+10,Catamarca,10042
+10,Catamarca,10049
+10,Catamarca,10056
+10,Catamarca,10063
+10,Catamarca,10070
+10,Catamarca,10077
+10,Catamarca,10084
+10,Catamarca,10091
+10,Catamarca,10098
+10,Catamarca,10105
+10,Catamarca,10112
+14,Córdoba,14007
+14,Córdoba,14028
+14,Córdoba,14035
+14,Córdoba,14042
+14,Córdoba,14049
+14,Córdoba,14056
+14,Córdoba,14063
+14,Córdoba,14070
+14,Córdoba,14077
+14,Córdoba,14084
+14,Córdoba,14091
+14,Córdoba,14098
+14,Córdoba,14105
+14,Córdoba,14119
+14,Córdoba,14126
+14,Córdoba,14133
+14,Córdoba,14140
+14,Córdoba,14147
+14,Córdoba,14175
+14,Córdoba,14182
+18,Corrientes,18007
+18,Corrientes,18014
+18,Corrientes,18028
+18,Corrientes,18035
+18,Corrientes,18042
+18,Corrientes,18049
+18,Corrientes,18056
+18,Corrientes,18063
+18,Corrientes,18070
+18,Corrientes,18077
+18,Corrientes,18084
+18,Corrientes,18105
+18,Corrientes,18112
+18,Corrientes,18119
+18,Corrientes,18140
+18,Corrientes,18154
+18,Corrientes,18161
+22,Chaco,22007
+22,Chaco,22056
+22,Chaco,22077
+22,Chaco,22119
+22,Chaco,22126
+22,Chaco,22133
+22,Chaco,22147
+22,Chaco,22168
+14,Córdoba,26021
+26,Chubut,26021
+34,Formosa,26021
+34,Formosa,26035
+26,Chubut,26042
+66,Salta,26042
+30,Entre Ríos,30008
+30,Entre Ríos,30021
+30,Entre Ríos,30028
+30,Entre Ríos,30035
+30,Entre Ríos,30049
+30,Entre Ríos,30056
+30,Entre Ríos,30070
+30,Entre Ríos,30077
+30,Entre Ríos,30091
+30,Entre Ríos,30098
+30,Entre Ríos,30105
+30,Entre Ríos,30113
+34,Formosa,34021
+34,Formosa,34042
+34,Formosa,34049
+34,Formosa,34063
+38,Jujuy,38014
+38,Jujuy,38021
+66,Salta,38021
+38,Jujuy,38028
+38,Jujuy,38063
+38,Jujuy,38182
+42,La Pampa,42021
+34,Formosa,42028
+34,Formosa,42056
+42,La Pampa,42077
+42,La Pampa,42105
+66,Salta,42133
+42,La Pampa,42154
+46,La Rioja,46007
+46,La Rioja,46014
+46,La Rioja,46021
+46,La Rioja,46028
+46,La Rioja,46035
+46,La Rioja,46042
+46,La Rioja,46049
+46,La Rioja,46056
+46,La Rioja,46063
+46,La Rioja,46084
+46,La Rioja,46091
+46,La Rioja,46098
+46,La Rioja,46119
+46,La Rioja,46126
+50,Mendoza,50007
+50,Mendoza,50021
+50,Mendoza,50063
+50,Mendoza,50070
+50,Mendoza,50077
+50,Mendoza,50105
+54,Misiones,54014
+54,Misiones,54021
+54,Misiones,54070
+54,Misiones,54105
+54,Misiones,54112
+54,Misiones,54119
+82,Santa Fe,58014
+34,Formosa,58035
+58,Neuquén,58035
+58,Neuquén,58091
+62,Río Negro,62014
+62,Río Negro,62021
+62,Río Negro,62042
+66,Salta,66021
+34,Formosa,66056
+66,Salta,66098
+66,Salta,66140
+70,San Juan,70007
+70,San Juan,70028
+70,San Juan,70042
+70,San Juan,70063
+70,San Juan,70070
+70,San Juan,70077
+70,San Juan,70084
+70,San Juan,70098
+70,San Juan,70119
+70,San Juan,70126
+74,San Luis,74035
+74,San Luis,74056
+78,Santa Cruz,78014
+34,Formosa,78021
+78,Santa Cruz,78021
+78,Santa Cruz,78028
+78,Santa Cruz,78035
+82,Santa Fe,82007
+82,Santa Fe,82028
+82,Santa Fe,82042
+82,Santa Fe,82056
+82,Santa Fe,82098
+82,Santa Fe,82112
+82,Santa Fe,82119
+82,Santa Fe,82126
+82,Santa Fe,82133
+86,Santiago Del Estero,86021
+86,Santiago Del Estero,86042
+86,Santiago Del Estero,86056
+86,Santiago Del Estero,86098
+86,Santiago Del Estero,86133
+86,Santiago Del Estero,86140
+86,Santiago Del Estero,86175
+90,Tucumán,90007
+90,Tucumán,90014
+90,Tucumán,90063
+90,Tucumán,90070
+90,Tucumán,90077
+90,Tucumán,90112
+94,Tierra Del Fuego,94007
+94,Tierra Del Fuego,94014
+02,CABA,00002
+06,Buenos Aires,00006
+14,Córdoba,00014
+18,Corrientes,00018
+30,Entre Ríos,00030
+34,Formosa,00034
+38,Jujuy,00038
+66,Salta,00066
+90,Tucumán,00090
+86,Santiago Del Estero,86014
+66,Salta,66042
+90,Tucumán,90042
+42,La Pampa,42035
+46,La Rioja,46112
+46,La Rioja,46105
+46,La Rioja,46070
+50,Mendoza,50098
+54,Misiones,54035
+50,Mendoza,50035
+50,Mendoza,50049
+86,Santiago Del Estero,86070
+70,San Juan,70105
+desconocida,,00999
+34,Formosa,00340
+99,,00999
+22,Chaco,00220
+06,Buenos Aires,06105
+74,San Luis,74049
+06,Buenos Aires,06868
+06,Buenos Aires,06182
+18,Corrientes,18175
+22,Chaco,22091
+34,Formosa,00999
+22,Chaco,00999
+78,Santa Cruz,78007
+06,Buenos Aires,06315
+50,Mendoza,50119
+06,Buenos Aires,06700
+06,Buenos Aires,06770
+78,Santa Cruz,78042
+78,Santa Cruz,78049
+58,Neuquén,58112
+06,Buenos Aires,06875
+06,Buenos Aires,06574
+06,Buenos Aires,00999
+90,Tucumán,00900
+42,La Pampa,42028
+58,Neuquén,58014
+18,Corrientes,18098
+70,San Juan,70049
+06,Buenos Aires,06693
+22,Chaco,22161
+58,Neuquén,58056
+06,Buenos Aires,06322
+06,Buenos Aires,06147
+02,CABA,00999
+18,Corrientes,00999
+26,Chubut,26007
+90,Tucumán,90049
+70,San Juan,70021
+90,Tucumán,90028
+90,Tucumán,90091
+06,Buenos Aires,06077
+99,,99999
+74,San Luis,74021
+70,San Juan,70112
+86,Santiago Del Estero,86077
+90,Tucumán,90035
+42,La Pampa,42133
+06,Buenos Aires,06999
+90,Tucumán,90999
+66,Salta,66084
+06,Buenos Aires,06154
+86,Santiago Del Estero,86007
+42,La Pampa,42056
+14,Córdoba,14168
+02,CABA,02999
+90,Tucumán,90056
+06,Buenos Aires,06547
+86,Santiago Del Estero,86189
+90,Tucumán,90098
+10,Catamarca,10014
+50,Mendoza,50084
+06,Buenos Aires,06392
+66,Salta,66119
+06,Buenos Aires,06294
+74,San Luis,74028
+06,Buenos Aires,06217
+06,Buenos Aires,06609
+06,Buenos Aires,06588
+58,Neuquén,58007
+70,San Juan,70035
+06,Buenos Aires,06553
+06,Buenos Aires,06277
+86,Santiago Del Estero,86084
+06,Buenos Aires,06399
+86,Santiago Del Estero,86091
+50,Mendoza,50056
+18,Corrientes,18147
+30,Entre Ríos,30063
+86,Santiago Del Estero,86028
+06,Buenos Aires,06189
+86,Santiago Del Estero,86105
+34,Formosa,34999
+06,Buenos Aires,06651
+50,Mendoza,50999
+86,Santiago Del Estero,86119
+86,Santiago Del Estero,86168
+86,Santiago Del Estero,86154
+14,Córdoba,14999
+30,Entre Ríos,30042
+86,Santiago Del Estero,86999
+46,La Rioja,46077
+06,Buenos Aires,06329
+86,Santiago Del Estero,86063
+06,Buenos Aires,06063
+22,Chaco,22999
+06,Buenos Aires,06351
+06,Buenos Aires,06854
+86,Santiago Del Estero,86182
+06,Buenos Aires,06505
+18,Corrientes,18091
+50,Mendoza,50126
+74,San Luis,74007
+26,Chubut,26077
+70,San Juan,70056
+06,Buenos Aires,06714
+42,La Pampa,42140
+06,Buenos Aires,06168
+18,Corrientes,18999
+06,Buenos Aires,06686
+06,Buenos Aires,06014
+42,La Pampa,42119
+06,Buenos Aires,06140
+58,Neuquén,58049
+50,Mendoza,50091
+50,Mendoza,50042
+30,Entre Ríos,30088
+06,Buenos Aires,06448
+26,Chubut,26084
+26,Chubut,26014
+06,Buenos Aires,06070
+06,Buenos Aires,06833
+14,Córdoba,14112
+38,Jujuy,38098
+06,Buenos Aires,06602
+06,Buenos Aires,06462
+06,Buenos Aires,06721
+26,Chubut,26091
+30,Entre Ríos,30999
+06,Buenos Aires,06455
+14,Córdoba,14154
+70,San Juan,70999
+38,Jujuy,38094
+86,Santiago Del Estero,86126
+94,Tierra Del Fuego,94999
+26,Chubut,26035
+38,Jujuy,38112
+06,Buenos Aires,06021
+06,Buenos Aires,06007
+10,Catamarca,10028
+46,La Rioja,46999
+42,La Pampa,42007
+62,Río Negro,62007
+66,Salta,66063
+42,La Pampa,42147
+06,Buenos Aires,06336
+42,La Pampa,42126
+74,San Luis,74042
+62,Río Negro,62063
+10,Catamarca,10999
+62,Río Negro,62077
+62,Río Negro,62028
+42,La Pampa,42070
+70,San Juan,70091
+06,Buenos Aires,06084
+06,Buenos Aires,06343
+74,San Luis,74014
+06,Buenos Aires,06511
+58,Neuquén,58070
+50,Mendoza,50014
+78,Santa Cruz,78999
+42,La Pampa,42098
+06,Buenos Aires,06280
+74,San Luis,74063
+06,Buenos Aires,06819
+66,Salta,66154
+66,Salta,66014
+70,San Juan,70014
+38,Jujuy,38084
+66,Salta,66999
+06,Buenos Aires,06042
+62,Río Negro,62091
+42,La Pampa,42042
+06,Buenos Aires,06406
+58,Neuquén,58042
+06,Buenos Aires,06287
+94,Tierra Del Fuego,94028
+62,Río Negro,62084
+70,San Juan,70133
+06,Buenos Aires,06476
+06,Buenos Aires,06466
+38,Jujuy,38999
+58,Neuquén,58105
+50,Mendoza,50112
+26,Chubut,26028
+06,Buenos Aires,06308
