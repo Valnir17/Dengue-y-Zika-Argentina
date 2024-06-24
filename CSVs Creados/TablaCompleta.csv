@@ -2893,7 +2893,7 @@ id_depto,depto,prov_id,prov,año,evento,edad_id,edad_desc,cantidad,mes
 02001,Comuna 1,02,CABA,2020,Dengue,10,Mayor a 65 años,18.0,March
 02001,Comuna 1,02,CABA,2020,Dengue,4,De 5 A 9 Años,5.0,March
 02001,Comuna 1,02,CABA,2020,Dengue,10,Mayor a 65 años,14.0,March
-02001,Comuna 1,02,CABA,2020,Dengue,Sin Especificar,-,1.0,March
+02001,Comuna 1,02,CABA,2020,Dengue,0,Desconocido/Sin Especificar,1.0,March
 02001,Comuna 1,02,CABA,2020,Dengue,5,De 10 A 14 Años,16.0,March
 02001,Comuna 1,02,CABA,2020,Dengue,6,De 15 a 24 años,19.0,March
 02001,Comuna 1,02,CABA,2020,Dengue,3,De 2 A 4 Años,1.0,March
@@ -2954,7 +2954,7 @@ id_depto,depto,prov_id,prov,año,evento,edad_id,edad_desc,cantidad,mes
 02001,Comuna 1,02,CABA,2020,Dengue,4,De 5 A 9 Años,14.0,April
 02001,Comuna 1,02,CABA,2020,Dengue,10,Mayor a 65 años,22.0,April
 02001,Comuna 1,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,April
-02001,Comuna 1,02,CABA,2020,Dengue,Sin Especificar,-,1.0,April
+02001,Comuna 1,02,CABA,2020,Dengue,0,Desconocido/Sin Especificar,1.0,April
 02001,Comuna 1,02,CABA,2020,Dengue,5,De 10 A 14 Años,33.0,April
 02001,Comuna 1,02,CABA,2020,Dengue,3,1 a 2 años,1.0,April
 02001,Comuna 1,02,CABA,2020,Dengue,6,De 15 a 24 años,31.0,April
@@ -3984,7 +3984,7 @@ id_depto,depto,prov_id,prov,año,evento,edad_id,edad_desc,cantidad,mes
 06028,Almirante Brown,06,Buenos Aires,2020,Dengue,7,De 25 A 34 Años,3.0,April
 06028,Almirante Brown,06,Buenos Aires,2020,Dengue,8,De 35 A 44 Años,5.0,April
 06028,Almirante Brown,06,Buenos Aires,2020,Dengue,10,Mayor a 65 años,3.0,April
-06028,Almirante Brown,06,Buenos Aires,2020,Dengue,Sin Especificar,-,1.0,April
+06028,Almirante Brown,06,Buenos Aires,2020,Dengue,0,Desconocido/Sin Especificar,1.0,April
 06028,Almirante Brown,06,Buenos Aires,2020,Dengue,5,De 10 A 14 Años,1.0,April
 06028,Almirante Brown,06,Buenos Aires,2020,Dengue,6,De 15 a 24 años,2.0,April
 06028,Almirante Brown,06,Buenos Aires,2020,Dengue,3,De 2 A 4 Años,2.0,April
@@ -4109,7 +4109,7 @@ id_depto,depto,prov_id,prov,año,evento,edad_id,edad_desc,cantidad,mes
 06035,Avellaneda,06,Buenos Aires,2020,Dengue,4,De 5 A 9 Años,1.0,June
 06035,Avellaneda,06,Buenos Aires,2020,Dengue,7,De 25 A 34 Años,1.0,June
 06049,Azul,06,Buenos Aires,2020,Dengue,7,De 25 A 34 Años,1.0,March
-06049,Azul,06,Buenos Aires,2020,Dengue,Sin Especificar,-,1.0,April
+06049,Azul,06,Buenos Aires,2020,Dengue,0,Desconocido/Sin Especificar,1.0,April
 06056,Bahía Blanca,06,Buenos Aires,2020,Dengue,8,De 35 A 44 Años,1.0,March
 06056,Bahía Blanca,06,Buenos Aires,2020,Dengue,10,Mayor a 65 años,1.0,March
 06056,Bahía Blanca,06,Buenos Aires,2020,Dengue,6,De 15 a 24 años,1.0,April
@@ -4350,7 +4350,7 @@ id_depto,depto,prov_id,prov,año,evento,edad_id,edad_desc,cantidad,mes
 06274,Florencio Varela,06,Buenos Aires,2020,Dengue,8,De 35 A 44 Años,4.0,March
 06274,Florencio Varela,06,Buenos Aires,2020,Dengue,10,Mayor a 65 años,5.0,March
 06274,Florencio Varela,06,Buenos Aires,2020,Dengue,4,De 5 A 9 Años,1.0,March
-06274,Florencio Varela,06,Buenos Aires,2020,Dengue,Sin Especificar,-,1.0,March
+06274,Florencio Varela,06,Buenos Aires,2020,Dengue,0,Desconocido/Sin Especificar,1.0,March
 06274,Florencio Varela,06,Buenos Aires,2020,Dengue,6,De 15 a 24 años,1.0,April
 06274,Florencio Varela,06,Buenos Aires,2020,Dengue,6,De 15 a 24 años,2.0,April
 06274,Florencio Varela,06,Buenos Aires,2020,Dengue,7,De 25 A 34 Años,6.0,April
@@ -4428,7 +4428,7 @@ id_depto,depto,prov_id,prov,año,evento,edad_id,edad_desc,cantidad,mes
 06371,General San Martín,06,Buenos Aires,2020,Dengue,7,De 25 A 34 Años,3.0,March
 06371,General San Martín,06,Buenos Aires,2020,Dengue,8,De 35 A 44 Años,1.0,March
 06371,General San Martín,06,Buenos Aires,2020,Dengue,10,Mayor a 65 años,4.0,March
-06371,General San Martín,06,Buenos Aires,2020,Dengue,Sin Especificar,-,2.0,March
+06371,General San Martín,06,Buenos Aires,2020,Dengue,0,Desconocido/Sin Especificar,2.0,March
 06371,General San Martín,06,Buenos Aires,2020,Dengue,5,De 10 A 14 Años,2.0,March
 06371,General San Martín,06,Buenos Aires,2020,Dengue,6,De 15 a 24 años,4.0,March
 06371,General San Martín,06,Buenos Aires,2020,Dengue,3,De 2 A 4 Años,1.0,March
@@ -4675,7 +4675,7 @@ id_depto,depto,prov_id,prov,año,evento,edad_id,edad_desc,cantidad,mes
 06427,La Matanza,06,Buenos Aires,2020,Dengue,10,Mayor a 65 años,22.0,March
 06427,La Matanza,06,Buenos Aires,2020,Dengue,4,De 5 A 9 Años,6.0,March
 06427,La Matanza,06,Buenos Aires,2020,Dengue,10,Mayor a 65 años,4.0,March
-06427,La Matanza,06,Buenos Aires,2020,Dengue,Sin Especificar,-,1.0,March
+06427,La Matanza,06,Buenos Aires,2020,Dengue,0,Desconocido/Sin Especificar,1.0,March
 06427,La Matanza,06,Buenos Aires,2020,Dengue,5,De 10 A 14 Años,15.0,March
 06427,La Matanza,06,Buenos Aires,2020,Dengue,3,1 a 2 años,1.0,March
 06427,La Matanza,06,Buenos Aires,2020,Dengue,6,De 15 a 24 años,23.0,March
@@ -4695,7 +4695,7 @@ id_depto,depto,prov_id,prov,año,evento,edad_id,edad_desc,cantidad,mes
 06427,La Matanza,06,Buenos Aires,2020,Dengue,10,Mayor a 65 años,27.0,March
 06427,La Matanza,06,Buenos Aires,2020,Dengue,4,De 5 A 9 Años,6.0,March
 06427,La Matanza,06,Buenos Aires,2020,Dengue,10,Mayor a 65 años,1.0,March
-06427,La Matanza,06,Buenos Aires,2020,Dengue,Sin Especificar,-,1.0,March
+06427,La Matanza,06,Buenos Aires,2020,Dengue,0,Desconocido/Sin Especificar,1.0,March
 06427,La Matanza,06,Buenos Aires,2020,Dengue,5,De 10 A 14 Años,8.0,April
 06427,La Matanza,06,Buenos Aires,2020,Dengue,6,De 15 a 24 años,10.0,April
 06427,La Matanza,06,Buenos Aires,2020,Dengue,3,De 2 A 4 Años,1.0,April
@@ -4910,7 +4910,7 @@ id_depto,depto,prov_id,prov,año,evento,edad_id,edad_desc,cantidad,mes
 06441,La Plata,06,Buenos Aires,2020,Dengue,8,De 35 A 44 Años,1.0,March
 06441,La Plata,06,Buenos Aires,2020,Dengue,10,Mayor a 65 años,4.0,March
 06441,La Plata,06,Buenos Aires,2020,Dengue,4,De 5 A 9 Años,1.0,March
-06441,La Plata,06,Buenos Aires,2020,Dengue,Sin Especificar,-,1.0,March
+06441,La Plata,06,Buenos Aires,2020,Dengue,0,Desconocido/Sin Especificar,1.0,March
 06441,La Plata,06,Buenos Aires,2020,Dengue,5,De 10 A 14 Años,1.0,March
 06441,La Plata,06,Buenos Aires,2020,Dengue,3,1 a 2 años,1.0,March
 06441,La Plata,06,Buenos Aires,2020,Dengue,6,De 15 a 24 años,1.0,March
@@ -6680,7 +6680,7 @@ id_depto,depto,prov_id,prov,año,evento,edad_id,edad_desc,cantidad,mes
 18021,Capital,18,Corrientes,2020,Dengue,10,Mayor a 65 años,47.0,May
 18021,Capital,18,Corrientes,2020,Dengue,4,De 5 A 9 Años,16.0,May
 18021,Capital,18,Corrientes,2020,Dengue,10,Mayor a 65 años,21.0,May
-18021,Capital,18,Corrientes,2020,Dengue,Sin Especificar,-,1.0,May
+18021,Capital,18,Corrientes,2020,Dengue,0,Desconocido/Sin Especificar,1.0,May
 18021,Capital,18,Corrientes,2020,Dengue,5,De 10 A 14 Años,13.0,May
 18021,Capital,18,Corrientes,2020,Dengue,6,De 15 a 24 años,19.0,May
 18021,Capital,18,Corrientes,2020,Dengue,6,De 15 a 24 años,20.0,May
@@ -8664,7 +8664,7 @@ id_depto,depto,prov_id,prov,año,evento,edad_id,edad_desc,cantidad,mes
 34042,Pilagás,34,Formosa,2020,Dengue,8,De 35 A 44 Años,3.0,March
 34042,Pilagás,34,Formosa,2020,Dengue,10,Mayor a 65 años,3.0,March
 34042,Pilagás,34,Formosa,2020,Dengue,4,De 5 A 9 Años,1.0,March
-34042,Pilagás,34,Formosa,2020,Dengue,Sin Especificar,-,1.0,March
+34042,Pilagás,34,Formosa,2020,Dengue,0,Desconocido/Sin Especificar,1.0,March
 34042,Pilagás,34,Formosa,2020,Dengue,5,De 10 A 14 Años,2.0,March
 34042,Pilagás,34,Formosa,2020,Dengue,6,De 15 a 24 años,3.0,March
 34042,Pilagás,34,Formosa,2020,Dengue,6,De 15 a 24 años,1.0,March
@@ -9015,7 +9015,7 @@ id_depto,depto,prov_id,prov,año,evento,edad_id,edad_desc,cantidad,mes
 38021,Dr. Manuel Belgrano,38,Jujuy,2020,Dengue,8,De 35 A 44 Años,1.0,January
 38021,Dr. Manuel Belgrano,38,Jujuy,2020,Dengue,6,De 15 a 24 años,1.0,February
 38021,Dr. Manuel Belgrano,38,Jujuy,2020,Dengue,8,De 35 A 44 Años,1.0,February
-38021,Dr. Manuel Belgrano,38,Jujuy,2020,Dengue,Sin Especificar,-,1.0,February
+38021,Dr. Manuel Belgrano,38,Jujuy,2020,Dengue,0,Desconocido/Sin Especificar,1.0,February
 38021,Dr. Manuel Belgrano,38,Jujuy,2020,Dengue,8,De 35 A 44 Años,1.0,March
 38021,Dr. Manuel Belgrano,38,Jujuy,2020,Dengue,10,Mayor a 65 años,1.0,March
 38021,Dr. Manuel Belgrano,38,Jujuy,2020,Dengue,5,De 10 A 14 Años,1.0,March
@@ -9115,7 +9115,7 @@ id_depto,depto,prov_id,prov,año,evento,edad_id,edad_desc,cantidad,mes
 38035,Ledesma,38,Jujuy,2020,Dengue,10,Mayor a 65 años,4.0,March
 38035,Ledesma,38,Jujuy,2020,Dengue,4,De 5 A 9 Años,2.0,March
 38035,Ledesma,38,Jujuy,2020,Dengue,10,Mayor a 65 años,1.0,March
-38035,Ledesma,38,Jujuy,2020,Dengue,Sin Especificar,-,1.0,March
+38035,Ledesma,38,Jujuy,2020,Dengue,0,Desconocido/Sin Especificar,1.0,March
 38035,Ledesma,38,Jujuy,2020,Dengue,5,De 10 A 14 Años,8.0,March
 38035,Ledesma,38,Jujuy,2020,Dengue,6,De 15 a 24 años,6.0,March
 38035,Ledesma,38,Jujuy,2020,Dengue,3,De 2 A 4 Años,1.0,March
@@ -9511,7 +9511,7 @@ id_depto,depto,prov_id,prov,año,evento,edad_id,edad_desc,cantidad,mes
 46014,Capital,46,La Rioja,2020,Dengue,4,De 5 A 9 Años,16.0,March
 46014,Capital,46,La Rioja,2020,Dengue,10,Mayor a 65 años,16.0,March
 46014,Capital,46,La Rioja,2020,Dengue,10,Mayor a 65 años,2.0,March
-46014,Capital,46,La Rioja,2020,Dengue,Sin Especificar,-,2.0,March
+46014,Capital,46,La Rioja,2020,Dengue,0,Desconocido/Sin Especificar,2.0,March
 46014,Capital,46,La Rioja,2020,Dengue,5,De 10 A 14 Años,28.0,March
 46014,Capital,46,La Rioja,2020,Dengue,3,1 a 2 años,1.0,March
 46014,Capital,46,La Rioja,2020,Dengue,6,De 15 a 24 años,16.0,March
@@ -9819,7 +9819,7 @@ id_depto,depto,prov_id,prov,año,evento,edad_id,edad_desc,cantidad,mes
 54028,Capital,54,Misiones,2020,Dengue,4,De 5 A 9 Años,9.0,March
 54028,Capital,54,Misiones,2020,Dengue,10,Mayor a 65 años,7.0,March
 54028,Capital,54,Misiones,2020,Dengue,10,Mayor a 65 años,1.0,March
-54028,Capital,54,Misiones,2020,Dengue,Sin Especificar,-,1.0,March
+54028,Capital,54,Misiones,2020,Dengue,0,Desconocido/Sin Especificar,1.0,March
 54028,Capital,54,Misiones,2020,Dengue,5,De 10 A 14 Años,11.0,April
 54028,Capital,54,Misiones,2020,Dengue,6,De 15 a 24 años,19.0,April
 54028,Capital,54,Misiones,2020,Dengue,3,De 2 A 4 Años,3.0,April
@@ -9867,7 +9867,7 @@ id_depto,depto,prov_id,prov,año,evento,edad_id,edad_desc,cantidad,mes
 54028,Capital,54,Misiones,2020,Dengue,4,De 5 A 9 Años,8.0,May
 54028,Capital,54,Misiones,2020,Dengue,10,Mayor a 65 años,4.0,May
 54028,Capital,54,Misiones,2020,Dengue,10,Mayor a 65 años,1.0,May
-54028,Capital,54,Misiones,2020,Dengue,Sin Especificar,-,1.0,May
+54028,Capital,54,Misiones,2020,Dengue,0,Desconocido/Sin Especificar,1.0,May
 54028,Capital,54,Misiones,2020,Dengue,5,De 10 A 14 Años,5.0,May
 54028,Capital,54,Misiones,2020,Dengue,3,1 a 2 años,1.0,May
 54028,Capital,54,Misiones,2020,Dengue,6,De 15 a 24 años,1.0,May
@@ -11286,7 +11286,7 @@ id_depto,depto,prov_id,prov,año,evento,edad_id,edad_desc,cantidad,mes
 66056,Grl. José De San Martín,66,Salta,2020,Dengue,4,De 5 A 9 Años,17.0,April
 66056,Grl. José De San Martín,66,Salta,2020,Dengue,10,Mayor a 65 años,5.0,April
 66056,Grl. José De San Martín,66,Salta,2020,Dengue,10,Mayor a 65 años,1.0,April
-66056,Grl. José De San Martín,66,Salta,2020,Dengue,Sin Especificar,-,1.0,April
+66056,Grl. José De San Martín,66,Salta,2020,Dengue,0,Desconocido/Sin Especificar,1.0,April
 66056,Grl. José De San Martín,66,Salta,2020,Dengue,5,De 10 A 14 Años,5.0,April
 66056,Grl. José De San Martín,66,Salta,2020,Dengue,3,1 a 2 años,1.0,April
 66056,Grl. José De San Martín,66,Salta,2020,Dengue,6,De 15 a 24 años,5.0,April
@@ -12720,9 +12720,9 @@ id_depto,depto,prov_id,prov,año,evento,edad_id,edad_desc,cantidad,mes
 94014,Ushuaia,94,Tierra Del Fuego,2020,Dengue,10,Mayor a 65 años,1.0,March
 94014,Ushuaia,94,Tierra Del Fuego,2020,Dengue,8,De 35 A 44 Años,1.0,April
 00002,Comuna 1,02,CABA,2020,Dengue,6,De 15 a 24 años,1.0,March
-00000,,00,,2020,Dengue,Sin Especificar,-,1.0,February
+00000,,00,,2020,Dengue,0,Desconocido/Sin Especificar,1.0,February
 00000,,00,,2020,Dengue,8,De 35 A 44 Años,1.0,February
-00000,,00,,2020,Dengue,Sin Especificar,-,1.0,March
+00000,,00,,2020,Dengue,0,Desconocido/Sin Especificar,1.0,March
 00000,,00,,2020,Dengue,5,De 10 A 14 Años,1.0,May
 00000,,00,,2020,Dengue,8,De 35 A 44 Años,1.0,June
 00006,,06,Buenos Aires,2020,Dengue,7,De 25 A 34 Años,1.0,April
@@ -12922,7 +12922,7 @@ id_depto,depto,prov_id,prov,año,evento,edad_id,edad_desc,cantidad,mes
 66007,Anta,66,Salta,2020,Dengue ,7,De 25 A 34 Años,3.0,June
 66007,Anta,66,Salta,2020,Dengue ,8,De 35 A 44 Años,3.0,June
 66007,Anta,66,Salta,2020,Dengue ,9,De 45 A 64 Años,6.0,June
-66007,Anta,66,Salta,2020,Dengue ,Edad Sin Esp.,-,1.0,June
+66007,Anta,66,Salta,2020,Dengue ,0,Desconocido/Sin Especificar,1.0,June
 66007,Anta,66,Salta,2020,Dengue ,4,De 5 A 9 Años,1.0,June
 66007,Anta,66,Salta,2020,Dengue ,5,De 10 A 14 Años,1.0,June
 66007,Anta,66,Salta,2020,Dengue ,6,De 15 a 24 años,1.0,June
@@ -13074,13 +13074,13 @@ id_depto,depto,prov_id,prov,año,evento,edad_id,edad_desc,cantidad,mes
 86049,Capital,86,Santiago Del Estero,2020,Dengue ,9,De 45 A 64 Años,1.0,May
 86049,Capital,86,Santiago Del Estero,2020,Dengue ,8,De 35 A 44 Años,2.0,May
 86049,Capital,86,Santiago Del Estero,2020,Dengue ,8,De 35 A 44 Años,1.0,May
-66056,Grl. José De San Martín,66,Salta,2020,Dengue ,Edad Sin Esp.,-,5.0,January
-66056,Grl. José De San Martín,66,Salta,2020,Dengue ,Edad Sin Esp.,-,4.0,January
-66056,Grl. José De San Martín,66,Salta,2020,Dengue ,Edad Sin Esp.,-,4.0,February
-66056,Grl. José De San Martín,66,Salta,2020,Dengue ,Edad Sin Esp.,-,6.0,February
-66056,Grl. José De San Martín,66,Salta,2020,Dengue ,Edad Sin Esp.,-,13.0,February
-66056,Grl. José De San Martín,66,Salta,2020,Dengue ,Edad Sin Esp.,-,15.0,March
-66056,Grl. José De San Martín,66,Salta,2020,Dengue ,Edad Sin Esp.,-,18.0,March
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,0,Desconocido/Sin Especificar,5.0,January
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,0,Desconocido/Sin Especificar,4.0,January
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,0,Desconocido/Sin Especificar,4.0,February
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,0,Desconocido/Sin Especificar,6.0,February
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,0,Desconocido/Sin Especificar,13.0,February
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,0,Desconocido/Sin Especificar,15.0,March
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,0,Desconocido/Sin Especificar,18.0,March
 66056,Grl. José De San Martín,66,Salta,2020,Dengue ,3,De 2 A 4 Años,1.0,March
 66056,Grl. José De San Martín,66,Salta,2020,Dengue ,4,De 5 A 9 Años,2.0,March
 66056,Grl. José De San Martín,66,Salta,2020,Dengue ,5,De 10 A 14 Años,3.0,March
@@ -13090,7 +13090,7 @@ id_depto,depto,prov_id,prov,año,evento,edad_id,edad_desc,cantidad,mes
 66056,Grl. José De San Martín,66,Salta,2020,Dengue ,8,De 35 A 44 Años,6.0,March
 66056,Grl. José De San Martín,66,Salta,2020,Dengue ,9,De 45 A 64 Años,10.0,March
 66056,Grl. José De San Martín,66,Salta,2020,Dengue ,10,Mayor a 65 años,1.0,March
-66056,Grl. José De San Martín,66,Salta,2020,Dengue ,Edad Sin Esp.,-,37.0,March
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,0,Desconocido/Sin Especificar,37.0,March
 66056,Grl. José De San Martín,66,Salta,2020,Dengue ,3,De 2 A 4 Años,1.0,March
 66056,Grl. José De San Martín,66,Salta,2020,Dengue ,4,De 5 A 9 Años,1.0,March
 66056,Grl. José De San Martín,66,Salta,2020,Dengue ,5,De 10 A 14 Años,3.0,March
@@ -13100,7 +13100,7 @@ id_depto,depto,prov_id,prov,año,evento,edad_id,edad_desc,cantidad,mes
 66056,Grl. José De San Martín,66,Salta,2020,Dengue ,8,De 35 A 44 Años,4.0,March
 66056,Grl. José De San Martín,66,Salta,2020,Dengue ,9,De 45 A 64 Años,4.0,March
 66056,Grl. José De San Martín,66,Salta,2020,Dengue ,10,Mayor a 65 años,2.0,March
-66056,Grl. José De San Martín,66,Salta,2020,Dengue ,Edad Sin Esp.,-,63.0,March
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,0,Desconocido/Sin Especificar,63.0,March
 66056,Grl. José De San Martín,66,Salta,2020,Dengue ,3,De 2 A 4 Años,1.0,April
 66056,Grl. José De San Martín,66,Salta,2020,Dengue ,4,De 5 A 9 Años,2.0,April
 66056,Grl. José De San Martín,66,Salta,2020,Dengue ,5,De 10 A 14 Años,4.0,April
@@ -13111,7 +13111,7 @@ id_depto,depto,prov_id,prov,año,evento,edad_id,edad_desc,cantidad,mes
 66056,Grl. José De San Martín,66,Salta,2020,Dengue ,9,De 45 A 64 Años,4.0,April
 66056,Grl. José De San Martín,66,Salta,2020,Dengue ,10,Mayor a 65 años,3.0,April
 66056,Grl. José De San Martín,66,Salta,2020,Dengue ,10,Mayor a 65 años,1.0,April
-66056,Grl. José De San Martín,66,Salta,2020,Dengue ,Edad Sin Esp.,-,103.0,April
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,0,Desconocido/Sin Especificar,103.0,April
 66056,Grl. José De San Martín,66,Salta,2020,Dengue ,3,De 2 A 4 Años,1.0,April
 66056,Grl. José De San Martín,66,Salta,2020,Dengue ,4,De 5 A 9 Años,7.0,April
 66056,Grl. José De San Martín,66,Salta,2020,Dengue ,5,De 10 A 14 Años,10.0,April
@@ -13332,7 +13332,7 @@ id_depto,depto,prov_id,prov,año,evento,edad_id,edad_desc,cantidad,mes
 90063,Lules,90,Tucumán,2020,Dengue ,9,De 45 A 64 Años,9.0,June
 90063,Lules,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,1.0,June
 90063,Lules,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,1.0,June
-90063,Lules,90,Tucumán,2020,Dengue ,Edad Sin Esp.,-,1.0,June
+90063,Lules,90,Tucumán,2020,Dengue ,0,Desconocido/Sin Especificar,1.0,June
 90063,Lules,90,Tucumán,2020,Dengue ,5,De 10 A 14 Años,4.0,June
 90063,Lules,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,1.0,June
 90063,Lules,90,Tucumán,2020,Dengue ,7,De 25 A 34 Años,8.0,June
@@ -13416,7 +13416,7 @@ id_depto,depto,prov_id,prov,año,evento,edad_id,edad_desc,cantidad,mes
 90084,Capital,90,Tucumán,2020,Dengue ,9,De 45 A 64 Años,184.0,May
 90084,Capital,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,19.0,May
 90084,Capital,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,6.0,May
-90084,Capital,90,Tucumán,2020,Dengue ,Edad Sin Esp.,-,1.0,May
+90084,Capital,90,Tucumán,2020,Dengue ,0,Desconocido/Sin Especificar,1.0,May
 90084,Capital,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,4.0,May
 90084,Capital,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,10.0,May
 90084,Capital,90,Tucumán,2020,Dengue ,3,1 a 2 años,11.0,May
@@ -13730,7 +13730,7 @@ id_depto,depto,prov_id,prov,año,evento,edad_id,edad_desc,cantidad,mes
 66126,Orán,66,Salta,2020,Dengue ,9,De 45 A 64 Años,1.0,April
 66126,Orán,66,Salta,2020,Dengue ,10,Mayor a 65 años,1.0,April
 66126,Orán,66,Salta,2020,Dengue ,9,De 45 A 64 Años,1.0,April
-66126,Orán,66,Salta,2020,Dengue ,Edad Sin Esp.,-,168.0,April
+66126,Orán,66,Salta,2020,Dengue ,0,Desconocido/Sin Especificar,168.0,April
 66126,Orán,66,Salta,2020,Dengue ,5,De 10 A 14 Años,1.0,April
 66126,Orán,66,Salta,2020,Dengue ,6,De 15 a 24 años,3.0,April
 66126,Orán,66,Salta,2020,Dengue ,7,De 25 A 34 Años,5.0,April
@@ -13750,41 +13750,41 @@ id_depto,depto,prov_id,prov,año,evento,edad_id,edad_desc,cantidad,mes
 66126,Orán,66,Salta,2020,Dengue ,7,De 25 A 34 Años,3.0,May
 66126,Orán,66,Salta,2020,Dengue ,8,De 35 A 44 Años,2.0,May
 66126,Orán,66,Salta,2020,Dengue ,9,De 45 A 64 Años,3.0,May
-66126,Orán,66,Salta,2020,Dengue ,Edad Sin Esp.,-,92.0,May
+66126,Orán,66,Salta,2020,Dengue ,0,Desconocido/Sin Especificar,92.0,May
 66126,Orán,66,Salta,2020,Dengue ,6,De 15 a 24 años,1.0,May
 66126,Orán,66,Salta,2020,Dengue ,6,De 15 a 24 años,3.0,May
 66126,Orán,66,Salta,2020,Dengue ,8,De 35 A 44 Años,1.0,May
 66126,Orán,66,Salta,2020,Dengue ,9,De 45 A 64 Años,1.0,May
-66126,Orán,66,Salta,2020,Dengue ,Edad Sin Esp.,-,37.0,May
+66126,Orán,66,Salta,2020,Dengue ,0,Desconocido/Sin Especificar,37.0,May
 66126,Orán,66,Salta,2020,Dengue ,5,De 10 A 14 Años,2.0,May
 66126,Orán,66,Salta,2020,Dengue ,6,De 15 a 24 años,5.0,May
 66126,Orán,66,Salta,2020,Dengue ,6,De 15 a 24 años,1.0,May
 66126,Orán,66,Salta,2020,Dengue ,8,De 35 A 44 Años,7.0,May
 66126,Orán,66,Salta,2020,Dengue ,9,De 45 A 64 Años,1.0,May
 66126,Orán,66,Salta,2020,Dengue ,10,Mayor a 65 años,2.0,May
-66126,Orán,66,Salta,2020,Dengue ,Edad Sin Esp.,-,110.0,May
+66126,Orán,66,Salta,2020,Dengue ,0,Desconocido/Sin Especificar,110.0,May
 66126,Orán,66,Salta,2020,Dengue ,4,De 5 A 9 Años,1.0,May
 66126,Orán,66,Salta,2020,Dengue ,5,De 10 A 14 Años,1.0,May
 66126,Orán,66,Salta,2020,Dengue ,6,De 15 a 24 años,2.0,May
 66126,Orán,66,Salta,2020,Dengue ,6,De 15 a 24 años,3.0,May
 66126,Orán,66,Salta,2020,Dengue ,8,De 35 A 44 Años,3.0,May
 66126,Orán,66,Salta,2020,Dengue ,9,De 45 A 64 Años,1.0,May
-66126,Orán,66,Salta,2020,Dengue ,Edad Sin Esp.,-,37.0,May
+66126,Orán,66,Salta,2020,Dengue ,0,Desconocido/Sin Especificar,37.0,May
 66126,Orán,66,Salta,2020,Dengue ,3,De 2 A 4 Años,2.0,June
 66126,Orán,66,Salta,2020,Dengue ,4,De 5 A 9 Años,1.0,June
 66126,Orán,66,Salta,2020,Dengue ,6,De 15 a 24 años,2.0,June
 66126,Orán,66,Salta,2020,Dengue ,7,De 25 A 34 Años,1.0,June
 66126,Orán,66,Salta,2020,Dengue ,8,De 35 A 44 Años,1.0,June
-66126,Orán,66,Salta,2020,Dengue ,Edad Sin Esp.,-,31.0,June
+66126,Orán,66,Salta,2020,Dengue ,0,Desconocido/Sin Especificar,31.0,June
 66126,Orán,66,Salta,2020,Dengue ,5,De 10 A 14 Años,1.0,June
 66126,Orán,66,Salta,2020,Dengue ,7,De 25 A 34 Años,2.0,June
-66126,Orán,66,Salta,2020,Dengue ,Edad Sin Esp.,-,22.0,June
+66126,Orán,66,Salta,2020,Dengue ,0,Desconocido/Sin Especificar,22.0,June
 66126,Orán,66,Salta,2020,Dengue ,6,De 15 a 24 años,3.0,June
 66126,Orán,66,Salta,2020,Dengue ,6,De 15 a 24 años,1.0,June
 66126,Orán,66,Salta,2020,Dengue ,7,De 25 A 34 Años,3.0,June
 66126,Orán,66,Salta,2020,Dengue ,9,De 45 A 64 Años,1.0,June
-66126,Orán,66,Salta,2020,Dengue ,Edad Sin Esp.,-,14.0,June
-66126,Orán,66,Salta,2020,Dengue ,Edad Sin Esp.,-,45.0,June
+66126,Orán,66,Salta,2020,Dengue ,0,Desconocido/Sin Especificar,14.0,June
+66126,Orán,66,Salta,2020,Dengue ,0,Desconocido/Sin Especificar,45.0,June
 66126,Orán,66,Salta,2020,Dengue ,4,De 5 A 9 Años,1.0,July
 66126,Orán,66,Salta,2020,Dengue ,6,De 15 a 24 años,2.0,July
 66126,Orán,66,Salta,2020,Dengue ,8,De 35 A 44 Años,2.0,July
