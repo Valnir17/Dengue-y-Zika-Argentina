@@ -2841,6 +2841,7 @@ id_depto,depto,prov_id,prov,año,evento,edad_id,edad_desc,cantidad,mes
 90084,Capital,90,Tucumán,2019,Dengue,10,Mayor a 65 años,1.0,May
 90084,Capital,90,Tucumán,2019,Dengue,4,De 5 A 9 Años,1.0,May
 90105,Tafi Viejo,90,Tucumán,2019,Dengue,7,De 25 A 34 Años,1.0,April
+<<<<<<< HEAD
 02001,Comuna 01,02,CABA,2020,Dengue,5,De 10 A 14 Años,1.0,March
 02001,Comuna 01,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,January
 02001,Comuna 01,02,CABA,2020,Dengue,7,De 25 A 34 Años,1.0,February
@@ -3569,6 +3570,758 @@ id_depto,depto,prov_id,prov,año,evento,edad_id,edad_desc,cantidad,mes
 02009,Comuna 09,02,CABA,2020,Dengue,8,De 35 A 44 Años,1.0,May
 02009,Comuna 09,02,CABA,2020,Dengue,7,De 25 A 34 Años,1.0,June
 02009,Comuna 09,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,June
+=======
+00000,,00,,2020,Dengue,7,De 25 A 34 Años,1.0,March
+00000,,00,,2020,Dengue,5,De 10 A 14 Años,1.0,April
+00020,,02,CABA,2020,Dengue,7,De 25 A 34 Años,1.0,March
+00020,,02,CABA,2020,Dengue,8,De 35 A 44 Años,1.0,May
+34340,,34,Formosa,2020,Dengue,10,Mayor a 65 años,1.0,May
+66660,,66,Salta,2020,Dengue,10,Mayor a 65 años,1.0,March
+66660,,66,Salta,2020,Dengue,10,Mayor a 65 años,1.0,March
+66660,,66,Salta,2020,Dengue,8,De 35 A 44 Años,1.0,April
+66660,,66,Salta,2020,Dengue,8,De 35 A 44 Años,1.0,July
+02001,Comuna 1,02,CABA,2020,Dengue,5,De 10 A 14 Años,1.0,March
+02001,Comuna 1,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,January
+02001,Comuna 1,02,CABA,2020,Dengue,7,De 25 A 34 Años,1.0,February
+02001,Comuna 1,02,CABA,2020,Dengue,8,De 35 A 44 Años,1.0,February
+02001,Comuna 1,02,CABA,2020,Dengue,10,Mayor a 65 años,2.0,February
+02001,Comuna 1,02,CABA,2020,Dengue,6,De 15 a 24 años,1.0,February
+02001,Comuna 1,02,CABA,2020,Dengue,7,De 25 A 34 Años,1.0,February
+02001,Comuna 1,02,CABA,2020,Dengue,8,De 35 A 44 Años,2.0,February
+02001,Comuna 1,02,CABA,2020,Dengue,10,Mayor a 65 años,2.0,February
+02001,Comuna 1,02,CABA,2020,Dengue,4,De 5 A 9 Años,1.0,February
+02001,Comuna 1,02,CABA,2020,Dengue,5,De 10 A 14 Años,1.0,February
+02001,Comuna 1,02,CABA,2020,Dengue,3,De 2 A 4 Años,1.0,February
+02001,Comuna 1,02,CABA,2020,Dengue,7,De 25 A 34 Años,1.0,February
+02001,Comuna 1,02,CABA,2020,Dengue,8,De 35 A 44 Años,2.0,February
+02001,Comuna 1,02,CABA,2020,Dengue,10,Mayor a 65 años,3.0,February
+02001,Comuna 1,02,CABA,2020,Dengue,5,De 10 A 14 Años,1.0,February
+02001,Comuna 1,02,CABA,2020,Dengue,6,De 15 a 24 años,6.0,February
+02001,Comuna 1,02,CABA,2020,Dengue,6,De 15 a 24 años,5.0,February
+02001,Comuna 1,02,CABA,2020,Dengue,7,De 25 A 34 Años,7.0,February
+02001,Comuna 1,02,CABA,2020,Dengue,8,De 35 A 44 Años,8.0,February
+02001,Comuna 1,02,CABA,2020,Dengue,10,Mayor a 65 años,12.0,February
+02001,Comuna 1,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,February
+02001,Comuna 1,02,CABA,2020,Dengue,5,De 10 A 14 Años,2.0,March
+02001,Comuna 1,02,CABA,2020,Dengue,6,De 15 a 24 años,4.0,March
+02001,Comuna 1,02,CABA,2020,Dengue,6,De 15 a 24 años,10.0,March
+02001,Comuna 1,02,CABA,2020,Dengue,7,De 25 A 34 Años,14.0,March
+02001,Comuna 1,02,CABA,2020,Dengue,8,De 35 A 44 Años,16.0,March
+02001,Comuna 1,02,CABA,2020,Dengue,10,Mayor a 65 años,18.0,March
+02001,Comuna 1,02,CABA,2020,Dengue,4,De 5 A 9 Años,5.0,March
+02001,Comuna 1,02,CABA,2020,Dengue,10,Mayor a 65 años,14.0,March
+02001,Comuna 1,02,CABA,2020,Dengue,0,Desconocido/Sin Especificar,1.0,March
+02001,Comuna 1,02,CABA,2020,Dengue,5,De 10 A 14 Años,16.0,March
+02001,Comuna 1,02,CABA,2020,Dengue,6,De 15 a 24 años,19.0,March
+02001,Comuna 1,02,CABA,2020,Dengue,3,De 2 A 4 Años,1.0,March
+02001,Comuna 1,02,CABA,2020,Dengue,6,De 15 a 24 años,14.0,March
+02001,Comuna 1,02,CABA,2020,Dengue,7,De 25 A 34 Años,33.0,March
+02001,Comuna 1,02,CABA,2020,Dengue,8,De 35 A 44 Años,37.0,March
+02001,Comuna 1,02,CABA,2020,Dengue,10,Mayor a 65 años,45.0,March
+02001,Comuna 1,02,CABA,2020,Dengue,4,De 5 A 9 Años,9.0,March
+02001,Comuna 1,02,CABA,2020,Dengue,10,Mayor a 65 años,14.0,March
+02001,Comuna 1,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,March
+02001,Comuna 1,02,CABA,2020,Dengue,5,De 10 A 14 Años,27.0,March
+02001,Comuna 1,02,CABA,2020,Dengue,6,De 15 a 24 años,32.0,March
+02001,Comuna 1,02,CABA,2020,Dengue,3,De 2 A 4 Años,4.0,March
+02001,Comuna 1,02,CABA,2020,Dengue,6,De 15 a 24 años,24.0,March
+02001,Comuna 1,02,CABA,2020,Dengue,7,De 25 A 34 Años,60.0,March
+02001,Comuna 1,02,CABA,2020,Dengue,8,De 35 A 44 Años,67.0,March
+02001,Comuna 1,02,CABA,2020,Dengue,10,Mayor a 65 años,83.0,March
+02001,Comuna 1,02,CABA,2020,Dengue,4,De 5 A 9 Años,22.0,March
+02001,Comuna 1,02,CABA,2020,Dengue,10,Mayor a 65 años,24.0,March
+02001,Comuna 1,02,CABA,2020,Dengue,5,De 10 A 14 Años,11.0,March
+02001,Comuna 1,02,CABA,2020,Dengue,3,1 a 2 años,1.0,March
+02001,Comuna 1,02,CABA,2020,Dengue,6,De 15 a 24 años,23.0,March
+02001,Comuna 1,02,CABA,2020,Dengue,3,De 2 A 4 Años,3.0,March
+02001,Comuna 1,02,CABA,2020,Dengue,6,De 15 a 24 años,25.0,March
+02001,Comuna 1,02,CABA,2020,Dengue,7,De 25 A 34 Años,46.0,March
+02001,Comuna 1,02,CABA,2020,Dengue,8,De 35 A 44 Años,50.0,March
+02001,Comuna 1,02,CABA,2020,Dengue,10,Mayor a 65 años,70.0,March
+02001,Comuna 1,02,CABA,2020,Dengue,4,De 5 A 9 Años,12.0,March
+02001,Comuna 1,02,CABA,2020,Dengue,10,Mayor a 65 años,14.0,March
+02001,Comuna 1,02,CABA,2020,Dengue,10,Mayor a 65 años,2.0,March
+02001,Comuna 1,02,CABA,2020,Dengue,5,De 10 A 14 Años,20.0,April
+02001,Comuna 1,02,CABA,2020,Dengue,6,De 15 a 24 años,27.0,April
+02001,Comuna 1,02,CABA,2020,Dengue,3,De 2 A 4 Años,2.0,April
+02001,Comuna 1,02,CABA,2020,Dengue,6,De 15 a 24 años,38.0,April
+02001,Comuna 1,02,CABA,2020,Dengue,7,De 25 A 34 Años,49.0,April
+02001,Comuna 1,02,CABA,2020,Dengue,8,De 35 A 44 Años,50.0,April
+02001,Comuna 1,02,CABA,2020,Dengue,10,Mayor a 65 años,86.0,April
+02001,Comuna 1,02,CABA,2020,Dengue,4,De 5 A 9 Años,17.0,April
+02001,Comuna 1,02,CABA,2020,Dengue,10,Mayor a 65 años,14.0,April
+02001,Comuna 1,02,CABA,2020,Dengue,5,De 10 A 14 Años,46.0,April
+02001,Comuna 1,02,CABA,2020,Dengue,3,1 a 2 años,1.0,April
+02001,Comuna 1,02,CABA,2020,Dengue,6,De 15 a 24 años,57.0,April
+02001,Comuna 1,02,CABA,2020,Dengue,3,De 2 A 4 Años,5.0,April
+02001,Comuna 1,02,CABA,2020,Dengue,6,De 15 a 24 años,71.0,April
+02001,Comuna 1,02,CABA,2020,Dengue,7,De 25 A 34 Años,111.0,April
+02001,Comuna 1,02,CABA,2020,Dengue,8,De 35 A 44 Años,99.0,April
+02001,Comuna 1,02,CABA,2020,Dengue,10,Mayor a 65 años,141.0,April
+02001,Comuna 1,02,CABA,2020,Dengue,4,De 5 A 9 Años,25.0,April
+02001,Comuna 1,02,CABA,2020,Dengue,10,Mayor a 65 años,38.0,April
+02001,Comuna 1,02,CABA,2020,Dengue,5,De 10 A 14 Años,34.0,April
+02001,Comuna 1,02,CABA,2020,Dengue,3,1 a 2 años,1.0,April
+02001,Comuna 1,02,CABA,2020,Dengue,6,De 15 a 24 años,35.0,April
+02001,Comuna 1,02,CABA,2020,Dengue,3,De 2 A 4 Años,4.0,April
+02001,Comuna 1,02,CABA,2020,Dengue,6,De 15 a 24 años,51.0,April
+02001,Comuna 1,02,CABA,2020,Dengue,7,De 25 A 34 Años,79.0,April
+02001,Comuna 1,02,CABA,2020,Dengue,8,De 35 A 44 Años,87.0,April
+02001,Comuna 1,02,CABA,2020,Dengue,10,Mayor a 65 años,139.0,April
+02001,Comuna 1,02,CABA,2020,Dengue,4,De 5 A 9 Años,14.0,April
+02001,Comuna 1,02,CABA,2020,Dengue,10,Mayor a 65 años,22.0,April
+02001,Comuna 1,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,April
+02001,Comuna 1,02,CABA,2020,Dengue,0,Desconocido/Sin Especificar,1.0,April
+02001,Comuna 1,02,CABA,2020,Dengue,5,De 10 A 14 Años,33.0,April
+02001,Comuna 1,02,CABA,2020,Dengue,3,1 a 2 años,1.0,April
+02001,Comuna 1,02,CABA,2020,Dengue,6,De 15 a 24 años,31.0,April
+02001,Comuna 1,02,CABA,2020,Dengue,3,De 2 A 4 Años,4.0,April
+02001,Comuna 1,02,CABA,2020,Dengue,6,De 15 a 24 años,33.0,April
+02001,Comuna 1,02,CABA,2020,Dengue,7,De 25 A 34 Años,72.0,April
+02001,Comuna 1,02,CABA,2020,Dengue,8,De 35 A 44 Años,68.0,April
+02001,Comuna 1,02,CABA,2020,Dengue,10,Mayor a 65 años,102.0,April
+02001,Comuna 1,02,CABA,2020,Dengue,4,De 5 A 9 Años,13.0,April
+02001,Comuna 1,02,CABA,2020,Dengue,10,Mayor a 65 años,20.0,April
+02001,Comuna 1,02,CABA,2020,Dengue,5,De 10 A 14 Años,23.0,May
+02001,Comuna 1,02,CABA,2020,Dengue,3,1 a 2 años,1.0,May
+02001,Comuna 1,02,CABA,2020,Dengue,6,De 15 a 24 años,25.0,May
+02001,Comuna 1,02,CABA,2020,Dengue,3,De 2 A 4 Años,2.0,May
+02001,Comuna 1,02,CABA,2020,Dengue,6,De 15 a 24 años,28.0,May
+02001,Comuna 1,02,CABA,2020,Dengue,7,De 25 A 34 Años,59.0,May
+02001,Comuna 1,02,CABA,2020,Dengue,8,De 35 A 44 Años,57.0,May
+02001,Comuna 1,02,CABA,2020,Dengue,10,Mayor a 65 años,73.0,May
+02001,Comuna 1,02,CABA,2020,Dengue,4,De 5 A 9 Años,10.0,May
+02001,Comuna 1,02,CABA,2020,Dengue,10,Mayor a 65 años,12.0,May
+02001,Comuna 1,02,CABA,2020,Dengue,5,De 10 A 14 Años,21.0,May
+02001,Comuna 1,02,CABA,2020,Dengue,6,De 15 a 24 años,25.0,May
+02001,Comuna 1,02,CABA,2020,Dengue,3,De 2 A 4 Años,2.0,May
+02001,Comuna 1,02,CABA,2020,Dengue,6,De 15 a 24 años,31.0,May
+02001,Comuna 1,02,CABA,2020,Dengue,7,De 25 A 34 Años,60.0,May
+02001,Comuna 1,02,CABA,2020,Dengue,8,De 35 A 44 Años,44.0,May
+02001,Comuna 1,02,CABA,2020,Dengue,10,Mayor a 65 años,73.0,May
+02001,Comuna 1,02,CABA,2020,Dengue,4,De 5 A 9 Años,13.0,May
+02001,Comuna 1,02,CABA,2020,Dengue,10,Mayor a 65 años,20.0,May
+02001,Comuna 1,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,May
+02001,Comuna 1,02,CABA,2020,Dengue,5,De 10 A 14 Años,14.0,May
+02001,Comuna 1,02,CABA,2020,Dengue,6,De 15 a 24 años,21.0,May
+02001,Comuna 1,02,CABA,2020,Dengue,3,De 2 A 4 Años,1.0,May
+02001,Comuna 1,02,CABA,2020,Dengue,6,De 15 a 24 años,18.0,May
+02001,Comuna 1,02,CABA,2020,Dengue,7,De 25 A 34 Años,43.0,May
+02001,Comuna 1,02,CABA,2020,Dengue,8,De 35 A 44 Años,28.0,May
+02001,Comuna 1,02,CABA,2020,Dengue,10,Mayor a 65 años,34.0,May
+02001,Comuna 1,02,CABA,2020,Dengue,4,De 5 A 9 Años,9.0,May
+02001,Comuna 1,02,CABA,2020,Dengue,10,Mayor a 65 años,9.0,May
+02001,Comuna 1,02,CABA,2020,Dengue,10,Mayor a 65 años,2.0,May
+02001,Comuna 1,02,CABA,2020,Dengue,5,De 10 A 14 Años,6.0,May
+02001,Comuna 1,02,CABA,2020,Dengue,3,1 a 2 años,1.0,May
+02001,Comuna 1,02,CABA,2020,Dengue,6,De 15 a 24 años,7.0,May
+02001,Comuna 1,02,CABA,2020,Dengue,6,De 15 a 24 años,5.0,May
+02001,Comuna 1,02,CABA,2020,Dengue,7,De 25 A 34 Años,18.0,May
+02001,Comuna 1,02,CABA,2020,Dengue,8,De 35 A 44 Años,18.0,May
+02001,Comuna 1,02,CABA,2020,Dengue,10,Mayor a 65 años,24.0,May
+02001,Comuna 1,02,CABA,2020,Dengue,4,De 5 A 9 Años,11.0,May
+02001,Comuna 1,02,CABA,2020,Dengue,10,Mayor a 65 años,7.0,May
+02001,Comuna 1,02,CABA,2020,Dengue,6,De 15 a 24 años,1.0,June
+02001,Comuna 1,02,CABA,2020,Dengue,3,De 2 A 4 Años,1.0,June
+02001,Comuna 1,02,CABA,2020,Dengue,6,De 15 a 24 años,3.0,June
+02001,Comuna 1,02,CABA,2020,Dengue,7,De 25 A 34 Años,9.0,June
+02001,Comuna 1,02,CABA,2020,Dengue,8,De 35 A 44 Años,9.0,June
+02001,Comuna 1,02,CABA,2020,Dengue,10,Mayor a 65 años,12.0,June
+02001,Comuna 1,02,CABA,2020,Dengue,4,De 5 A 9 Años,3.0,June
+02001,Comuna 1,02,CABA,2020,Dengue,10,Mayor a 65 años,3.0,June
+02001,Comuna 1,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,June
+02001,Comuna 1,02,CABA,2020,Dengue,5,De 10 A 14 Años,3.0,June
+02001,Comuna 1,02,CABA,2020,Dengue,6,De 15 a 24 años,2.0,June
+02001,Comuna 1,02,CABA,2020,Dengue,6,De 15 a 24 años,3.0,June
+02001,Comuna 1,02,CABA,2020,Dengue,7,De 25 A 34 Años,2.0,June
+02001,Comuna 1,02,CABA,2020,Dengue,8,De 35 A 44 Años,4.0,June
+02001,Comuna 1,02,CABA,2020,Dengue,10,Mayor a 65 años,9.0,June
+02001,Comuna 1,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,June
+02001,Comuna 1,02,CABA,2020,Dengue,7,De 25 A 34 Años,1.0,June
+02001,Comuna 1,02,CABA,2020,Dengue,8,De 35 A 44 Años,2.0,June
+02001,Comuna 1,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,June
+02001,Comuna 1,02,CABA,2020,Dengue,4,De 5 A 9 Años,1.0,June
+02001,Comuna 1,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,June
+02001,Comuna 1,02,CABA,2020,Dengue,5,De 10 A 14 Años,1.0,June
+02001,Comuna 1,02,CABA,2020,Dengue,6,De 15 a 24 años,1.0,June
+02001,Comuna 1,02,CABA,2020,Dengue,6,De 15 a 24 años,1.0,June
+02001,Comuna 1,02,CABA,2020,Dengue,10,Mayor a 65 años,3.0,June
+02001,Comuna 1,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,July
+02001,Comuna 1,02,CABA,2020,Dengue,7,De 25 A 34 Años,1.0,August
+02001,Comuna 1,02,CABA,2020,Dengue,10,Mayor a 65 años,2.0,August
+02001,Comuna 1,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,October
+02001,Comuna 1,02,CABA,2020,Dengue,6,De 15 a 24 años,1.0,October
+02001,Comuna 1,02,CABA,2020,Dengue,8,De 35 A 44 Años,1.0,November
+02001,Comuna 1,02,CABA,2020,Dengue,6,De 15 a 24 años,1.0,December
+02001,Comuna 1,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,December
+02001,,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,March
+02002,Comuna 2,02,CABA,2020,Dengue,6,De 15 a 24 años,1.0,February
+02002,Comuna 2,02,CABA,2020,Dengue,7,De 25 A 34 Años,1.0,February
+02002,Comuna 2,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,February
+02002,Comuna 2,02,CABA,2020,Dengue,7,De 25 A 34 Años,3.0,March
+02002,Comuna 2,02,CABA,2020,Dengue,8,De 35 A 44 Años,1.0,March
+02002,Comuna 2,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,March
+02002,Comuna 2,02,CABA,2020,Dengue,6,De 15 a 24 años,1.0,March
+02002,Comuna 2,02,CABA,2020,Dengue,8,De 35 A 44 Años,1.0,March
+02002,Comuna 2,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,March
+02002,Comuna 2,02,CABA,2020,Dengue,7,De 25 A 34 Años,2.0,March
+02002,Comuna 2,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,March
+02002,Comuna 2,02,CABA,2020,Dengue,8,De 35 A 44 Años,1.0,April
+02002,Comuna 2,02,CABA,2020,Dengue,7,De 25 A 34 Años,1.0,April
+02002,Comuna 2,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,April
+02002,Comuna 2,02,CABA,2020,Dengue,8,De 35 A 44 Años,1.0,April
+02002,Comuna 2,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,May
+02002,Comuna 2,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,May
+02002,Comuna 2,02,CABA,2020,Dengue,10,Mayor a 65 años,2.0,May
+02002,Comuna 2,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,June
+02002,Comuna 2,02,CABA,2020,Dengue,7,De 25 A 34 Años,1.0,June
+02002,Comuna 2,02,CABA,2020,Dengue,7,De 25 A 34 Años,1.0,December
+02002,Comuna 2,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,January
+02003,Comuna 3,02,CABA,2020,Dengue,7,De 25 A 34 Años,1.0,January
+02003,Comuna 3,02,CABA,2020,Dengue,7,De 25 A 34 Años,1.0,February
+02003,Comuna 3,02,CABA,2020,Dengue,7,De 25 A 34 Años,1.0,February
+02003,Comuna 3,02,CABA,2020,Dengue,10,Mayor a 65 años,2.0,February
+02003,Comuna 3,02,CABA,2020,Dengue,7,De 25 A 34 Años,1.0,March
+02003,Comuna 3,02,CABA,2020,Dengue,8,De 35 A 44 Años,1.0,March
+02003,Comuna 3,02,CABA,2020,Dengue,4,De 5 A 9 Años,1.0,March
+02003,Comuna 3,02,CABA,2020,Dengue,6,De 15 a 24 años,1.0,March
+02003,Comuna 3,02,CABA,2020,Dengue,7,De 25 A 34 Años,3.0,March
+02003,Comuna 3,02,CABA,2020,Dengue,8,De 35 A 44 Años,2.0,March
+02003,Comuna 3,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,March
+02003,Comuna 3,02,CABA,2020,Dengue,6,De 15 a 24 años,1.0,March
+02003,Comuna 3,02,CABA,2020,Dengue,7,De 25 A 34 Años,2.0,March
+02003,Comuna 3,02,CABA,2020,Dengue,8,De 35 A 44 Años,3.0,March
+02003,Comuna 3,02,CABA,2020,Dengue,10,Mayor a 65 años,2.0,March
+02003,Comuna 3,02,CABA,2020,Dengue,4,De 5 A 9 Años,1.0,March
+02003,Comuna 3,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,March
+02003,Comuna 3,02,CABA,2020,Dengue,6,De 15 a 24 años,2.0,March
+02003,Comuna 3,02,CABA,2020,Dengue,7,De 25 A 34 Años,1.0,March
+02003,Comuna 3,02,CABA,2020,Dengue,8,De 35 A 44 Años,2.0,March
+02003,Comuna 3,02,CABA,2020,Dengue,10,Mayor a 65 años,2.0,March
+02003,Comuna 3,02,CABA,2020,Dengue,6,De 15 a 24 años,1.0,April
+02003,Comuna 3,02,CABA,2020,Dengue,7,De 25 A 34 Años,4.0,April
+02003,Comuna 3,02,CABA,2020,Dengue,5,De 10 A 14 Años,1.0,April
+02003,Comuna 3,02,CABA,2020,Dengue,6,De 15 a 24 años,1.0,April
+02003,Comuna 3,02,CABA,2020,Dengue,6,De 15 a 24 años,1.0,April
+02003,Comuna 3,02,CABA,2020,Dengue,7,De 25 A 34 Años,2.0,April
+02003,Comuna 3,02,CABA,2020,Dengue,6,De 15 a 24 años,1.0,April
+02003,Comuna 3,02,CABA,2020,Dengue,7,De 25 A 34 Años,4.0,April
+02003,Comuna 3,02,CABA,2020,Dengue,8,De 35 A 44 Años,2.0,April
+02003,Comuna 3,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,April
+02003,Comuna 3,02,CABA,2020,Dengue,5,De 10 A 14 Años,1.0,April
+02003,Comuna 3,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,April
+02003,Comuna 3,02,CABA,2020,Dengue,8,De 35 A 44 Años,2.0,May
+02003,Comuna 3,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,May
+02003,Comuna 3,02,CABA,2020,Dengue,7,De 25 A 34 Años,1.0,May
+02004,Comuna 4,02,CABA,2020,Dengue,8,De 35 A 44 Años,1.0,January
+02004,Comuna 4,02,CABA,2020,Dengue,7,De 25 A 34 Años,1.0,January
+02004,Comuna 4,02,CABA,2020,Dengue,8,De 35 A 44 Años,1.0,January
+02004,Comuna 4,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,January
+02004,Comuna 4,02,CABA,2020,Dengue,7,De 25 A 34 Años,1.0,February
+02004,Comuna 4,02,CABA,2020,Dengue,7,De 25 A 34 Años,3.0,February
+02004,Comuna 4,02,CABA,2020,Dengue,8,De 35 A 44 Años,1.0,February
+02004,Comuna 4,02,CABA,2020,Dengue,10,Mayor a 65 años,4.0,February
+02004,Comuna 4,02,CABA,2020,Dengue,5,De 10 A 14 Años,1.0,February
+02004,Comuna 4,02,CABA,2020,Dengue,6,De 15 a 24 años,1.0,February
+02004,Comuna 4,02,CABA,2020,Dengue,7,De 25 A 34 Años,3.0,February
+02004,Comuna 4,02,CABA,2020,Dengue,10,Mayor a 65 años,7.0,February
+02004,Comuna 4,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,February
+02004,Comuna 4,02,CABA,2020,Dengue,5,De 10 A 14 Años,4.0,February
+02004,Comuna 4,02,CABA,2020,Dengue,6,De 15 a 24 años,1.0,February
+02004,Comuna 4,02,CABA,2020,Dengue,6,De 15 a 24 años,2.0,February
+02004,Comuna 4,02,CABA,2020,Dengue,7,De 25 A 34 Años,3.0,February
+02004,Comuna 4,02,CABA,2020,Dengue,8,De 35 A 44 Años,6.0,February
+02004,Comuna 4,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,February
+02004,Comuna 4,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,February
+02004,Comuna 4,02,CABA,2020,Dengue,6,De 15 a 24 años,1.0,March
+02004,Comuna 4,02,CABA,2020,Dengue,6,De 15 a 24 años,1.0,March
+02004,Comuna 4,02,CABA,2020,Dengue,7,De 25 A 34 Años,5.0,March
+02004,Comuna 4,02,CABA,2020,Dengue,8,De 35 A 44 Años,7.0,March
+02004,Comuna 4,02,CABA,2020,Dengue,10,Mayor a 65 años,4.0,March
+02004,Comuna 4,02,CABA,2020,Dengue,5,De 10 A 14 Años,3.0,March
+02004,Comuna 4,02,CABA,2020,Dengue,6,De 15 a 24 años,5.0,March
+02004,Comuna 4,02,CABA,2020,Dengue,3,De 2 A 4 Años,1.0,March
+02004,Comuna 4,02,CABA,2020,Dengue,6,De 15 a 24 años,8.0,March
+02004,Comuna 4,02,CABA,2020,Dengue,7,De 25 A 34 Años,12.0,March
+02004,Comuna 4,02,CABA,2020,Dengue,8,De 35 A 44 Años,7.0,March
+02004,Comuna 4,02,CABA,2020,Dengue,10,Mayor a 65 años,5.0,March
+02004,Comuna 4,02,CABA,2020,Dengue,4,De 5 A 9 Años,3.0,March
+02004,Comuna 4,02,CABA,2020,Dengue,10,Mayor a 65 años,2.0,March
+02004,Comuna 4,02,CABA,2020,Dengue,5,De 10 A 14 Años,9.0,March
+02004,Comuna 4,02,CABA,2020,Dengue,6,De 15 a 24 años,4.0,March
+02004,Comuna 4,02,CABA,2020,Dengue,3,De 2 A 4 Años,1.0,March
+02004,Comuna 4,02,CABA,2020,Dengue,6,De 15 a 24 años,13.0,March
+02004,Comuna 4,02,CABA,2020,Dengue,7,De 25 A 34 Años,30.0,March
+02004,Comuna 4,02,CABA,2020,Dengue,8,De 35 A 44 Años,16.0,March
+02004,Comuna 4,02,CABA,2020,Dengue,10,Mayor a 65 años,10.0,March
+02004,Comuna 4,02,CABA,2020,Dengue,4,De 5 A 9 Años,5.0,March
+02004,Comuna 4,02,CABA,2020,Dengue,10,Mayor a 65 años,4.0,March
+02004,Comuna 4,02,CABA,2020,Dengue,5,De 10 A 14 Años,6.0,March
+02004,Comuna 4,02,CABA,2020,Dengue,6,De 15 a 24 años,5.0,March
+02004,Comuna 4,02,CABA,2020,Dengue,3,De 2 A 4 Años,1.0,March
+02004,Comuna 4,02,CABA,2020,Dengue,6,De 15 a 24 años,8.0,March
+02004,Comuna 4,02,CABA,2020,Dengue,7,De 25 A 34 Años,18.0,March
+02004,Comuna 4,02,CABA,2020,Dengue,8,De 35 A 44 Años,19.0,March
+02004,Comuna 4,02,CABA,2020,Dengue,10,Mayor a 65 años,11.0,March
+02004,Comuna 4,02,CABA,2020,Dengue,4,De 5 A 9 Años,2.0,March
+02004,Comuna 4,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,March
+02004,Comuna 4,02,CABA,2020,Dengue,5,De 10 A 14 Años,4.0,April
+02004,Comuna 4,02,CABA,2020,Dengue,6,De 15 a 24 años,2.0,April
+02004,Comuna 4,02,CABA,2020,Dengue,6,De 15 a 24 años,3.0,April
+02004,Comuna 4,02,CABA,2020,Dengue,7,De 25 A 34 Años,18.0,April
+02004,Comuna 4,02,CABA,2020,Dengue,8,De 35 A 44 Años,4.0,April
+02004,Comuna 4,02,CABA,2020,Dengue,10,Mayor a 65 años,5.0,April
+02004,Comuna 4,02,CABA,2020,Dengue,4,De 5 A 9 Años,3.0,April
+02004,Comuna 4,02,CABA,2020,Dengue,10,Mayor a 65 años,3.0,April
+02004,Comuna 4,02,CABA,2020,Dengue,5,De 10 A 14 Años,6.0,April
+02004,Comuna 4,02,CABA,2020,Dengue,6,De 15 a 24 años,3.0,April
+02004,Comuna 4,02,CABA,2020,Dengue,6,De 15 a 24 años,7.0,April
+02004,Comuna 4,02,CABA,2020,Dengue,7,De 25 A 34 Años,21.0,April
+02004,Comuna 4,02,CABA,2020,Dengue,8,De 35 A 44 Años,12.0,April
+02004,Comuna 4,02,CABA,2020,Dengue,10,Mayor a 65 años,19.0,April
+02004,Comuna 4,02,CABA,2020,Dengue,4,De 5 A 9 Años,4.0,April
+02004,Comuna 4,02,CABA,2020,Dengue,10,Mayor a 65 años,2.0,April
+02004,Comuna 4,02,CABA,2020,Dengue,5,De 10 A 14 Años,1.0,April
+02004,Comuna 4,02,CABA,2020,Dengue,6,De 15 a 24 años,7.0,April
+02004,Comuna 4,02,CABA,2020,Dengue,6,De 15 a 24 años,10.0,April
+02004,Comuna 4,02,CABA,2020,Dengue,7,De 25 A 34 Años,23.0,April
+02004,Comuna 4,02,CABA,2020,Dengue,8,De 35 A 44 Años,9.0,April
+02004,Comuna 4,02,CABA,2020,Dengue,10,Mayor a 65 años,12.0,April
+02004,Comuna 4,02,CABA,2020,Dengue,4,De 5 A 9 Años,2.0,April
+02004,Comuna 4,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,April
+02004,Comuna 4,02,CABA,2020,Dengue,5,De 10 A 14 Años,1.0,April
+02004,Comuna 4,02,CABA,2020,Dengue,6,De 15 a 24 años,4.0,April
+02004,Comuna 4,02,CABA,2020,Dengue,6,De 15 a 24 años,5.0,April
+02004,Comuna 4,02,CABA,2020,Dengue,7,De 25 A 34 Años,6.0,April
+02004,Comuna 4,02,CABA,2020,Dengue,8,De 35 A 44 Años,5.0,April
+02004,Comuna 4,02,CABA,2020,Dengue,10,Mayor a 65 años,5.0,April
+02004,Comuna 4,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,April
+02004,Comuna 4,02,CABA,2020,Dengue,3,1 a 2 años,1.0,May
+02004,Comuna 4,02,CABA,2020,Dengue,6,De 15 a 24 años,3.0,May
+02004,Comuna 4,02,CABA,2020,Dengue,3,De 2 A 4 Años,1.0,May
+02004,Comuna 4,02,CABA,2020,Dengue,6,De 15 a 24 años,4.0,May
+02004,Comuna 4,02,CABA,2020,Dengue,7,De 25 A 34 Años,4.0,May
+02004,Comuna 4,02,CABA,2020,Dengue,8,De 35 A 44 Años,2.0,May
+02004,Comuna 4,02,CABA,2020,Dengue,10,Mayor a 65 años,8.0,May
+02004,Comuna 4,02,CABA,2020,Dengue,4,De 5 A 9 Años,2.0,May
+02004,Comuna 4,02,CABA,2020,Dengue,6,De 15 a 24 años,2.0,May
+02004,Comuna 4,02,CABA,2020,Dengue,7,De 25 A 34 Años,4.0,May
+02004,Comuna 4,02,CABA,2020,Dengue,8,De 35 A 44 Años,3.0,May
+02004,Comuna 4,02,CABA,2020,Dengue,10,Mayor a 65 años,3.0,May
+02004,Comuna 4,02,CABA,2020,Dengue,6,De 15 a 24 años,1.0,May
+02004,Comuna 4,02,CABA,2020,Dengue,6,De 15 a 24 años,1.0,May
+02004,Comuna 4,02,CABA,2020,Dengue,7,De 25 A 34 Años,2.0,May
+02004,Comuna 4,02,CABA,2020,Dengue,8,De 35 A 44 Años,4.0,May
+02004,Comuna 4,02,CABA,2020,Dengue,10,Mayor a 65 años,2.0,May
+02004,Comuna 4,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,May
+02004,Comuna 4,02,CABA,2020,Dengue,5,De 10 A 14 Años,2.0,May
+02004,Comuna 4,02,CABA,2020,Dengue,6,De 15 a 24 años,1.0,May
+02004,Comuna 4,02,CABA,2020,Dengue,7,De 25 A 34 Años,1.0,May
+02004,Comuna 4,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,June
+02005,Comuna 5,02,CABA,2020,Dengue,8,De 35 A 44 Años,1.0,February
+02005,Comuna 5,02,CABA,2020,Dengue,10,Mayor a 65 años,2.0,February
+02005,Comuna 5,02,CABA,2020,Dengue,6,De 15 a 24 años,1.0,February
+02005,Comuna 5,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,February
+02005,Comuna 5,02,CABA,2020,Dengue,6,De 15 a 24 años,1.0,March
+02005,Comuna 5,02,CABA,2020,Dengue,7,De 25 A 34 Años,1.0,March
+02005,Comuna 5,02,CABA,2020,Dengue,8,De 35 A 44 Años,1.0,March
+02005,Comuna 5,02,CABA,2020,Dengue,10,Mayor a 65 años,2.0,March
+02005,Comuna 5,02,CABA,2020,Dengue,6,De 15 a 24 años,1.0,March
+02005,Comuna 5,02,CABA,2020,Dengue,6,De 15 a 24 años,1.0,March
+02005,Comuna 5,02,CABA,2020,Dengue,7,De 25 A 34 Años,3.0,March
+02005,Comuna 5,02,CABA,2020,Dengue,8,De 35 A 44 Años,2.0,March
+02005,Comuna 5,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,March
+02005,Comuna 5,02,CABA,2020,Dengue,6,De 15 a 24 años,1.0,March
+02005,Comuna 5,02,CABA,2020,Dengue,8,De 35 A 44 Años,1.0,March
+02005,Comuna 5,02,CABA,2020,Dengue,10,Mayor a 65 años,3.0,March
+02005,Comuna 5,02,CABA,2020,Dengue,7,De 25 A 34 Años,1.0,March
+02005,Comuna 5,02,CABA,2020,Dengue,4,De 5 A 9 Años,1.0,March
+02005,Comuna 5,02,CABA,2020,Dengue,6,De 15 a 24 años,1.0,April
+02005,Comuna 5,02,CABA,2020,Dengue,8,De 35 A 44 Años,1.0,April
+02005,Comuna 5,02,CABA,2020,Dengue,10,Mayor a 65 años,2.0,April
+02005,Comuna 5,02,CABA,2020,Dengue,7,De 25 A 34 Años,3.0,April
+02005,Comuna 5,02,CABA,2020,Dengue,10,Mayor a 65 años,2.0,April
+02005,Comuna 5,02,CABA,2020,Dengue,6,De 15 a 24 años,2.0,April
+02005,Comuna 5,02,CABA,2020,Dengue,7,De 25 A 34 Años,3.0,April
+02005,Comuna 5,02,CABA,2020,Dengue,8,De 35 A 44 Años,2.0,April
+02005,Comuna 5,02,CABA,2020,Dengue,8,De 35 A 44 Años,1.0,April
+02005,Comuna 5,02,CABA,2020,Dengue,4,De 5 A 9 Años,1.0,April
+02005,Comuna 5,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,April
+02005,Comuna 5,02,CABA,2020,Dengue,7,De 25 A 34 Años,4.0,May
+02005,Comuna 5,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,May
+02005,Comuna 5,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,May
+02005,Comuna 5,02,CABA,2020,Dengue,7,De 25 A 34 Años,1.0,May
+02006,Comuna 6,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,February
+02006,Comuna 6,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,February
+02006,Comuna 6,02,CABA,2020,Dengue,6,De 15 a 24 años,1.0,March
+02006,Comuna 6,02,CABA,2020,Dengue,8,De 35 A 44 Años,1.0,March
+02006,Comuna 6,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,March
+02006,Comuna 6,02,CABA,2020,Dengue,7,De 25 A 34 Años,1.0,March
+02006,Comuna 6,02,CABA,2020,Dengue,8,De 35 A 44 Años,1.0,March
+02006,Comuna 6,02,CABA,2020,Dengue,10,Mayor a 65 años,6.0,March
+02006,Comuna 6,02,CABA,2020,Dengue,6,De 15 a 24 años,1.0,March
+02006,Comuna 6,02,CABA,2020,Dengue,7,De 25 A 34 Años,1.0,March
+02006,Comuna 6,02,CABA,2020,Dengue,7,De 25 A 34 Años,1.0,March
+02006,Comuna 6,02,CABA,2020,Dengue,7,De 25 A 34 Años,1.0,April
+02006,Comuna 6,02,CABA,2020,Dengue,6,De 15 a 24 años,1.0,April
+02006,Comuna 6,02,CABA,2020,Dengue,7,De 25 A 34 Años,3.0,April
+02006,Comuna 6,02,CABA,2020,Dengue,8,De 35 A 44 Años,1.0,April
+02006,Comuna 6,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,April
+02006,Comuna 6,02,CABA,2020,Dengue,6,De 15 a 24 años,1.0,April
+02006,Comuna 6,02,CABA,2020,Dengue,7,De 25 A 34 Años,1.0,April
+02006,Comuna 6,02,CABA,2020,Dengue,8,De 35 A 44 Años,1.0,April
+02006,Comuna 6,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,April
+02006,Comuna 6,02,CABA,2020,Dengue,5,De 10 A 14 Años,1.0,April
+02006,Comuna 6,02,CABA,2020,Dengue,6,De 15 a 24 años,1.0,April
+02006,Comuna 6,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,April
+02006,Comuna 6,02,CABA,2020,Dengue,6,De 15 a 24 años,1.0,May
+02006,Comuna 6,02,CABA,2020,Dengue,6,De 15 a 24 años,2.0,May
+02006,Comuna 6,02,CABA,2020,Dengue,7,De 25 A 34 Años,2.0,May
+02006,Comuna 6,02,CABA,2020,Dengue,8,De 35 A 44 Años,1.0,May
+02006,Comuna 6,02,CABA,2020,Dengue,7,De 25 A 34 Años,1.0,May
+02006,Comuna 6,02,CABA,2020,Dengue,8,De 35 A 44 Años,1.0,May
+02006,Comuna 6,02,CABA,2020,Dengue,6,De 15 a 24 años,1.0,June
+02007,Comuna 7,02,CABA,2020,Dengue,8,De 35 A 44 Años,1.0,March
+02007,Comuna 7,02,CABA,2020,Dengue,7,De 25 A 34 Años,1.0,March
+02007,Comuna 7,02,CABA,2020,Dengue,8,De 35 A 44 Años,1.0,July
+02007,,02,CABA,2020,Dengue,7,De 25 A 34 Años,2.0,March
+02007,,02,CABA,2020,Dengue,8,De 35 A 44 Años,1.0,March
+02007,,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,March
+02007,,02,CABA,2020,Dengue,8,De 35 A 44 Años,1.0,March
+02007,,02,CABA,2020,Dengue,7,De 25 A 34 Años,1.0,April
+02007,,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,April
+02007,,02,CABA,2020,Dengue,7,De 25 A 34 Años,1.0,April
+02007,,02,CABA,2020,Dengue,8,De 35 A 44 Años,1.0,April
+02007,,02,CABA,2020,Dengue,7,De 25 A 34 Años,1.0,May
+02007,,02,CABA,2020,Dengue,7,De 25 A 34 Años,1.0,May
+02007,Comuna 7,02,CABA,2020,Dengue,7,De 25 A 34 Años,1.0,January
+02007,Comuna 7,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,January
+02007,Comuna 7,02,CABA,2020,Dengue,6,De 15 a 24 años,1.0,February
+02007,Comuna 7,02,CABA,2020,Dengue,8,De 35 A 44 Años,1.0,February
+02007,Comuna 7,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,February
+02007,Comuna 7,02,CABA,2020,Dengue,6,De 15 a 24 años,1.0,February
+02007,Comuna 7,02,CABA,2020,Dengue,3,De 2 A 4 Años,1.0,February
+02007,Comuna 7,02,CABA,2020,Dengue,6,De 15 a 24 años,1.0,February
+02007,Comuna 7,02,CABA,2020,Dengue,7,De 25 A 34 Años,5.0,February
+02007,Comuna 7,02,CABA,2020,Dengue,8,De 35 A 44 Años,2.0,February
+02007,Comuna 7,02,CABA,2020,Dengue,10,Mayor a 65 años,6.0,February
+02007,Comuna 7,02,CABA,2020,Dengue,4,De 5 A 9 Años,1.0,February
+02007,Comuna 7,02,CABA,2020,Dengue,10,Mayor a 65 años,3.0,February
+02007,Comuna 7,02,CABA,2020,Dengue,5,De 10 A 14 Años,2.0,February
+02007,Comuna 7,02,CABA,2020,Dengue,6,De 15 a 24 años,2.0,February
+02007,Comuna 7,02,CABA,2020,Dengue,6,De 15 a 24 años,3.0,February
+02007,Comuna 7,02,CABA,2020,Dengue,7,De 25 A 34 Años,6.0,February
+02007,Comuna 7,02,CABA,2020,Dengue,8,De 35 A 44 Años,4.0,February
+02007,Comuna 7,02,CABA,2020,Dengue,10,Mayor a 65 años,9.0,February
+02007,Comuna 7,02,CABA,2020,Dengue,4,De 5 A 9 Años,1.0,February
+02007,Comuna 7,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,February
+02007,Comuna 7,02,CABA,2020,Dengue,5,De 10 A 14 Años,1.0,March
+02007,Comuna 7,02,CABA,2020,Dengue,6,De 15 a 24 años,2.0,March
+02007,Comuna 7,02,CABA,2020,Dengue,6,De 15 a 24 años,4.0,March
+02007,Comuna 7,02,CABA,2020,Dengue,7,De 25 A 34 Años,8.0,March
+02007,Comuna 7,02,CABA,2020,Dengue,8,De 35 A 44 Años,3.0,March
+02007,Comuna 7,02,CABA,2020,Dengue,10,Mayor a 65 años,8.0,March
+02007,Comuna 7,02,CABA,2020,Dengue,10,Mayor a 65 años,2.0,March
+02007,Comuna 7,02,CABA,2020,Dengue,5,De 10 A 14 Años,3.0,March
+02007,Comuna 7,02,CABA,2020,Dengue,6,De 15 a 24 años,11.0,March
+02007,Comuna 7,02,CABA,2020,Dengue,3,De 2 A 4 Años,2.0,March
+02007,Comuna 7,02,CABA,2020,Dengue,6,De 15 a 24 años,8.0,March
+02007,Comuna 7,02,CABA,2020,Dengue,7,De 25 A 34 Años,17.0,March
+02007,Comuna 7,02,CABA,2020,Dengue,8,De 35 A 44 Años,14.0,March
+02007,Comuna 7,02,CABA,2020,Dengue,10,Mayor a 65 años,16.0,March
+02007,Comuna 7,02,CABA,2020,Dengue,4,De 5 A 9 Años,4.0,March
+02007,Comuna 7,02,CABA,2020,Dengue,10,Mayor a 65 años,11.0,March
+02007,Comuna 7,02,CABA,2020,Dengue,5,De 10 A 14 Años,14.0,March
+02007,Comuna 7,02,CABA,2020,Dengue,6,De 15 a 24 años,11.0,March
+02007,Comuna 7,02,CABA,2020,Dengue,3,De 2 A 4 Años,2.0,March
+02007,Comuna 7,02,CABA,2020,Dengue,6,De 15 a 24 años,12.0,March
+02007,Comuna 7,02,CABA,2020,Dengue,7,De 25 A 34 Años,23.0,March
+02007,Comuna 7,02,CABA,2020,Dengue,8,De 35 A 44 Años,20.0,March
+02007,Comuna 7,02,CABA,2020,Dengue,10,Mayor a 65 años,21.0,March
+02007,Comuna 7,02,CABA,2020,Dengue,4,De 5 A 9 Años,4.0,March
+02007,Comuna 7,02,CABA,2020,Dengue,10,Mayor a 65 años,5.0,March
+02007,Comuna 7,02,CABA,2020,Dengue,5,De 10 A 14 Años,12.0,March
+02007,Comuna 7,02,CABA,2020,Dengue,6,De 15 a 24 años,10.0,March
+02007,Comuna 7,02,CABA,2020,Dengue,6,De 15 a 24 años,9.0,March
+02007,Comuna 7,02,CABA,2020,Dengue,7,De 25 A 34 Años,16.0,March
+02007,Comuna 7,02,CABA,2020,Dengue,8,De 35 A 44 Años,5.0,March
+02007,Comuna 7,02,CABA,2020,Dengue,10,Mayor a 65 años,19.0,March
+02007,Comuna 7,02,CABA,2020,Dengue,4,De 5 A 9 Años,5.0,March
+02007,Comuna 7,02,CABA,2020,Dengue,10,Mayor a 65 años,2.0,March
+02007,Comuna 7,02,CABA,2020,Dengue,5,De 10 A 14 Años,3.0,April
+02007,Comuna 7,02,CABA,2020,Dengue,3,1 a 2 años,1.0,April
+02007,Comuna 7,02,CABA,2020,Dengue,6,De 15 a 24 años,9.0,April
+02007,Comuna 7,02,CABA,2020,Dengue,3,De 2 A 4 Años,2.0,April
+02007,Comuna 7,02,CABA,2020,Dengue,6,De 15 a 24 años,8.0,April
+02007,Comuna 7,02,CABA,2020,Dengue,7,De 25 A 34 Años,17.0,April
+02007,Comuna 7,02,CABA,2020,Dengue,8,De 35 A 44 Años,14.0,April
+02007,Comuna 7,02,CABA,2020,Dengue,10,Mayor a 65 años,17.0,April
+02007,Comuna 7,02,CABA,2020,Dengue,4,De 5 A 9 Años,7.0,April
+02007,Comuna 7,02,CABA,2020,Dengue,10,Mayor a 65 años,3.0,April
+02007,Comuna 7,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,April
+02007,Comuna 7,02,CABA,2020,Dengue,5,De 10 A 14 Años,11.0,April
+02007,Comuna 7,02,CABA,2020,Dengue,6,De 15 a 24 años,7.0,April
+02007,Comuna 7,02,CABA,2020,Dengue,3,De 2 A 4 Años,2.0,April
+02007,Comuna 7,02,CABA,2020,Dengue,6,De 15 a 24 años,7.0,April
+02007,Comuna 7,02,CABA,2020,Dengue,7,De 25 A 34 Años,37.0,April
+02007,Comuna 7,02,CABA,2020,Dengue,8,De 35 A 44 Años,24.0,April
+02007,Comuna 7,02,CABA,2020,Dengue,10,Mayor a 65 años,33.0,April
+02007,Comuna 7,02,CABA,2020,Dengue,4,De 5 A 9 Años,6.0,April
+02007,Comuna 7,02,CABA,2020,Dengue,5,De 10 A 14 Años,7.0,April
+02007,Comuna 7,02,CABA,2020,Dengue,6,De 15 a 24 años,4.0,April
+02007,Comuna 7,02,CABA,2020,Dengue,6,De 15 a 24 años,13.0,April
+02007,Comuna 7,02,CABA,2020,Dengue,7,De 25 A 34 Años,29.0,April
+02007,Comuna 7,02,CABA,2020,Dengue,8,De 35 A 44 Años,23.0,April
+02007,Comuna 7,02,CABA,2020,Dengue,10,Mayor a 65 años,25.0,April
+02007,Comuna 7,02,CABA,2020,Dengue,4,De 5 A 9 Años,4.0,April
+02007,Comuna 7,02,CABA,2020,Dengue,10,Mayor a 65 años,4.0,April
+02007,Comuna 7,02,CABA,2020,Dengue,5,De 10 A 14 Años,10.0,April
+02007,Comuna 7,02,CABA,2020,Dengue,6,De 15 a 24 años,9.0,April
+02007,Comuna 7,02,CABA,2020,Dengue,6,De 15 a 24 años,14.0,April
+02007,Comuna 7,02,CABA,2020,Dengue,7,De 25 A 34 Años,26.0,April
+02007,Comuna 7,02,CABA,2020,Dengue,8,De 35 A 44 Años,16.0,April
+02007,Comuna 7,02,CABA,2020,Dengue,10,Mayor a 65 años,14.0,April
+02007,Comuna 7,02,CABA,2020,Dengue,4,De 5 A 9 Años,2.0,April
+02007,Comuna 7,02,CABA,2020,Dengue,10,Mayor a 65 años,2.0,April
+02007,Comuna 7,02,CABA,2020,Dengue,5,De 10 A 14 Años,9.0,May
+02007,Comuna 7,02,CABA,2020,Dengue,6,De 15 a 24 años,6.0,May
+02007,Comuna 7,02,CABA,2020,Dengue,3,De 2 A 4 Años,3.0,May
+02007,Comuna 7,02,CABA,2020,Dengue,6,De 15 a 24 años,6.0,May
+02007,Comuna 7,02,CABA,2020,Dengue,7,De 25 A 34 Años,12.0,May
+02007,Comuna 7,02,CABA,2020,Dengue,8,De 35 A 44 Años,10.0,May
+02007,Comuna 7,02,CABA,2020,Dengue,10,Mayor a 65 años,9.0,May
+02007,Comuna 7,02,CABA,2020,Dengue,4,De 5 A 9 Años,4.0,May
+02007,Comuna 7,02,CABA,2020,Dengue,10,Mayor a 65 años,4.0,May
+02007,Comuna 7,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,May
+02007,Comuna 7,02,CABA,2020,Dengue,5,De 10 A 14 Años,5.0,May
+02007,Comuna 7,02,CABA,2020,Dengue,6,De 15 a 24 años,4.0,May
+02007,Comuna 7,02,CABA,2020,Dengue,6,De 15 a 24 años,4.0,May
+02007,Comuna 7,02,CABA,2020,Dengue,7,De 25 A 34 Años,19.0,May
+02007,Comuna 7,02,CABA,2020,Dengue,8,De 35 A 44 Años,12.0,May
+02007,Comuna 7,02,CABA,2020,Dengue,10,Mayor a 65 años,15.0,May
+02007,Comuna 7,02,CABA,2020,Dengue,4,De 5 A 9 Años,2.0,May
+02007,Comuna 7,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,May
+02007,Comuna 7,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,May
+02007,Comuna 7,02,CABA,2020,Dengue,5,De 10 A 14 Años,1.0,May
+02007,Comuna 7,02,CABA,2020,Dengue,6,De 15 a 24 años,7.0,May
+02007,Comuna 7,02,CABA,2020,Dengue,7,De 25 A 34 Años,12.0,May
+02007,Comuna 7,02,CABA,2020,Dengue,8,De 35 A 44 Años,5.0,May
+02007,Comuna 7,02,CABA,2020,Dengue,10,Mayor a 65 años,2.0,May
+02007,Comuna 7,02,CABA,2020,Dengue,5,De 10 A 14 Años,1.0,May
+02007,Comuna 7,02,CABA,2020,Dengue,6,De 15 a 24 años,1.0,May
+02007,Comuna 7,02,CABA,2020,Dengue,6,De 15 a 24 años,1.0,May
+02007,Comuna 7,02,CABA,2020,Dengue,7,De 25 A 34 Años,2.0,May
+02007,Comuna 7,02,CABA,2020,Dengue,8,De 35 A 44 Años,6.0,May
+02007,Comuna 7,02,CABA,2020,Dengue,10,Mayor a 65 años,2.0,May
+02007,Comuna 7,02,CABA,2020,Dengue,7,De 25 A 34 Años,1.0,June
+02007,Comuna 7,02,CABA,2020,Dengue,6,De 15 a 24 años,1.0,February
+02007,,02,CABA,2020,Dengue,6,De 15 a 24 años,1.0,April
+02007,,02,CABA,2020,Dengue,7,De 25 A 34 Años,1.0,April
+02008,Comuna 8,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,January
+02008,Comuna 8,02,CABA,2020,Dengue,5,De 10 A 14 Años,2.0,February
+02008,Comuna 8,02,CABA,2020,Dengue,7,De 25 A 34 Años,1.0,February
+02008,Comuna 8,02,CABA,2020,Dengue,8,De 35 A 44 Años,1.0,February
+02008,Comuna 8,02,CABA,2020,Dengue,10,Mayor a 65 años,2.0,February
+02008,Comuna 8,02,CABA,2020,Dengue,6,De 15 a 24 años,1.0,February
+02008,Comuna 8,02,CABA,2020,Dengue,6,De 15 a 24 años,1.0,February
+02008,Comuna 8,02,CABA,2020,Dengue,7,De 25 A 34 Años,1.0,February
+02008,Comuna 8,02,CABA,2020,Dengue,8,De 35 A 44 Años,1.0,February
+02008,Comuna 8,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,February
+02008,Comuna 8,02,CABA,2020,Dengue,6,De 15 a 24 años,2.0,February
+02008,Comuna 8,02,CABA,2020,Dengue,7,De 25 A 34 Años,3.0,February
+02008,Comuna 8,02,CABA,2020,Dengue,8,De 35 A 44 Años,1.0,February
+02008,Comuna 8,02,CABA,2020,Dengue,10,Mayor a 65 años,4.0,February
+02008,Comuna 8,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,February
+02008,Comuna 8,02,CABA,2020,Dengue,5,De 10 A 14 Años,7.0,March
+02008,Comuna 8,02,CABA,2020,Dengue,6,De 15 a 24 años,2.0,March
+02008,Comuna 8,02,CABA,2020,Dengue,6,De 15 a 24 años,2.0,March
+02008,Comuna 8,02,CABA,2020,Dengue,7,De 25 A 34 Años,11.0,March
+02008,Comuna 8,02,CABA,2020,Dengue,8,De 35 A 44 Años,6.0,March
+02008,Comuna 8,02,CABA,2020,Dengue,10,Mayor a 65 años,4.0,March
+02008,Comuna 8,02,CABA,2020,Dengue,4,De 5 A 9 Años,1.0,March
+02008,Comuna 8,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,March
+02008,Comuna 8,02,CABA,2020,Dengue,5,De 10 A 14 Años,2.0,March
+02008,Comuna 8,02,CABA,2020,Dengue,6,De 15 a 24 años,7.0,March
+02008,Comuna 8,02,CABA,2020,Dengue,3,De 2 A 4 Años,1.0,March
+02008,Comuna 8,02,CABA,2020,Dengue,6,De 15 a 24 años,9.0,March
+02008,Comuna 8,02,CABA,2020,Dengue,7,De 25 A 34 Años,7.0,March
+02008,Comuna 8,02,CABA,2020,Dengue,8,De 35 A 44 Años,9.0,March
+02008,Comuna 8,02,CABA,2020,Dengue,4,De 5 A 9 Años,1.0,March
+02008,Comuna 8,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,March
+02008,Comuna 8,02,CABA,2020,Dengue,5,De 10 A 14 Años,14.0,March
+02008,Comuna 8,02,CABA,2020,Dengue,6,De 15 a 24 años,6.0,March
+02008,Comuna 8,02,CABA,2020,Dengue,6,De 15 a 24 años,15.0,March
+02008,Comuna 8,02,CABA,2020,Dengue,7,De 25 A 34 Años,20.0,March
+02008,Comuna 8,02,CABA,2020,Dengue,8,De 35 A 44 Años,16.0,March
+02008,Comuna 8,02,CABA,2020,Dengue,10,Mayor a 65 años,19.0,March
+02008,Comuna 8,02,CABA,2020,Dengue,4,De 5 A 9 Años,8.0,March
+02008,Comuna 8,02,CABA,2020,Dengue,10,Mayor a 65 años,2.0,March
+02008,Comuna 8,02,CABA,2020,Dengue,5,De 10 A 14 Años,9.0,March
+02008,Comuna 8,02,CABA,2020,Dengue,6,De 15 a 24 años,6.0,March
+02008,Comuna 8,02,CABA,2020,Dengue,6,De 15 a 24 años,16.0,March
+02008,Comuna 8,02,CABA,2020,Dengue,7,De 25 A 34 Años,21.0,March
+02008,Comuna 8,02,CABA,2020,Dengue,8,De 35 A 44 Años,14.0,March
+02008,Comuna 8,02,CABA,2020,Dengue,10,Mayor a 65 años,5.0,March
+02008,Comuna 8,02,CABA,2020,Dengue,4,De 5 A 9 Años,9.0,March
+02008,Comuna 8,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,March
+02008,Comuna 8,02,CABA,2020,Dengue,5,De 10 A 14 Años,4.0,April
+02008,Comuna 8,02,CABA,2020,Dengue,6,De 15 a 24 años,10.0,April
+02008,Comuna 8,02,CABA,2020,Dengue,3,De 2 A 4 Años,1.0,April
+02008,Comuna 8,02,CABA,2020,Dengue,6,De 15 a 24 años,10.0,April
+02008,Comuna 8,02,CABA,2020,Dengue,7,De 25 A 34 Años,17.0,April
+02008,Comuna 8,02,CABA,2020,Dengue,8,De 35 A 44 Años,8.0,April
+02008,Comuna 8,02,CABA,2020,Dengue,10,Mayor a 65 años,9.0,April
+02008,Comuna 8,02,CABA,2020,Dengue,4,De 5 A 9 Años,3.0,April
+02008,Comuna 8,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,April
+02008,Comuna 8,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,April
+02008,Comuna 8,02,CABA,2020,Dengue,5,De 10 A 14 Años,5.0,April
+02008,Comuna 8,02,CABA,2020,Dengue,3,1 a 2 años,1.0,April
+02008,Comuna 8,02,CABA,2020,Dengue,6,De 15 a 24 años,5.0,April
+02008,Comuna 8,02,CABA,2020,Dengue,6,De 15 a 24 años,14.0,April
+02008,Comuna 8,02,CABA,2020,Dengue,7,De 25 A 34 Años,23.0,April
+02008,Comuna 8,02,CABA,2020,Dengue,8,De 35 A 44 Años,7.0,April
+02008,Comuna 8,02,CABA,2020,Dengue,10,Mayor a 65 años,13.0,April
+02008,Comuna 8,02,CABA,2020,Dengue,4,De 5 A 9 Años,4.0,April
+02008,Comuna 8,02,CABA,2020,Dengue,5,De 10 A 14 Años,2.0,April
+02008,Comuna 8,02,CABA,2020,Dengue,6,De 15 a 24 años,3.0,April
+02008,Comuna 8,02,CABA,2020,Dengue,6,De 15 a 24 años,9.0,April
+02008,Comuna 8,02,CABA,2020,Dengue,7,De 25 A 34 Años,9.0,April
+02008,Comuna 8,02,CABA,2020,Dengue,8,De 35 A 44 Años,11.0,April
+02008,Comuna 8,02,CABA,2020,Dengue,10,Mayor a 65 años,8.0,April
+02008,Comuna 8,02,CABA,2020,Dengue,4,De 5 A 9 Años,6.0,April
+02008,Comuna 8,02,CABA,2020,Dengue,5,De 10 A 14 Años,2.0,April
+02008,Comuna 8,02,CABA,2020,Dengue,3,1 a 2 años,1.0,April
+02008,Comuna 8,02,CABA,2020,Dengue,6,De 15 a 24 años,7.0,April
+02008,Comuna 8,02,CABA,2020,Dengue,6,De 15 a 24 años,3.0,April
+02008,Comuna 8,02,CABA,2020,Dengue,7,De 25 A 34 Años,16.0,April
+02008,Comuna 8,02,CABA,2020,Dengue,8,De 35 A 44 Años,8.0,April
+02008,Comuna 8,02,CABA,2020,Dengue,10,Mayor a 65 años,8.0,April
+02008,Comuna 8,02,CABA,2020,Dengue,4,De 5 A 9 Años,2.0,April
+02008,Comuna 8,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,April
+02008,Comuna 8,02,CABA,2020,Dengue,5,De 10 A 14 Años,1.0,May
+02008,Comuna 8,02,CABA,2020,Dengue,6,De 15 a 24 años,3.0,May
+02008,Comuna 8,02,CABA,2020,Dengue,6,De 15 a 24 años,3.0,May
+02008,Comuna 8,02,CABA,2020,Dengue,7,De 25 A 34 Años,10.0,May
+02008,Comuna 8,02,CABA,2020,Dengue,8,De 35 A 44 Años,6.0,May
+02008,Comuna 8,02,CABA,2020,Dengue,10,Mayor a 65 años,10.0,May
+02008,Comuna 8,02,CABA,2020,Dengue,4,De 5 A 9 Años,1.0,May
+02008,Comuna 8,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,May
+02008,Comuna 8,02,CABA,2020,Dengue,5,De 10 A 14 Años,4.0,May
+02008,Comuna 8,02,CABA,2020,Dengue,3,1 a 2 años,1.0,May
+02008,Comuna 8,02,CABA,2020,Dengue,6,De 15 a 24 años,3.0,May
+02008,Comuna 8,02,CABA,2020,Dengue,3,De 2 A 4 Años,1.0,May
+02008,Comuna 8,02,CABA,2020,Dengue,6,De 15 a 24 años,3.0,May
+02008,Comuna 8,02,CABA,2020,Dengue,7,De 25 A 34 Años,5.0,May
+02008,Comuna 8,02,CABA,2020,Dengue,8,De 35 A 44 Años,4.0,May
+02008,Comuna 8,02,CABA,2020,Dengue,10,Mayor a 65 años,3.0,May
+02008,Comuna 8,02,CABA,2020,Dengue,4,De 5 A 9 Años,2.0,May
+02008,Comuna 8,02,CABA,2020,Dengue,6,De 15 a 24 años,1.0,May
+02008,Comuna 8,02,CABA,2020,Dengue,6,De 15 a 24 años,3.0,May
+02008,Comuna 8,02,CABA,2020,Dengue,7,De 25 A 34 Años,3.0,May
+02008,Comuna 8,02,CABA,2020,Dengue,8,De 35 A 44 Años,2.0,May
+02008,Comuna 8,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,May
+02008,Comuna 8,02,CABA,2020,Dengue,6,De 15 a 24 años,2.0,May
+02008,Comuna 8,02,CABA,2020,Dengue,7,De 25 A 34 Años,2.0,May
+02008,Comuna 8,02,CABA,2020,Dengue,8,De 35 A 44 Años,1.0,May
+02008,Comuna 8,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,May
+02008,Comuna 8,02,CABA,2020,Dengue,7,De 25 A 34 Años,1.0,June
+02009,Comuna 9,02,CABA,2020,Dengue,5,De 10 A 14 Años,1.0,February
+02009,Comuna 9,02,CABA,2020,Dengue,6,De 15 a 24 años,1.0,February
+02009,Comuna 9,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,February
+02009,Comuna 9,02,CABA,2020,Dengue,6,De 15 a 24 años,1.0,February
+02009,Comuna 9,02,CABA,2020,Dengue,8,De 35 A 44 Años,1.0,February
+02009,Comuna 9,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,February
+02009,Comuna 9,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,February
+02009,Comuna 9,02,CABA,2020,Dengue,5,De 10 A 14 Años,1.0,February
+02009,Comuna 9,02,CABA,2020,Dengue,6,De 15 a 24 años,1.0,February
+02009,Comuna 9,02,CABA,2020,Dengue,7,De 25 A 34 Años,1.0,February
+02009,Comuna 9,02,CABA,2020,Dengue,8,De 35 A 44 Años,3.0,February
+02009,Comuna 9,02,CABA,2020,Dengue,10,Mayor a 65 años,5.0,February
+02009,Comuna 9,02,CABA,2020,Dengue,4,De 5 A 9 Años,1.0,February
+02009,Comuna 9,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,February
+02009,Comuna 9,02,CABA,2020,Dengue,5,De 10 A 14 Años,1.0,March
+02009,Comuna 9,02,CABA,2020,Dengue,6,De 15 a 24 años,1.0,March
+02009,Comuna 9,02,CABA,2020,Dengue,6,De 15 a 24 años,2.0,March
+02009,Comuna 9,02,CABA,2020,Dengue,7,De 25 A 34 Años,1.0,March
+02009,Comuna 9,02,CABA,2020,Dengue,8,De 35 A 44 Años,1.0,March
+02009,Comuna 9,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,March
+02009,Comuna 9,02,CABA,2020,Dengue,10,Mayor a 65 años,3.0,March
+02009,Comuna 9,02,CABA,2020,Dengue,5,De 10 A 14 Años,3.0,March
+02009,Comuna 9,02,CABA,2020,Dengue,6,De 15 a 24 años,7.0,March
+02009,Comuna 9,02,CABA,2020,Dengue,3,De 2 A 4 Años,2.0,March
+02009,Comuna 9,02,CABA,2020,Dengue,6,De 15 a 24 años,4.0,March
+02009,Comuna 9,02,CABA,2020,Dengue,7,De 25 A 34 Años,1.0,March
+02009,Comuna 9,02,CABA,2020,Dengue,8,De 35 A 44 Años,3.0,March
+02009,Comuna 9,02,CABA,2020,Dengue,10,Mayor a 65 años,9.0,March
+02009,Comuna 9,02,CABA,2020,Dengue,10,Mayor a 65 años,3.0,March
+02009,Comuna 9,02,CABA,2020,Dengue,5,De 10 A 14 Años,5.0,March
+02009,Comuna 9,02,CABA,2020,Dengue,6,De 15 a 24 años,5.0,March
+02009,Comuna 9,02,CABA,2020,Dengue,6,De 15 a 24 años,2.0,March
+02009,Comuna 9,02,CABA,2020,Dengue,7,De 25 A 34 Años,5.0,March
+02009,Comuna 9,02,CABA,2020,Dengue,8,De 35 A 44 Años,8.0,March
+02009,Comuna 9,02,CABA,2020,Dengue,10,Mayor a 65 años,12.0,March
+02009,Comuna 9,02,CABA,2020,Dengue,4,De 5 A 9 Años,4.0,March
+02009,Comuna 9,02,CABA,2020,Dengue,10,Mayor a 65 años,3.0,March
+02009,Comuna 9,02,CABA,2020,Dengue,5,De 10 A 14 Años,3.0,March
+02009,Comuna 9,02,CABA,2020,Dengue,6,De 15 a 24 años,1.0,March
+02009,Comuna 9,02,CABA,2020,Dengue,6,De 15 a 24 años,3.0,March
+02009,Comuna 9,02,CABA,2020,Dengue,7,De 25 A 34 Años,4.0,March
+02009,Comuna 9,02,CABA,2020,Dengue,8,De 35 A 44 Años,5.0,March
+02009,Comuna 9,02,CABA,2020,Dengue,10,Mayor a 65 años,5.0,March
+02009,Comuna 9,02,CABA,2020,Dengue,4,De 5 A 9 Años,1.0,March
+02009,Comuna 9,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,March
+02009,Comuna 9,02,CABA,2020,Dengue,5,De 10 A 14 Años,1.0,April
+02009,Comuna 9,02,CABA,2020,Dengue,6,De 15 a 24 años,1.0,April
+02009,Comuna 9,02,CABA,2020,Dengue,3,De 2 A 4 Años,1.0,April
+02009,Comuna 9,02,CABA,2020,Dengue,6,De 15 a 24 años,3.0,April
+02009,Comuna 9,02,CABA,2020,Dengue,8,De 35 A 44 Años,1.0,April
+02009,Comuna 9,02,CABA,2020,Dengue,10,Mayor a 65 años,4.0,April
+02009,Comuna 9,02,CABA,2020,Dengue,4,De 5 A 9 Años,2.0,April
+02009,Comuna 9,02,CABA,2020,Dengue,6,De 15 a 24 años,4.0,April
+02009,Comuna 9,02,CABA,2020,Dengue,3,De 2 A 4 Años,1.0,April
+02009,Comuna 9,02,CABA,2020,Dengue,6,De 15 a 24 años,5.0,April
+02009,Comuna 9,02,CABA,2020,Dengue,7,De 25 A 34 Años,4.0,April
+02009,Comuna 9,02,CABA,2020,Dengue,8,De 35 A 44 Años,2.0,April
+02009,Comuna 9,02,CABA,2020,Dengue,10,Mayor a 65 años,6.0,April
+02009,Comuna 9,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,April
+02009,Comuna 9,02,CABA,2020,Dengue,5,De 10 A 14 Años,3.0,April
+02009,Comuna 9,02,CABA,2020,Dengue,6,De 15 a 24 años,1.0,April
+02009,Comuna 9,02,CABA,2020,Dengue,6,De 15 a 24 años,1.0,April
+02009,Comuna 9,02,CABA,2020,Dengue,7,De 25 A 34 Años,7.0,April
+02009,Comuna 9,02,CABA,2020,Dengue,8,De 35 A 44 Años,3.0,April
+02009,Comuna 9,02,CABA,2020,Dengue,10,Mayor a 65 años,2.0,April
+02009,Comuna 9,02,CABA,2020,Dengue,4,De 5 A 9 Años,2.0,April
+02009,Comuna 9,02,CABA,2020,Dengue,5,De 10 A 14 Años,1.0,April
+02009,Comuna 9,02,CABA,2020,Dengue,6,De 15 a 24 años,1.0,April
+02009,Comuna 9,02,CABA,2020,Dengue,6,De 15 a 24 años,2.0,April
+02009,Comuna 9,02,CABA,2020,Dengue,7,De 25 A 34 Años,8.0,April
+02009,Comuna 9,02,CABA,2020,Dengue,8,De 35 A 44 Años,3.0,April
+02009,Comuna 9,02,CABA,2020,Dengue,10,Mayor a 65 años,5.0,April
+02009,Comuna 9,02,CABA,2020,Dengue,4,De 5 A 9 Años,1.0,April
+02009,Comuna 9,02,CABA,2020,Dengue,5,De 10 A 14 Años,1.0,May
+02009,Comuna 9,02,CABA,2020,Dengue,6,De 15 a 24 años,1.0,May
+02009,Comuna 9,02,CABA,2020,Dengue,6,De 15 a 24 años,1.0,May
+02009,Comuna 9,02,CABA,2020,Dengue,7,De 25 A 34 Años,4.0,May
+02009,Comuna 9,02,CABA,2020,Dengue,8,De 35 A 44 Años,3.0,May
+02009,Comuna 9,02,CABA,2020,Dengue,10,Mayor a 65 años,5.0,May
+02009,Comuna 9,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,May
+02009,Comuna 9,02,CABA,2020,Dengue,5,De 10 A 14 Años,1.0,May
+02009,Comuna 9,02,CABA,2020,Dengue,6,De 15 a 24 años,2.0,May
+02009,Comuna 9,02,CABA,2020,Dengue,6,De 15 a 24 años,2.0,May
+02009,Comuna 9,02,CABA,2020,Dengue,7,De 25 A 34 Años,3.0,May
+02009,Comuna 9,02,CABA,2020,Dengue,8,De 35 A 44 Años,1.0,May
+02009,Comuna 9,02,CABA,2020,Dengue,10,Mayor a 65 años,3.0,May
+02009,Comuna 9,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,May
+02009,Comuna 9,02,CABA,2020,Dengue,6,De 15 a 24 años,1.0,May
+02009,Comuna 9,02,CABA,2020,Dengue,7,De 25 A 34 Años,5.0,May
+02009,Comuna 9,02,CABA,2020,Dengue,8,De 35 A 44 Años,1.0,May
+02009,Comuna 9,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,May
+02009,Comuna 9,02,CABA,2020,Dengue,5,De 10 A 14 Años,1.0,May
+02009,Comuna 9,02,CABA,2020,Dengue,6,De 15 a 24 años,1.0,May
+02009,Comuna 9,02,CABA,2020,Dengue,8,De 35 A 44 Años,1.0,May
+02009,Comuna 9,02,CABA,2020,Dengue,7,De 25 A 34 Años,1.0,June
+02009,Comuna 9,02,CABA,2020,Dengue,10,Mayor a 65 años,1.0,June
+>>>>>>> 3e84150bc088a8f4befc3eb409e66a23d4a61e10
 02010,Comuna 10,02,CABA,2020,Dengue,6,De 15 a 24 años,3.0,February
 02010,Comuna 10,02,CABA,2020,Dengue,6,De 15 a 24 años,2.0,February
 02010,Comuna 10,02,CABA,2020,Dengue,6,De 15 a 24 años,1.0,February
@@ -12680,6 +13433,7 @@ id_depto,depto,prov_id,prov,año,evento,edad_id,edad_desc,cantidad,mes
 94014,Ushuaia,94,Tierra Del Fuego,2020,Dengue,10,Mayor a 65 años,1.0,March
 94014,Ushuaia,94,Tierra Del Fuego,2020,Dengue,8,De 35 A 44 Años,1.0,April
 00002,Comuna 1,02,CABA,2020,Dengue,6,De 15 a 24 años,1.0,March
+<<<<<<< HEAD
 66007,Anta,66,Salta,2020,Dengue,5,De 10 A 14 Años,1.0,January
 66007,Anta,66,Salta,2020,Dengue,7,De 25 A 34 Años,1.0,January
 66007,Anta,66,Salta,2020,Dengue,8,De 35 A 44 Años,1.0,January
@@ -13795,6 +14549,1176 @@ id_depto,depto,prov_id,prov,año,evento,edad_id,edad_desc,cantidad,mes
 22147,San Lorenzo,22,Chaco,2020,Dengue,10,Mayor a 65 años,2.0,June
 18168,Santo Tomé,18,Corrientes,2020,Dengue,7,De 25 A 34 Años,1.0,May
 18168,Santo Tomé,18,Corrientes,2020,Dengue,9,De 45 A 64 Años,1.0,May
+=======
+00000,,00,,2020,Dengue,0,Desconocido/Sin Especificar,1.0,February
+00000,,00,,2020,Dengue,8,De 35 A 44 Años,1.0,February
+00000,,00,,2020,Dengue,0,Desconocido/Sin Especificar,1.0,March
+00000,,00,,2020,Dengue,5,De 10 A 14 Años,1.0,May
+00000,,00,,2020,Dengue,8,De 35 A 44 Años,1.0,June
+00006,,06,Buenos Aires,2020,Dengue,7,De 25 A 34 Años,1.0,April
+00006,,06,Buenos Aires,2020,Dengue,8,De 35 A 44 Años,1.0,April
+00006,,06,Buenos Aires,2020,Dengue,10,Mayor a 65 años,1.0,April
+00006,,06,Buenos Aires,2020,Dengue,7,De 25 A 34 Años,2.0,April
+00014,,14,Córdoba,2020,Dengue,6,De 15 a 24 años,1.0,March
+00014,,14,Córdoba,2020,Dengue,6,De 15 a 24 años,1.0,March
+00014,,14,Córdoba,2020,Dengue,7,De 25 A 34 Años,2.0,April
+00014,,14,Córdoba,2020,Dengue,7,De 25 A 34 Años,1.0,April
+00014,,14,Córdoba,2020,Dengue,6,De 15 a 24 años,1.0,April
+00014,,14,Córdoba,2020,Dengue,7,De 25 A 34 Años,1.0,April
+00014,,14,Córdoba,2020,Dengue,10,Mayor a 65 años,1.0,May
+00014,,14,Córdoba,2020,Dengue,7,De 25 A 34 Años,1.0,May
+00014,,14,Córdoba,2020,Dengue,6,De 15 a 24 años,2.0,May
+00014,,14,Córdoba,2020,Dengue,7,De 25 A 34 Años,1.0,May
+00018,,18,Corrientes,2020,Dengue,3,De 2 A 4 Años,1.0,May
+00018,,18,Corrientes,2020,Dengue,3,De 2 A 4 Años,1.0,May
+00018,,18,Corrientes,2020,Dengue,10,Mayor a 65 años,1.0,June
+00030,,30,Entre Ríos,2020,Dengue,7,De 25 A 34 Años,1.0,February
+00030,,30,Entre Ríos,2020,Dengue,10,Mayor a 65 años,1.0,May
+00034,,34,Formosa,2020,Dengue,6,De 15 a 24 años,1.0,February
+00034,,34,Formosa,2020,Dengue,10,Mayor a 65 años,1.0,February
+00034,,34,Formosa,2020,Dengue,10,Mayor a 65 años,1.0,February
+00034,,34,Formosa,2020,Dengue,8,De 35 A 44 Años,1.0,March
+00034,,34,Formosa,2020,Dengue,10,Mayor a 65 años,1.0,March
+00034,,34,Formosa,2020,Dengue,8,De 35 A 44 Años,1.0,April
+00034,,34,Formosa,2020,Dengue,8,De 35 A 44 Años,1.0,April
+00034,,34,Formosa,2020,Dengue,10,Mayor a 65 años,1.0,May
+00034,,34,Formosa,2020,Dengue,10,Mayor a 65 años,1.0,June
+00034,,34,Formosa,2020,Dengue,6,De 15 a 24 años,1.0,June
+00034,,34,Formosa,2020,Dengue,5,De 10 A 14 Años,1.0,July
+00038,,38,Jujuy,2020,Dengue,8,De 35 A 44 Años,1.0,May
+00066,,66,Salta,2020,Dengue,7,De 25 A 34 Años,1.0,February
+00066,,66,Salta,2020,Dengue,10,Mayor a 65 años,1.0,February
+00066,,66,Salta,2020,Dengue,8,De 35 A 44 Años,1.0,March
+00066,,66,Salta,2020,Dengue,5,De 10 A 14 Años,1.0,March
+00066,,66,Salta,2020,Dengue,7,De 25 A 34 Años,1.0,March
+00066,,66,Salta,2020,Dengue,10,Mayor a 65 años,1.0,March
+00066,,66,Salta,2020,Dengue,7,De 25 A 34 Años,1.0,March
+00066,,66,Salta,2020,Dengue,6,De 15 a 24 años,2.0,April
+00066,,66,Salta,2020,Dengue,3,De 2 A 4 Años,1.0,April
+00066,,66,Salta,2020,Dengue,6,De 15 a 24 años,1.0,April
+00066,,66,Salta,2020,Dengue,7,De 25 A 34 Años,1.0,April
+00066,,66,Salta,2020,Dengue,8,De 35 A 44 Años,2.0,April
+00066,,66,Salta,2020,Dengue,10,Mayor a 65 años,1.0,April
+00066,,66,Salta,2020,Dengue,4,De 5 A 9 Años,1.0,April
+00066,,66,Salta,2020,Dengue,5,De 10 A 14 Años,1.0,May
+00066,,66,Salta,2020,Dengue,3,De 2 A 4 Años,1.0,May
+00090,,90,Tucumán,2020,Dengue,10,Mayor a 65 años,1.0,May
+66007,Anta,66,Salta,2020,Dengue ,5,De 10 A 14 Años,1.0,January
+66007,Anta,66,Salta,2020,Dengue ,7,De 25 A 34 Años,1.0,January
+66007,Anta,66,Salta,2020,Dengue ,8,De 35 A 44 Años,1.0,January
+66007,Anta,66,Salta,2020,Dengue ,6,De 15 a 24 años,1.0,February
+66007,Anta,66,Salta,2020,Dengue ,7,De 25 A 34 Años,1.0,February
+66007,Anta,66,Salta,2020,Dengue ,9,De 45 A 64 Años,2.0,February
+66007,Anta,66,Salta,2020,Dengue ,3,1 a 2 años,1.0,March
+66007,Anta,66,Salta,2020,Dengue ,4,De 5 A 9 Años,1.0,March
+66007,Anta,66,Salta,2020,Dengue ,5,De 10 A 14 Años,4.0,March
+66007,Anta,66,Salta,2020,Dengue ,6,De 15 a 24 años,5.0,March
+66007,Anta,66,Salta,2020,Dengue ,6,De 15 a 24 años,8.0,March
+66007,Anta,66,Salta,2020,Dengue ,7,De 25 A 34 Años,15.0,March
+66007,Anta,66,Salta,2020,Dengue ,8,De 35 A 44 Años,5.0,March
+66007,Anta,66,Salta,2020,Dengue ,9,De 45 A 64 Años,7.0,March
+66007,Anta,66,Salta,2020,Dengue ,10,Mayor a 65 años,2.0,March
+66007,Anta,66,Salta,2020,Dengue ,10,Mayor a 65 años,1.0,March
+66007,Anta,66,Salta,2020,Dengue ,4,De 5 A 9 Años,1.0,March
+66007,Anta,66,Salta,2020,Dengue ,5,De 10 A 14 Años,6.0,March
+66007,Anta,66,Salta,2020,Dengue ,6,De 15 a 24 años,7.0,March
+66007,Anta,66,Salta,2020,Dengue ,6,De 15 a 24 años,9.0,March
+66007,Anta,66,Salta,2020,Dengue ,7,De 25 A 34 Años,10.0,March
+66007,Anta,66,Salta,2020,Dengue ,8,De 35 A 44 Años,5.0,March
+66007,Anta,66,Salta,2020,Dengue ,9,De 45 A 64 Años,6.0,March
+66007,Anta,66,Salta,2020,Dengue ,10,Mayor a 65 años,3.0,March
+66007,Anta,66,Salta,2020,Dengue ,10,Mayor a 65 años,2.0,March
+66007,Anta,66,Salta,2020,Dengue ,3,De 2 A 4 Años,1.0,March
+66007,Anta,66,Salta,2020,Dengue ,4,De 5 A 9 Años,5.0,March
+66007,Anta,66,Salta,2020,Dengue ,5,De 10 A 14 Años,9.0,March
+66007,Anta,66,Salta,2020,Dengue ,6,De 15 a 24 años,10.0,March
+66007,Anta,66,Salta,2020,Dengue ,6,De 15 a 24 años,9.0,March
+66007,Anta,66,Salta,2020,Dengue ,7,De 25 A 34 Años,13.0,March
+66007,Anta,66,Salta,2020,Dengue ,8,De 35 A 44 Años,11.0,March
+66007,Anta,66,Salta,2020,Dengue ,9,De 45 A 64 Años,12.0,March
+66007,Anta,66,Salta,2020,Dengue ,10,Mayor a 65 años,1.0,March
+66007,Anta,66,Salta,2020,Dengue ,3,1 a 2 años,1.0,March
+66007,Anta,66,Salta,2020,Dengue ,3,De 2 A 4 Años,1.0,March
+66007,Anta,66,Salta,2020,Dengue ,4,De 5 A 9 Años,6.0,March
+66007,Anta,66,Salta,2020,Dengue ,5,De 10 A 14 Años,8.0,March
+66007,Anta,66,Salta,2020,Dengue ,6,De 15 a 24 años,8.0,March
+66007,Anta,66,Salta,2020,Dengue ,6,De 15 a 24 años,18.0,March
+66007,Anta,66,Salta,2020,Dengue ,7,De 25 A 34 Años,27.0,March
+66007,Anta,66,Salta,2020,Dengue ,8,De 35 A 44 Años,21.0,March
+66007,Anta,66,Salta,2020,Dengue ,9,De 45 A 64 Años,12.0,March
+66007,Anta,66,Salta,2020,Dengue ,10,Mayor a 65 años,1.0,March
+66007,Anta,66,Salta,2020,Dengue ,10,Mayor a 65 años,1.0,March
+66007,Anta,66,Salta,2020,Dengue ,3,1 a 2 años,3.0,April
+66007,Anta,66,Salta,2020,Dengue ,3,De 2 A 4 Años,4.0,April
+66007,Anta,66,Salta,2020,Dengue ,4,De 5 A 9 Años,10.0,April
+66007,Anta,66,Salta,2020,Dengue ,5,De 10 A 14 Años,19.0,April
+66007,Anta,66,Salta,2020,Dengue ,6,De 15 a 24 años,29.0,April
+66007,Anta,66,Salta,2020,Dengue ,6,De 15 a 24 años,30.0,April
+66007,Anta,66,Salta,2020,Dengue ,7,De 25 A 34 Años,39.0,April
+66007,Anta,66,Salta,2020,Dengue ,8,De 35 A 44 Años,38.0,April
+66007,Anta,66,Salta,2020,Dengue ,9,De 45 A 64 Años,33.0,April
+66007,Anta,66,Salta,2020,Dengue ,10,Mayor a 65 años,5.0,April
+66007,Anta,66,Salta,2020,Dengue ,10,Mayor a 65 años,3.0,April
+66007,Anta,66,Salta,2020,Dengue ,3,1 a 2 años,1.0,April
+66007,Anta,66,Salta,2020,Dengue ,3,De 2 A 4 Años,1.0,April
+66007,Anta,66,Salta,2020,Dengue ,4,De 5 A 9 Años,12.0,April
+66007,Anta,66,Salta,2020,Dengue ,5,De 10 A 14 Años,19.0,April
+66007,Anta,66,Salta,2020,Dengue ,6,De 15 a 24 años,16.0,April
+66007,Anta,66,Salta,2020,Dengue ,6,De 15 a 24 años,13.0,April
+66007,Anta,66,Salta,2020,Dengue ,7,De 25 A 34 Años,35.0,April
+66007,Anta,66,Salta,2020,Dengue ,8,De 35 A 44 Años,30.0,April
+66007,Anta,66,Salta,2020,Dengue ,9,De 45 A 64 Años,33.0,April
+66007,Anta,66,Salta,2020,Dengue ,10,Mayor a 65 años,5.0,April
+66007,Anta,66,Salta,2020,Dengue ,10,Mayor a 65 años,2.0,April
+66007,Anta,66,Salta,2020,Dengue ,3,1 a 2 años,4.0,April
+66007,Anta,66,Salta,2020,Dengue ,3,De 2 A 4 Años,4.0,April
+66007,Anta,66,Salta,2020,Dengue ,4,De 5 A 9 Años,9.0,April
+66007,Anta,66,Salta,2020,Dengue ,5,De 10 A 14 Años,13.0,April
+66007,Anta,66,Salta,2020,Dengue ,6,De 15 a 24 años,13.0,April
+66007,Anta,66,Salta,2020,Dengue ,6,De 15 a 24 años,19.0,April
+66007,Anta,66,Salta,2020,Dengue ,7,De 25 A 34 Años,34.0,April
+66007,Anta,66,Salta,2020,Dengue ,8,De 35 A 44 Años,25.0,April
+66007,Anta,66,Salta,2020,Dengue ,9,De 45 A 64 Años,23.0,April
+66007,Anta,66,Salta,2020,Dengue ,10,Mayor a 65 años,1.0,April
+66007,Anta,66,Salta,2020,Dengue ,10,Mayor a 65 años,1.0,April
+66007,Anta,66,Salta,2020,Dengue ,3,1 a 2 años,2.0,April
+66007,Anta,66,Salta,2020,Dengue ,3,De 2 A 4 Años,3.0,April
+66007,Anta,66,Salta,2020,Dengue ,4,De 5 A 9 Años,17.0,April
+66007,Anta,66,Salta,2020,Dengue ,5,De 10 A 14 Años,10.0,April
+66007,Anta,66,Salta,2020,Dengue ,6,De 15 a 24 años,13.0,April
+66007,Anta,66,Salta,2020,Dengue ,6,De 15 a 24 años,13.0,April
+66007,Anta,66,Salta,2020,Dengue ,7,De 25 A 34 Años,28.0,April
+66007,Anta,66,Salta,2020,Dengue ,8,De 35 A 44 Años,20.0,April
+66007,Anta,66,Salta,2020,Dengue ,9,De 45 A 64 Años,24.0,April
+66007,Anta,66,Salta,2020,Dengue ,10,Mayor a 65 años,1.0,April
+66007,Anta,66,Salta,2020,Dengue ,10,Mayor a 65 años,3.0,April
+66007,Anta,66,Salta,2020,Dengue ,10,Mayor a 65 años,1.0,May
+66007,Anta,66,Salta,2020,Dengue ,10,Mayor a 65 años,2.0,May
+66007,Anta,66,Salta,2020,Dengue ,3,De 2 A 4 Años,3.0,May
+66007,Anta,66,Salta,2020,Dengue ,4,De 5 A 9 Años,15.0,May
+66007,Anta,66,Salta,2020,Dengue ,5,De 10 A 14 Años,11.0,May
+66007,Anta,66,Salta,2020,Dengue ,6,De 15 a 24 años,13.0,May
+66007,Anta,66,Salta,2020,Dengue ,6,De 15 a 24 años,7.0,May
+66007,Anta,66,Salta,2020,Dengue ,7,De 25 A 34 Años,19.0,May
+66007,Anta,66,Salta,2020,Dengue ,8,De 35 A 44 Años,12.0,May
+66007,Anta,66,Salta,2020,Dengue ,9,De 45 A 64 Años,16.0,May
+66007,Anta,66,Salta,2020,Dengue ,10,Mayor a 65 años,1.0,May
+66007,Anta,66,Salta,2020,Dengue ,10,Mayor a 65 años,1.0,May
+66007,Anta,66,Salta,2020,Dengue ,3,De 2 A 4 Años,5.0,May
+66007,Anta,66,Salta,2020,Dengue ,4,De 5 A 9 Años,11.0,May
+66007,Anta,66,Salta,2020,Dengue ,5,De 10 A 14 Años,8.0,May
+66007,Anta,66,Salta,2020,Dengue ,6,De 15 a 24 años,6.0,May
+66007,Anta,66,Salta,2020,Dengue ,6,De 15 a 24 años,11.0,May
+66007,Anta,66,Salta,2020,Dengue ,7,De 25 A 34 Años,8.0,May
+66007,Anta,66,Salta,2020,Dengue ,8,De 35 A 44 Años,18.0,May
+66007,Anta,66,Salta,2020,Dengue ,9,De 45 A 64 Años,26.0,May
+66007,Anta,66,Salta,2020,Dengue ,10,Mayor a 65 años,3.0,May
+66007,Anta,66,Salta,2020,Dengue ,10,Mayor a 65 años,2.0,May
+66007,Anta,66,Salta,2020,Dengue ,10,Mayor a 65 años,1.0,May
+66007,Anta,66,Salta,2020,Dengue ,10,Mayor a 65 años,2.0,May
+66007,Anta,66,Salta,2020,Dengue ,3,De 2 A 4 Años,1.0,May
+66007,Anta,66,Salta,2020,Dengue ,4,De 5 A 9 Años,4.0,May
+66007,Anta,66,Salta,2020,Dengue ,5,De 10 A 14 Años,5.0,May
+66007,Anta,66,Salta,2020,Dengue ,6,De 15 a 24 años,8.0,May
+66007,Anta,66,Salta,2020,Dengue ,6,De 15 a 24 años,6.0,May
+66007,Anta,66,Salta,2020,Dengue ,7,De 25 A 34 Años,8.0,May
+66007,Anta,66,Salta,2020,Dengue ,8,De 35 A 44 Años,9.0,May
+66007,Anta,66,Salta,2020,Dengue ,9,De 45 A 64 Años,7.0,May
+66007,Anta,66,Salta,2020,Dengue ,10,Mayor a 65 años,1.0,May
+66007,Anta,66,Salta,2020,Dengue ,10,Mayor a 65 años,3.0,May
+66007,Anta,66,Salta,2020,Dengue ,3,De 2 A 4 Años,2.0,May
+66007,Anta,66,Salta,2020,Dengue ,4,De 5 A 9 Años,4.0,May
+66007,Anta,66,Salta,2020,Dengue ,5,De 10 A 14 Años,7.0,May
+66007,Anta,66,Salta,2020,Dengue ,6,De 15 a 24 años,7.0,May
+66007,Anta,66,Salta,2020,Dengue ,6,De 15 a 24 años,5.0,May
+66007,Anta,66,Salta,2020,Dengue ,7,De 25 A 34 Años,12.0,May
+66007,Anta,66,Salta,2020,Dengue ,8,De 35 A 44 Años,6.0,May
+66007,Anta,66,Salta,2020,Dengue ,9,De 45 A 64 Años,5.0,May
+66007,Anta,66,Salta,2020,Dengue ,10,Mayor a 65 años,2.0,May
+66007,Anta,66,Salta,2020,Dengue ,10,Mayor a 65 años,1.0,May
+66007,Anta,66,Salta,2020,Dengue ,3,De 2 A 4 Años,3.0,June
+66007,Anta,66,Salta,2020,Dengue ,4,De 5 A 9 Años,3.0,June
+66007,Anta,66,Salta,2020,Dengue ,5,De 10 A 14 Años,7.0,June
+66007,Anta,66,Salta,2020,Dengue ,6,De 15 a 24 años,3.0,June
+66007,Anta,66,Salta,2020,Dengue ,6,De 15 a 24 años,5.0,June
+66007,Anta,66,Salta,2020,Dengue ,7,De 25 A 34 Años,11.0,June
+66007,Anta,66,Salta,2020,Dengue ,8,De 35 A 44 Años,5.0,June
+66007,Anta,66,Salta,2020,Dengue ,9,De 45 A 64 Años,6.0,June
+66007,Anta,66,Salta,2020,Dengue ,10,Mayor a 65 años,1.0,June
+66007,Anta,66,Salta,2020,Dengue ,4,De 5 A 9 Años,2.0,June
+66007,Anta,66,Salta,2020,Dengue ,5,De 10 A 14 Años,5.0,June
+66007,Anta,66,Salta,2020,Dengue ,6,De 15 a 24 años,2.0,June
+66007,Anta,66,Salta,2020,Dengue ,6,De 15 a 24 años,2.0,June
+66007,Anta,66,Salta,2020,Dengue ,7,De 25 A 34 Años,3.0,June
+66007,Anta,66,Salta,2020,Dengue ,8,De 35 A 44 Años,3.0,June
+66007,Anta,66,Salta,2020,Dengue ,9,De 45 A 64 Años,6.0,June
+66007,Anta,66,Salta,2020,Dengue ,0,Desconocido/Sin Especificar,1.0,June
+66007,Anta,66,Salta,2020,Dengue ,4,De 5 A 9 Años,1.0,June
+66007,Anta,66,Salta,2020,Dengue ,5,De 10 A 14 Años,1.0,June
+66007,Anta,66,Salta,2020,Dengue ,6,De 15 a 24 años,1.0,June
+66007,Anta,66,Salta,2020,Dengue ,6,De 15 a 24 años,1.0,June
+66007,Anta,66,Salta,2020,Dengue ,8,De 35 A 44 Años,3.0,June
+66007,Anta,66,Salta,2020,Dengue ,9,De 45 A 64 Años,2.0,June
+66007,Anta,66,Salta,2020,Dengue ,6,De 15 a 24 años,1.0,July
+86014,Alberdi,86,Santiago Del Estero,2020,Dengue ,6,De 15 a 24 años,1.0,March
+86014,Alberdi,86,Santiago Del Estero,2020,Dengue ,5,De 10 A 14 Años,2.0,April
+86014,Alberdi,86,Santiago Del Estero,2020,Dengue ,5,De 10 A 14 Años,1.0,June
+86014,Alberdi,86,Santiago Del Estero,2020,Dengue ,6,De 15 a 24 años,1.0,June
+86014,Alberdi,86,Santiago Del Estero,2020,Dengue ,7,De 25 A 34 Años,1.0,June
+86014,Alberdi,86,Santiago Del Estero,2020,Dengue ,9,De 45 A 64 Años,3.0,June
+14014,Capital,14,Córdoba,2020,Dengue ,3,1 a 2 años,1.0,May
+14014,Capital,14,Córdoba,2020,Dengue ,4,De 5 A 9 Años,2.0,May
+14014,Capital,14,Córdoba,2020,Dengue ,5,De 10 A 14 Años,3.0,May
+14014,Capital,14,Córdoba,2020,Dengue ,4,De 5 A 9 Años,1.0,May
+14014,Capital,14,Córdoba,2020,Dengue ,5,De 10 A 14 Años,2.0,May
+14014,Capital,14,Córdoba,2020,Dengue ,3,1 a 2 años,1.0,June
+14014,Capital,14,Córdoba,2020,Dengue ,3,De 2 A 4 Años,1.0,June
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,4,De 5 A 9 Años,1.0,April
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,5,De 10 A 14 Años,1.0,April
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,1.0,April
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,7,De 25 A 34 Años,1.0,April
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,8,De 35 A 44 Años,1.0,April
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,1.0,April
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,8,De 35 A 44 Años,1.0,April
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,9,De 45 A 64 Años,1.0,April
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,4,De 5 A 9 Años,1.0,April
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,5,De 10 A 14 Años,1.0,April
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,3.0,April
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,2.0,April
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,7,De 25 A 34 Años,5.0,April
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,8,De 35 A 44 Años,1.0,April
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,9,De 45 A 64 Años,2.0,April
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,4,De 5 A 9 Años,2.0,April
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,5,De 10 A 14 Años,6.0,April
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,1.0,April
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,7,De 25 A 34 Años,2.0,April
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,8,De 35 A 44 Años,2.0,April
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,1.0,April
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,3,De 2 A 4 Años,2.0,May
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,4,De 5 A 9 Años,3.0,May
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,5,De 10 A 14 Años,3.0,May
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,11.0,May
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,8.0,May
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,7,De 25 A 34 Años,14.0,May
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,8,De 35 A 44 Años,10.0,May
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,9,De 45 A 64 Años,10.0,May
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,1.0,May
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,3,De 2 A 4 Años,2.0,May
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,4,De 5 A 9 Años,8.0,May
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,5,De 10 A 14 Años,9.0,May
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,7.0,May
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,5.0,May
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,7,De 25 A 34 Años,17.0,May
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,8,De 35 A 44 Años,18.0,May
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,9,De 45 A 64 Años,11.0,May
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,2.0,May
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,1.0,May
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,3,De 2 A 4 Años,7.0,May
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,4,De 5 A 9 Años,8.0,May
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,5,De 10 A 14 Años,11.0,May
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,9.0,May
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,12.0,May
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,7,De 25 A 34 Años,17.0,May
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,8,De 35 A 44 Años,11.0,May
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,9,De 45 A 64 Años,10.0,May
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,3.0,May
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,2.0,May
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,2.0,May
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,3,De 2 A 4 Años,9.0,May
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,4,De 5 A 9 Años,11.0,May
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,5,De 10 A 14 Años,6.0,May
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,9.0,May
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,8.0,May
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,7,De 25 A 34 Años,12.0,May
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,8,De 35 A 44 Años,10.0,May
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,9,De 45 A 64 Años,9.0,May
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,3.0,May
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,3,De 2 A 4 Años,2.0,June
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,4.0,June
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,4.0,June
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,7,De 25 A 34 Años,4.0,June
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,8,De 35 A 44 Años,4.0,June
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,1.0,June
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,5,De 10 A 14 Años,3.0,June
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,4.0,June
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,7.0,June
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,7,De 25 A 34 Años,9.0,June
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,8,De 35 A 44 Años,13.0,June
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,9,De 45 A 64 Años,3.0,June
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,5,De 10 A 14 Años,2.0,June
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,5.0,June
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,7,De 25 A 34 Años,2.0,June
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,8,De 35 A 44 Años,2.0,June
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,9,De 45 A 64 Años,2.0,June
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,4,De 5 A 9 Años,1.0,June
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,1.0,June
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,3.0,June
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,7,De 25 A 34 Años,2.0,June
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,8,De 35 A 44 Años,3.0,June
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,9,De 45 A 64 Años,2.0,June
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,3,De 2 A 4 Años,1.0,July
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,5,De 10 A 14 Años,1.0,July
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,7,De 25 A 34 Años,1.0,July
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,8,De 35 A 44 Años,1.0,July
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,1.0,July
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,3,1 a 2 años,1.0,July
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,3,De 2 A 4 Años,2.0,July
+90014,Cruz Alta,90,Tucumán,2020,Dengue ,8,De 35 A 44 Años,1.0,July
+18021,Capital,18,Corrientes,2020,Dengue ,9,De 45 A 64 Años,1.0,February
+86035,Banda,86,Santiago Del Estero,2020,Dengue ,5,De 10 A 14 Años,1.0,April
+86035,Banda,86,Santiago Del Estero,2020,Dengue ,6,De 15 a 24 años,1.0,April
+86035,Banda,86,Santiago Del Estero,2020,Dengue ,9,De 45 A 64 Años,2.0,April
+86035,Banda,86,Santiago Del Estero,2020,Dengue ,4,De 5 A 9 Años,1.0,April
+86035,Banda,86,Santiago Del Estero,2020,Dengue ,7,De 25 A 34 Años,1.0,May
+22039,2 De Abril,22,Chaco,2020,Dengue ,5,De 10 A 14 Años,1.0,February
+22039,2 De Abril,22,Chaco,2020,Dengue ,6,De 15 a 24 años,1.0,February
+22039,2 De Abril,22,Chaco,2020,Dengue ,7,De 25 A 34 Años,1.0,February
+22039,2 De Abril,22,Chaco,2020,Dengue ,8,De 35 A 44 Años,1.0,March
+66042,Chicoana,66,Salta,2020,Dengue ,9,De 45 A 64 Años,1.0,April
+90042,Juan Bautista Alberdi,90,Tucumán,2020,Dengue ,4,De 5 A 9 Años,2.0,May
+90042,Juan Bautista Alberdi,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,4.0,May
+90042,Juan Bautista Alberdi,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,7.0,May
+90042,Juan Bautista Alberdi,90,Tucumán,2020,Dengue ,7,De 25 A 34 Años,6.0,May
+90042,Juan Bautista Alberdi,90,Tucumán,2020,Dengue ,8,De 35 A 44 Años,5.0,May
+90042,Juan Bautista Alberdi,90,Tucumán,2020,Dengue ,9,De 45 A 64 Años,6.0,May
+90042,Juan Bautista Alberdi,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,2.0,May
+90042,Juan Bautista Alberdi,90,Tucumán,2020,Dengue ,5,De 10 A 14 Años,2.0,May
+90042,Juan Bautista Alberdi,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,6.0,May
+90042,Juan Bautista Alberdi,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,1.0,May
+90042,Juan Bautista Alberdi,90,Tucumán,2020,Dengue ,7,De 25 A 34 Años,13.0,May
+90042,Juan Bautista Alberdi,90,Tucumán,2020,Dengue ,8,De 35 A 44 Años,7.0,May
+90042,Juan Bautista Alberdi,90,Tucumán,2020,Dengue ,9,De 45 A 64 Años,2.0,May
+90042,Juan Bautista Alberdi,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,1.0,May
+86049,Capital,86,Santiago Del Estero,2020,Dengue ,3,De 2 A 4 Años,1.0,April
+86049,Capital,86,Santiago Del Estero,2020,Dengue ,4,De 5 A 9 Años,3.0,April
+86049,Capital,86,Santiago Del Estero,2020,Dengue ,8,De 35 A 44 Años,1.0,April
+86049,Capital,86,Santiago Del Estero,2020,Dengue ,9,De 45 A 64 Años,1.0,April
+86049,Capital,86,Santiago Del Estero,2020,Dengue ,10,Mayor a 65 años,2.0,April
+86049,Capital,86,Santiago Del Estero,2020,Dengue ,3,De 2 A 4 Años,3.0,April
+86049,Capital,86,Santiago Del Estero,2020,Dengue ,4,De 5 A 9 Años,5.0,April
+86049,Capital,86,Santiago Del Estero,2020,Dengue ,5,De 10 A 14 Años,2.0,April
+86049,Capital,86,Santiago Del Estero,2020,Dengue ,7,De 25 A 34 Años,2.0,April
+86049,Capital,86,Santiago Del Estero,2020,Dengue ,3,1 a 2 años,2.0,May
+86049,Capital,86,Santiago Del Estero,2020,Dengue ,4,De 5 A 9 Años,7.0,May
+86049,Capital,86,Santiago Del Estero,2020,Dengue ,5,De 10 A 14 Años,6.0,May
+86049,Capital,86,Santiago Del Estero,2020,Dengue ,9,De 45 A 64 Años,1.0,May
+86049,Capital,86,Santiago Del Estero,2020,Dengue ,8,De 35 A 44 Años,2.0,May
+86049,Capital,86,Santiago Del Estero,2020,Dengue ,8,De 35 A 44 Años,1.0,May
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,0,Desconocido/Sin Especificar,5.0,January
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,0,Desconocido/Sin Especificar,4.0,January
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,0,Desconocido/Sin Especificar,4.0,February
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,0,Desconocido/Sin Especificar,6.0,February
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,0,Desconocido/Sin Especificar,13.0,February
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,0,Desconocido/Sin Especificar,15.0,March
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,0,Desconocido/Sin Especificar,18.0,March
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,3,De 2 A 4 Años,1.0,March
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,4,De 5 A 9 Años,2.0,March
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,5,De 10 A 14 Años,3.0,March
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,6,De 15 a 24 años,6.0,March
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,6,De 15 a 24 años,3.0,March
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,7,De 25 A 34 Años,8.0,March
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,8,De 35 A 44 Años,6.0,March
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,9,De 45 A 64 Años,10.0,March
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,10,Mayor a 65 años,1.0,March
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,0,Desconocido/Sin Especificar,37.0,March
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,3,De 2 A 4 Años,1.0,March
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,4,De 5 A 9 Años,1.0,March
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,5,De 10 A 14 Años,3.0,March
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,6,De 15 a 24 años,6.0,March
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,6,De 15 a 24 años,3.0,March
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,7,De 25 A 34 Años,8.0,March
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,8,De 35 A 44 Años,4.0,March
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,9,De 45 A 64 Años,4.0,March
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,10,Mayor a 65 años,2.0,March
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,0,Desconocido/Sin Especificar,63.0,March
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,3,De 2 A 4 Años,1.0,April
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,4,De 5 A 9 Años,2.0,April
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,5,De 10 A 14 Años,4.0,April
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,6,De 15 a 24 años,9.0,April
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,6,De 15 a 24 años,1.0,April
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,7,De 25 A 34 Años,11.0,April
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,8,De 35 A 44 Años,13.0,April
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,9,De 45 A 64 Años,4.0,April
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,10,Mayor a 65 años,3.0,April
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,10,Mayor a 65 años,1.0,April
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,0,Desconocido/Sin Especificar,103.0,April
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,3,De 2 A 4 Años,1.0,April
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,4,De 5 A 9 Años,7.0,April
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,5,De 10 A 14 Años,10.0,April
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,6,De 15 a 24 años,6.0,April
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,6,De 15 a 24 años,3.0,April
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,7,De 25 A 34 Años,6.0,April
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,8,De 35 A 44 Años,6.0,April
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,9,De 45 A 64 Años,12.0,April
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,10,Mayor a 65 años,8.0,April
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,10,Mayor a 65 años,2.0,April
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,10,Mayor a 65 años,2.0,April
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,10,Mayor a 65 años,1.0,April
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,3,1 a 2 años,5.0,April
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,3,De 2 A 4 Años,28.0,April
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,4,De 5 A 9 Años,41.0,April
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,5,De 10 A 14 Años,39.0,April
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,6,De 15 a 24 años,29.0,April
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,6,De 15 a 24 años,39.0,April
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,7,De 25 A 34 Años,48.0,April
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,8,De 35 A 44 Años,43.0,April
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,9,De 45 A 64 Años,37.0,April
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,10,Mayor a 65 años,14.0,April
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,10,Mayor a 65 años,4.0,April
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,10,Mayor a 65 años,2.0,April
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,10,Mayor a 65 años,2.0,April
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,3,1 a 2 años,1.0,April
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,3,De 2 A 4 Años,15.0,April
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,4,De 5 A 9 Años,21.0,April
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,5,De 10 A 14 Años,18.0,April
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,6,De 15 a 24 años,18.0,April
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,6,De 15 a 24 años,30.0,April
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,7,De 25 A 34 Años,42.0,April
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,8,De 35 A 44 Años,29.0,April
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,9,De 45 A 64 Años,32.0,April
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,10,Mayor a 65 años,3.0,April
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,10,Mayor a 65 años,2.0,April
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,10,Mayor a 65 años,1.0,May
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,3,1 a 2 años,2.0,May
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,3,De 2 A 4 Años,12.0,May
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,4,De 5 A 9 Años,17.0,May
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,5,De 10 A 14 Años,14.0,May
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,6,De 15 a 24 años,20.0,May
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,6,De 15 a 24 años,26.0,May
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,7,De 25 A 34 Años,43.0,May
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,8,De 35 A 44 Años,29.0,May
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,9,De 45 A 64 Años,26.0,May
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,10,Mayor a 65 años,11.0,May
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,10,Mayor a 65 años,5.0,May
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,10,Mayor a 65 años,1.0,May
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,3,1 a 2 años,2.0,May
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,3,De 2 A 4 Años,5.0,May
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,4,De 5 A 9 Años,16.0,May
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,5,De 10 A 14 Años,17.0,May
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,6,De 15 a 24 años,21.0,May
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,6,De 15 a 24 años,30.0,May
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,7,De 25 A 34 Años,42.0,May
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,8,De 35 A 44 Años,25.0,May
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,9,De 45 A 64 Años,27.0,May
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,10,Mayor a 65 años,6.0,May
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,10,Mayor a 65 años,3.0,May
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,10,Mayor a 65 años,1.0,May
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,3,1 a 2 años,3.0,May
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,3,De 2 A 4 Años,5.0,May
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,4,De 5 A 9 Años,11.0,May
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,5,De 10 A 14 Años,5.0,May
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,6,De 15 a 24 años,5.0,May
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,6,De 15 a 24 años,11.0,May
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,7,De 25 A 34 Años,16.0,May
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,8,De 35 A 44 Años,14.0,May
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,9,De 45 A 64 Años,11.0,May
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,10,Mayor a 65 años,1.0,May
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,3,1 a 2 años,1.0,May
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,3,De 2 A 4 Años,8.0,May
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,4,De 5 A 9 Años,23.0,May
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,5,De 10 A 14 Años,11.0,May
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,6,De 15 a 24 años,28.0,May
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,6,De 15 a 24 años,11.0,May
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,7,De 25 A 34 Años,30.0,May
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,8,De 35 A 44 Años,28.0,May
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,9,De 45 A 64 Años,33.0,May
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,10,Mayor a 65 años,4.0,May
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,10,Mayor a 65 años,2.0,May
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,10,Mayor a 65 años,4.0,June
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,10,Mayor a 65 años,8.0,June
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,3,1 a 2 años,10.0,June
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,3,De 2 A 4 Años,8.0,June
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,4,De 5 A 9 Años,21.0,June
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,5,De 10 A 14 Años,23.0,June
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,6,De 15 a 24 años,14.0,June
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,6,De 15 a 24 años,9.0,June
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,7,De 25 A 34 Años,30.0,June
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,8,De 35 A 44 Años,11.0,June
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,9,De 45 A 64 Años,17.0,June
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,10,Mayor a 65 años,4.0,June
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,3,1 a 2 años,3.0,June
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,3,De 2 A 4 Años,4.0,June
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,4,De 5 A 9 Años,2.0,June
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,5,De 10 A 14 Años,5.0,June
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,6,De 15 a 24 años,9.0,June
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,6,De 15 a 24 años,4.0,June
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,7,De 25 A 34 Años,10.0,June
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,8,De 35 A 44 Años,8.0,June
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,9,De 45 A 64 Años,9.0,June
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,10,Mayor a 65 años,2.0,June
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,10,Mayor a 65 años,1.0,June
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,3,1 a 2 años,1.0,June
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,3,De 2 A 4 Años,2.0,June
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,4,De 5 A 9 Años,2.0,June
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,5,De 10 A 14 Años,2.0,June
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,6,De 15 a 24 años,2.0,June
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,6,De 15 a 24 años,2.0,June
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,7,De 25 A 34 Años,5.0,June
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,8,De 35 A 44 Años,2.0,June
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,9,De 45 A 64 Años,1.0,June
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,3,1 a 2 años,1.0,June
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,3,De 2 A 4 Años,3.0,June
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,4,De 5 A 9 Años,4.0,June
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,5,De 10 A 14 Años,4.0,June
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,6,De 15 a 24 años,11.0,June
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,7,De 25 A 34 Años,4.0,June
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,8,De 35 A 44 Años,3.0,June
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,9,De 45 A 64 Años,7.0,June
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,10,Mayor a 65 años,1.0,June
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,5,De 10 A 14 Años,1.0,July
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,7,De 25 A 34 Años,2.0,July
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,9,De 45 A 64 Años,2.0,July
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,3,1 a 2 años,1.0,July
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,3,De 2 A 4 Años,1.0,July
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,6,De 15 a 24 años,1.0,July
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,6,De 15 a 24 años,1.0,July
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,7,De 25 A 34 Años,1.0,July
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,3,1 a 2 años,3.0,July
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,3,De 2 A 4 Años,1.0,July
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,5,De 10 A 14 Años,1.0,July
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,10,Mayor a 65 años,1.0,August
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,3,1 a 2 años,1.0,August
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,3,De 2 A 4 Años,1.0,August
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,6,De 15 a 24 años,1.0,August
+66056,Grl. José De San Martín,66,Salta,2020,Dengue ,7,De 25 A 34 Años,2.0,August
+22063,General Güemes,22,Chaco,2020,Dengue ,6,De 15 a 24 años,2.0,February
+22063,General Güemes,22,Chaco,2020,Dengue ,6,De 15 a 24 años,2.0,April
+22063,General Güemes,22,Chaco,2020,Dengue ,7,De 25 A 34 Años,1.0,April
+22063,General Güemes,22,Chaco,2020,Dengue ,10,Mayor a 65 años,1.0,April
+22063,General Güemes,22,Chaco,2020,Dengue ,4,De 5 A 9 Años,1.0,May
+22063,General Güemes,22,Chaco,2020,Dengue ,6,De 15 a 24 años,1.0,May
+22063,General Güemes,22,Chaco,2020,Dengue ,4,De 5 A 9 Años,1.0,May
+22063,General Güemes,22,Chaco,2020,Dengue ,6,De 15 a 24 años,1.0,May
+22063,General Güemes,22,Chaco,2020,Dengue ,7,De 25 A 34 Años,1.0,June
+22063,General Güemes,22,Chaco,2020,Dengue ,9,De 45 A 64 Años,1.0,June
+22063,General Güemes,22,Chaco,2020,Dengue ,6,De 15 a 24 años,1.0,June
+22063,General Güemes,22,Chaco,2020,Dengue ,3,1 a 2 años,1.0,September
+22063,General Güemes,22,Chaco,2020,Dengue ,5,De 10 A 14 Años,2.0,September
+22063,General Güemes,22,Chaco,2020,Dengue ,7,De 25 A 34 Años,1.0,September
+90063,Lules,90,Tucumán,2020,Dengue ,5,De 10 A 14 Años,1.0,March
+90063,Lules,90,Tucumán,2020,Dengue ,5,De 10 A 14 Años,4.0,April
+90063,Lules,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,3.0,April
+90063,Lules,90,Tucumán,2020,Dengue ,7,De 25 A 34 Años,10.0,April
+90063,Lules,90,Tucumán,2020,Dengue ,8,De 35 A 44 Años,5.0,April
+90063,Lules,90,Tucumán,2020,Dengue ,9,De 45 A 64 Años,5.0,April
+90063,Lules,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,1.0,April
+90063,Lules,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,1.0,April
+90063,Lules,90,Tucumán,2020,Dengue ,4,De 5 A 9 Años,2.0,April
+90063,Lules,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,5.0,April
+90063,Lules,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,6.0,April
+90063,Lules,90,Tucumán,2020,Dengue ,7,De 25 A 34 Años,8.0,April
+90063,Lules,90,Tucumán,2020,Dengue ,8,De 35 A 44 Años,2.0,April
+90063,Lules,90,Tucumán,2020,Dengue ,9,De 45 A 64 Años,2.0,April
+90063,Lules,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,1.0,April
+90063,Lules,90,Tucumán,2020,Dengue ,4,De 5 A 9 Años,4.0,April
+90063,Lules,90,Tucumán,2020,Dengue ,5,De 10 A 14 Años,4.0,April
+90063,Lules,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,3.0,April
+90063,Lules,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,5.0,April
+90063,Lules,90,Tucumán,2020,Dengue ,7,De 25 A 34 Años,11.0,April
+90063,Lules,90,Tucumán,2020,Dengue ,8,De 35 A 44 Años,10.0,April
+90063,Lules,90,Tucumán,2020,Dengue ,9,De 45 A 64 Años,4.0,April
+90063,Lules,90,Tucumán,2020,Dengue ,4,De 5 A 9 Años,2.0,April
+90063,Lules,90,Tucumán,2020,Dengue ,5,De 10 A 14 Años,1.0,April
+90063,Lules,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,2.0,April
+90063,Lules,90,Tucumán,2020,Dengue ,3,De 2 A 4 Años,1.0,May
+90063,Lules,90,Tucumán,2020,Dengue ,4,De 5 A 9 Años,3.0,May
+90063,Lules,90,Tucumán,2020,Dengue ,5,De 10 A 14 Años,7.0,May
+90063,Lules,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,7.0,May
+90063,Lules,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,4.0,May
+90063,Lules,90,Tucumán,2020,Dengue ,7,De 25 A 34 Años,8.0,May
+90063,Lules,90,Tucumán,2020,Dengue ,8,De 35 A 44 Años,5.0,May
+90063,Lules,90,Tucumán,2020,Dengue ,9,De 45 A 64 Años,11.0,May
+90063,Lules,90,Tucumán,2020,Dengue ,3,De 2 A 4 Años,2.0,May
+90063,Lules,90,Tucumán,2020,Dengue ,4,De 5 A 9 Años,3.0,May
+90063,Lules,90,Tucumán,2020,Dengue ,5,De 10 A 14 Años,4.0,May
+90063,Lules,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,5.0,May
+90063,Lules,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,6.0,May
+90063,Lules,90,Tucumán,2020,Dengue ,7,De 25 A 34 Años,8.0,May
+90063,Lules,90,Tucumán,2020,Dengue ,8,De 35 A 44 Años,10.0,May
+90063,Lules,90,Tucumán,2020,Dengue ,9,De 45 A 64 Años,4.0,May
+90063,Lules,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,1.0,May
+90063,Lules,90,Tucumán,2020,Dengue ,3,De 2 A 4 Años,1.0,May
+90063,Lules,90,Tucumán,2020,Dengue ,4,De 5 A 9 Años,3.0,May
+90063,Lules,90,Tucumán,2020,Dengue ,5,De 10 A 14 Años,5.0,May
+90063,Lules,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,4.0,May
+90063,Lules,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,7.0,May
+90063,Lules,90,Tucumán,2020,Dengue ,7,De 25 A 34 Años,7.0,May
+90063,Lules,90,Tucumán,2020,Dengue ,8,De 35 A 44 Años,7.0,May
+90063,Lules,90,Tucumán,2020,Dengue ,9,De 45 A 64 Años,15.0,May
+90063,Lules,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,1.0,May
+90063,Lules,90,Tucumán,2020,Dengue ,4,De 5 A 9 Años,3.0,May
+90063,Lules,90,Tucumán,2020,Dengue ,5,De 10 A 14 Años,8.0,May
+90063,Lules,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,4.0,May
+90063,Lules,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,4.0,May
+90063,Lules,90,Tucumán,2020,Dengue ,7,De 25 A 34 Años,7.0,May
+90063,Lules,90,Tucumán,2020,Dengue ,8,De 35 A 44 Años,3.0,May
+90063,Lules,90,Tucumán,2020,Dengue ,9,De 45 A 64 Años,2.0,May
+90063,Lules,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,2.0,May
+90063,Lules,90,Tucumán,2020,Dengue ,3,De 2 A 4 Años,1.0,June
+90063,Lules,90,Tucumán,2020,Dengue ,5,De 10 A 14 Años,4.0,June
+90063,Lules,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,2.0,June
+90063,Lules,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,4.0,June
+90063,Lules,90,Tucumán,2020,Dengue ,7,De 25 A 34 Años,6.0,June
+90063,Lules,90,Tucumán,2020,Dengue ,9,De 45 A 64 Años,9.0,June
+90063,Lules,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,1.0,June
+90063,Lules,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,1.0,June
+90063,Lules,90,Tucumán,2020,Dengue ,0,Desconocido/Sin Especificar,1.0,June
+90063,Lules,90,Tucumán,2020,Dengue ,5,De 10 A 14 Años,4.0,June
+90063,Lules,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,1.0,June
+90063,Lules,90,Tucumán,2020,Dengue ,7,De 25 A 34 Años,8.0,June
+90063,Lules,90,Tucumán,2020,Dengue ,8,De 35 A 44 Años,2.0,June
+90063,Lules,90,Tucumán,2020,Dengue ,9,De 45 A 64 Años,1.0,June
+90063,Lules,90,Tucumán,2020,Dengue ,5,De 10 A 14 Años,1.0,June
+90063,Lules,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,1.0,June
+90063,Lules,90,Tucumán,2020,Dengue ,7,De 25 A 34 Años,1.0,June
+90063,Lules,90,Tucumán,2020,Dengue ,8,De 35 A 44 Años,1.0,June
+90063,Lules,90,Tucumán,2020,Dengue ,9,De 45 A 64 Años,1.0,June
+90063,Lules,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,1.0,June
+90063,Lules,90,Tucumán,2020,Dengue ,7,De 25 A 34 Años,2.0,June
+90084,Capital,90,Tucumán,2020,Dengue ,7,De 25 A 34 Años,1.0,March
+90084,Capital,90,Tucumán,2020,Dengue ,4,De 5 A 9 Años,1.0,March
+90084,Capital,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,1.0,March
+90084,Capital,90,Tucumán,2020,Dengue ,3,De 2 A 4 Años,1.0,March
+90084,Capital,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,1.0,March
+90084,Capital,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,1.0,March
+90084,Capital,90,Tucumán,2020,Dengue ,8,De 35 A 44 Años,1.0,March
+90084,Capital,90,Tucumán,2020,Dengue ,4,De 5 A 9 Años,2.0,March
+90084,Capital,90,Tucumán,2020,Dengue ,5,De 10 A 14 Años,1.0,March
+90084,Capital,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,1.0,March
+90084,Capital,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,3.0,March
+90084,Capital,90,Tucumán,2020,Dengue ,7,De 25 A 34 Años,8.0,March
+90084,Capital,90,Tucumán,2020,Dengue ,8,De 35 A 44 Años,7.0,March
+90084,Capital,90,Tucumán,2020,Dengue ,9,De 45 A 64 Años,7.0,March
+90084,Capital,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,1.0,March
+90084,Capital,90,Tucumán,2020,Dengue ,5,De 10 A 14 Años,4.0,April
+90084,Capital,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,17.0,April
+90084,Capital,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,12.0,April
+90084,Capital,90,Tucumán,2020,Dengue ,7,De 25 A 34 Años,14.0,April
+90084,Capital,90,Tucumán,2020,Dengue ,8,De 35 A 44 Años,13.0,April
+90084,Capital,90,Tucumán,2020,Dengue ,9,De 45 A 64 Años,10.0,April
+90084,Capital,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,2.0,April
+90084,Capital,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,1.0,April
+90084,Capital,90,Tucumán,2020,Dengue ,3,1 a 2 años,2.0,April
+90084,Capital,90,Tucumán,2020,Dengue ,3,De 2 A 4 Años,3.0,April
+90084,Capital,90,Tucumán,2020,Dengue ,4,De 5 A 9 Años,13.0,April
+90084,Capital,90,Tucumán,2020,Dengue ,5,De 10 A 14 Años,13.0,April
+90084,Capital,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,43.0,April
+90084,Capital,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,48.0,April
+90084,Capital,90,Tucumán,2020,Dengue ,7,De 25 A 34 Años,76.0,April
+90084,Capital,90,Tucumán,2020,Dengue ,8,De 35 A 44 Años,51.0,April
+90084,Capital,90,Tucumán,2020,Dengue ,9,De 45 A 64 Años,38.0,April
+90084,Capital,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,9.0,April
+90084,Capital,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,3.0,April
+90084,Capital,90,Tucumán,2020,Dengue ,3,1 a 2 años,5.0,April
+90084,Capital,90,Tucumán,2020,Dengue ,3,De 2 A 4 Años,20.0,April
+90084,Capital,90,Tucumán,2020,Dengue ,4,De 5 A 9 Años,90.0,April
+90084,Capital,90,Tucumán,2020,Dengue ,5,De 10 A 14 Años,88.0,April
+90084,Capital,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,56.0,April
+90084,Capital,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,44.0,April
+90084,Capital,90,Tucumán,2020,Dengue ,7,De 25 A 34 Años,104.0,April
+90084,Capital,90,Tucumán,2020,Dengue ,8,De 35 A 44 Años,94.0,April
+90084,Capital,90,Tucumán,2020,Dengue ,9,De 45 A 64 Años,50.0,April
+90084,Capital,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,10.0,April
+90084,Capital,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,1.0,April
+90084,Capital,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,1.0,April
+90084,Capital,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,12.0,April
+90084,Capital,90,Tucumán,2020,Dengue ,3,1 a 2 años,13.0,April
+90084,Capital,90,Tucumán,2020,Dengue ,3,De 2 A 4 Años,33.0,April
+90084,Capital,90,Tucumán,2020,Dengue ,4,De 5 A 9 Años,129.0,April
+90084,Capital,90,Tucumán,2020,Dengue ,5,De 10 A 14 Años,167.0,April
+90084,Capital,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,74.0,April
+90084,Capital,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,107.0,April
+90084,Capital,90,Tucumán,2020,Dengue ,7,De 25 A 34 Años,203.0,April
+90084,Capital,90,Tucumán,2020,Dengue ,8,De 35 A 44 Años,138.0,April
+90084,Capital,90,Tucumán,2020,Dengue ,9,De 45 A 64 Años,108.0,April
+90084,Capital,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,13.0,April
+90084,Capital,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,3.0,April
+90084,Capital,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,6.0,May
+90084,Capital,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,4.0,May
+90084,Capital,90,Tucumán,2020,Dengue ,3,1 a 2 años,6.0,May
+90084,Capital,90,Tucumán,2020,Dengue ,3,De 2 A 4 Años,21.0,May
+90084,Capital,90,Tucumán,2020,Dengue ,4,De 5 A 9 Años,108.0,May
+90084,Capital,90,Tucumán,2020,Dengue ,5,De 10 A 14 Años,116.0,May
+90084,Capital,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,115.0,May
+90084,Capital,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,144.0,May
+90084,Capital,90,Tucumán,2020,Dengue ,7,De 25 A 34 Años,186.0,May
+90084,Capital,90,Tucumán,2020,Dengue ,8,De 35 A 44 Años,197.0,May
+90084,Capital,90,Tucumán,2020,Dengue ,9,De 45 A 64 Años,184.0,May
+90084,Capital,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,19.0,May
+90084,Capital,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,6.0,May
+90084,Capital,90,Tucumán,2020,Dengue ,0,Desconocido/Sin Especificar,1.0,May
+90084,Capital,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,4.0,May
+90084,Capital,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,10.0,May
+90084,Capital,90,Tucumán,2020,Dengue ,3,1 a 2 años,11.0,May
+90084,Capital,90,Tucumán,2020,Dengue ,3,De 2 A 4 Años,24.0,May
+90084,Capital,90,Tucumán,2020,Dengue ,4,De 5 A 9 Años,114.0,May
+90084,Capital,90,Tucumán,2020,Dengue ,5,De 10 A 14 Años,131.0,May
+90084,Capital,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,68.0,May
+90084,Capital,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,98.0,May
+90084,Capital,90,Tucumán,2020,Dengue ,7,De 25 A 34 Años,124.0,May
+90084,Capital,90,Tucumán,2020,Dengue ,8,De 35 A 44 Años,94.0,May
+90084,Capital,90,Tucumán,2020,Dengue ,9,De 45 A 64 Años,80.0,May
+90084,Capital,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,16.0,May
+90084,Capital,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,6.0,May
+90084,Capital,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,2.0,May
+90084,Capital,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,6.0,May
+90084,Capital,90,Tucumán,2020,Dengue ,3,1 a 2 años,7.0,May
+90084,Capital,90,Tucumán,2020,Dengue ,3,De 2 A 4 Años,38.0,May
+90084,Capital,90,Tucumán,2020,Dengue ,4,De 5 A 9 Años,86.0,May
+90084,Capital,90,Tucumán,2020,Dengue ,5,De 10 A 14 Años,102.0,May
+90084,Capital,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,62.0,May
+90084,Capital,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,64.0,May
+90084,Capital,90,Tucumán,2020,Dengue ,7,De 25 A 34 Años,114.0,May
+90084,Capital,90,Tucumán,2020,Dengue ,8,De 35 A 44 Años,67.0,May
+90084,Capital,90,Tucumán,2020,Dengue ,9,De 45 A 64 Años,84.0,May
+90084,Capital,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,16.0,May
+90084,Capital,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,2.0,May
+90084,Capital,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,3.0,May
+90084,Capital,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,7.0,May
+90084,Capital,90,Tucumán,2020,Dengue ,3,1 a 2 años,16.0,May
+90084,Capital,90,Tucumán,2020,Dengue ,3,De 2 A 4 Años,25.0,May
+90084,Capital,90,Tucumán,2020,Dengue ,4,De 5 A 9 Años,76.0,May
+90084,Capital,90,Tucumán,2020,Dengue ,5,De 10 A 14 Años,128.0,May
+90084,Capital,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,84.0,May
+90084,Capital,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,61.0,May
+90084,Capital,90,Tucumán,2020,Dengue ,7,De 25 A 34 Años,102.0,May
+90084,Capital,90,Tucumán,2020,Dengue ,8,De 35 A 44 Años,76.0,May
+90084,Capital,90,Tucumán,2020,Dengue ,9,De 45 A 64 Años,81.0,May
+90084,Capital,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,9.0,May
+90084,Capital,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,6.0,June
+90084,Capital,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,9.0,June
+90084,Capital,90,Tucumán,2020,Dengue ,3,1 a 2 años,8.0,June
+90084,Capital,90,Tucumán,2020,Dengue ,3,De 2 A 4 Años,27.0,June
+90084,Capital,90,Tucumán,2020,Dengue ,4,De 5 A 9 Años,40.0,June
+90084,Capital,90,Tucumán,2020,Dengue ,5,De 10 A 14 Años,61.0,June
+90084,Capital,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,48.0,June
+90084,Capital,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,64.0,June
+90084,Capital,90,Tucumán,2020,Dengue ,7,De 25 A 34 Años,84.0,June
+90084,Capital,90,Tucumán,2020,Dengue ,8,De 35 A 44 Años,54.0,June
+90084,Capital,90,Tucumán,2020,Dengue ,9,De 45 A 64 Años,68.0,June
+90084,Capital,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,10.0,June
+90084,Capital,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,2.0,June
+90084,Capital,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,3.0,June
+90084,Capital,90,Tucumán,2020,Dengue ,3,1 a 2 años,2.0,June
+90084,Capital,90,Tucumán,2020,Dengue ,3,De 2 A 4 Años,10.0,June
+90084,Capital,90,Tucumán,2020,Dengue ,4,De 5 A 9 Años,30.0,June
+90084,Capital,90,Tucumán,2020,Dengue ,5,De 10 A 14 Años,44.0,June
+90084,Capital,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,24.0,June
+90084,Capital,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,52.0,June
+90084,Capital,90,Tucumán,2020,Dengue ,7,De 25 A 34 Años,43.0,June
+90084,Capital,90,Tucumán,2020,Dengue ,8,De 35 A 44 Años,29.0,June
+90084,Capital,90,Tucumán,2020,Dengue ,9,De 45 A 64 Años,25.0,June
+90084,Capital,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,6.0,June
+90084,Capital,90,Tucumán,2020,Dengue ,3,1 a 2 años,1.0,June
+90084,Capital,90,Tucumán,2020,Dengue ,4,De 5 A 9 Años,1.0,June
+90084,Capital,90,Tucumán,2020,Dengue ,5,De 10 A 14 Años,5.0,June
+90084,Capital,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,12.0,June
+90084,Capital,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,13.0,June
+90084,Capital,90,Tucumán,2020,Dengue ,7,De 25 A 34 Años,17.0,June
+90084,Capital,90,Tucumán,2020,Dengue ,8,De 35 A 44 Años,16.0,June
+90084,Capital,90,Tucumán,2020,Dengue ,9,De 45 A 64 Años,10.0,June
+90084,Capital,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,1.0,June
+90084,Capital,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,1.0,June
+90084,Capital,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,2.0,June
+90084,Capital,90,Tucumán,2020,Dengue ,7,De 25 A 34 Años,1.0,June
+90084,Capital,90,Tucumán,2020,Dengue ,7,De 25 A 34 Años,2.0,July
+22084,Libertador General San Martín,22,Chaco,2020,Dengue ,7,De 25 A 34 Años,1.0,March
+22098,Mayor Luis J. Fontana,22,Chaco,2020,Dengue ,4,De 5 A 9 Años,1.0,April
+22098,Mayor Luis J. Fontana,22,Chaco,2020,Dengue ,5,De 10 A 14 Años,1.0,April
+22098,Mayor Luis J. Fontana,22,Chaco,2020,Dengue ,6,De 15 a 24 años,4.0,April
+22098,Mayor Luis J. Fontana,22,Chaco,2020,Dengue ,7,De 25 A 34 Años,3.0,April
+22098,Mayor Luis J. Fontana,22,Chaco,2020,Dengue ,8,De 35 A 44 Años,5.0,April
+22098,Mayor Luis J. Fontana,22,Chaco,2020,Dengue ,9,De 45 A 64 Años,2.0,April
+22098,Mayor Luis J. Fontana,22,Chaco,2020,Dengue ,6,De 15 a 24 años,2.0,April
+22098,Mayor Luis J. Fontana,22,Chaco,2020,Dengue ,6,De 15 a 24 años,6.0,April
+22098,Mayor Luis J. Fontana,22,Chaco,2020,Dengue ,7,De 25 A 34 Años,7.0,April
+22098,Mayor Luis J. Fontana,22,Chaco,2020,Dengue ,8,De 35 A 44 Años,5.0,April
+22098,Mayor Luis J. Fontana,22,Chaco,2020,Dengue ,9,De 45 A 64 Años,6.0,April
+22098,Mayor Luis J. Fontana,22,Chaco,2020,Dengue ,10,Mayor a 65 años,3.0,April
+22098,Mayor Luis J. Fontana,22,Chaco,2020,Dengue ,4,De 5 A 9 Años,1.0,April
+22098,Mayor Luis J. Fontana,22,Chaco,2020,Dengue ,5,De 10 A 14 Años,2.0,April
+22098,Mayor Luis J. Fontana,22,Chaco,2020,Dengue ,6,De 15 a 24 años,5.0,April
+22098,Mayor Luis J. Fontana,22,Chaco,2020,Dengue ,7,De 25 A 34 Años,2.0,April
+22098,Mayor Luis J. Fontana,22,Chaco,2020,Dengue ,8,De 35 A 44 Años,10.0,April
+22098,Mayor Luis J. Fontana,22,Chaco,2020,Dengue ,9,De 45 A 64 Años,2.0,April
+22098,Mayor Luis J. Fontana,22,Chaco,2020,Dengue ,3,1 a 2 años,1.0,May
+22098,Mayor Luis J. Fontana,22,Chaco,2020,Dengue ,6,De 15 a 24 años,5.0,May
+22098,Mayor Luis J. Fontana,22,Chaco,2020,Dengue ,6,De 15 a 24 años,8.0,May
+22098,Mayor Luis J. Fontana,22,Chaco,2020,Dengue ,7,De 25 A 34 Años,3.0,May
+22098,Mayor Luis J. Fontana,22,Chaco,2020,Dengue ,8,De 35 A 44 Años,1.0,May
+22098,Mayor Luis J. Fontana,22,Chaco,2020,Dengue ,5,De 10 A 14 Años,2.0,May
+22098,Mayor Luis J. Fontana,22,Chaco,2020,Dengue ,6,De 15 a 24 años,2.0,May
+22098,Mayor Luis J. Fontana,22,Chaco,2020,Dengue ,6,De 15 a 24 años,2.0,May
+22098,Mayor Luis J. Fontana,22,Chaco,2020,Dengue ,7,De 25 A 34 Años,4.0,May
+22098,Mayor Luis J. Fontana,22,Chaco,2020,Dengue ,8,De 35 A 44 Años,6.0,May
+22098,Mayor Luis J. Fontana,22,Chaco,2020,Dengue ,9,De 45 A 64 Años,1.0,May
+22098,Mayor Luis J. Fontana,22,Chaco,2020,Dengue ,10,Mayor a 65 años,1.0,May
+22098,Mayor Luis J. Fontana,22,Chaco,2020,Dengue ,4,De 5 A 9 Años,5.0,May
+22098,Mayor Luis J. Fontana,22,Chaco,2020,Dengue ,5,De 10 A 14 Años,2.0,May
+22098,Mayor Luis J. Fontana,22,Chaco,2020,Dengue ,6,De 15 a 24 años,3.0,May
+22098,Mayor Luis J. Fontana,22,Chaco,2020,Dengue ,6,De 15 a 24 años,3.0,May
+22098,Mayor Luis J. Fontana,22,Chaco,2020,Dengue ,7,De 25 A 34 Años,7.0,May
+22098,Mayor Luis J. Fontana,22,Chaco,2020,Dengue ,8,De 35 A 44 Años,5.0,May
+22098,Mayor Luis J. Fontana,22,Chaco,2020,Dengue ,9,De 45 A 64 Años,5.0,May
+22098,Mayor Luis J. Fontana,22,Chaco,2020,Dengue ,10,Mayor a 65 años,2.0,May
+22098,Mayor Luis J. Fontana,22,Chaco,2020,Dengue ,5,De 10 A 14 Años,2.0,May
+22098,Mayor Luis J. Fontana,22,Chaco,2020,Dengue ,6,De 15 a 24 años,2.0,May
+22098,Mayor Luis J. Fontana,22,Chaco,2020,Dengue ,6,De 15 a 24 años,1.0,May
+22098,Mayor Luis J. Fontana,22,Chaco,2020,Dengue ,7,De 25 A 34 Años,3.0,May
+22098,Mayor Luis J. Fontana,22,Chaco,2020,Dengue ,8,De 35 A 44 Años,6.0,May
+22098,Mayor Luis J. Fontana,22,Chaco,2020,Dengue ,9,De 45 A 64 Años,2.0,May
+22098,Mayor Luis J. Fontana,22,Chaco,2020,Dengue ,10,Mayor a 65 años,3.0,May
+22098,Mayor Luis J. Fontana,22,Chaco,2020,Dengue ,5,De 10 A 14 Años,2.0,June
+22098,Mayor Luis J. Fontana,22,Chaco,2020,Dengue ,6,De 15 a 24 años,1.0,June
+22098,Mayor Luis J. Fontana,22,Chaco,2020,Dengue ,7,De 25 A 34 Años,5.0,June
+22098,Mayor Luis J. Fontana,22,Chaco,2020,Dengue ,8,De 35 A 44 Años,2.0,June
+22098,Mayor Luis J. Fontana,22,Chaco,2020,Dengue ,9,De 45 A 64 Años,2.0,June
+22098,Mayor Luis J. Fontana,22,Chaco,2020,Dengue ,6,De 15 a 24 años,1.0,June
+22098,Mayor Luis J. Fontana,22,Chaco,2020,Dengue ,6,De 15 a 24 años,2.0,June
+22098,Mayor Luis J. Fontana,22,Chaco,2020,Dengue ,7,De 25 A 34 Años,1.0,June
+22098,Mayor Luis J. Fontana,22,Chaco,2020,Dengue ,8,De 35 A 44 Años,1.0,June
+22098,Mayor Luis J. Fontana,22,Chaco,2020,Dengue ,9,De 45 A 64 Años,3.0,June
+22098,Mayor Luis J. Fontana,22,Chaco,2020,Dengue ,9,De 45 A 64 Años,1.0,June
+22098,Mayor Luis J. Fontana,22,Chaco,2020,Dengue ,8,De 35 A 44 Años,1.0,July
+22098,Mayor Luis J. Fontana,22,Chaco,2020,Dengue ,10,Mayor a 65 años,1.0,October
+22098,Mayor Luis J. Fontana,22,Chaco,2020,Dengue ,3,De 2 A 4 Años,4.0,November
+22098,Mayor Luis J. Fontana,22,Chaco,2020,Dengue ,4,De 5 A 9 Años,3.0,November
+22098,Mayor Luis J. Fontana,22,Chaco,2020,Dengue ,6,De 15 a 24 años,1.0,November
+22098,Mayor Luis J. Fontana,22,Chaco,2020,Dengue ,7,De 25 A 34 Años,3.0,November
+22098,Mayor Luis J. Fontana,22,Chaco,2020,Dengue ,9,De 45 A 64 Años,1.0,November
+22098,Mayor Luis J. Fontana,22,Chaco,2020,Dengue ,10,Mayor a 65 años,1.0,November
+90105,Tafí Viejo,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,1.0,April
+90105,Tafí Viejo,90,Tucumán,2020,Dengue ,7,De 25 A 34 Años,2.0,April
+90105,Tafí Viejo,90,Tucumán,2020,Dengue ,9,De 45 A 64 Años,1.0,April
+90105,Tafí Viejo,90,Tucumán,2020,Dengue ,5,De 10 A 14 Años,1.0,April
+90105,Tafí Viejo,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,4.0,April
+90105,Tafí Viejo,90,Tucumán,2020,Dengue ,7,De 25 A 34 Años,6.0,April
+90105,Tafí Viejo,90,Tucumán,2020,Dengue ,8,De 35 A 44 Años,5.0,April
+90105,Tafí Viejo,90,Tucumán,2020,Dengue ,9,De 45 A 64 Años,2.0,April
+90105,Tafí Viejo,90,Tucumán,2020,Dengue ,4,De 5 A 9 Años,1.0,April
+90105,Tafí Viejo,90,Tucumán,2020,Dengue ,5,De 10 A 14 Años,2.0,April
+90105,Tafí Viejo,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,1.0,April
+90105,Tafí Viejo,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,4.0,April
+90105,Tafí Viejo,90,Tucumán,2020,Dengue ,7,De 25 A 34 Años,8.0,April
+90105,Tafí Viejo,90,Tucumán,2020,Dengue ,8,De 35 A 44 Años,5.0,April
+90105,Tafí Viejo,90,Tucumán,2020,Dengue ,9,De 45 A 64 Años,12.0,April
+90105,Tafí Viejo,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,1.0,April
+90105,Tafí Viejo,90,Tucumán,2020,Dengue ,3,De 2 A 4 Años,4.0,May
+90105,Tafí Viejo,90,Tucumán,2020,Dengue ,4,De 5 A 9 Años,8.0,May
+90105,Tafí Viejo,90,Tucumán,2020,Dengue ,5,De 10 A 14 Años,6.0,May
+90105,Tafí Viejo,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,9.0,May
+90105,Tafí Viejo,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,5.0,May
+90105,Tafí Viejo,90,Tucumán,2020,Dengue ,7,De 25 A 34 Años,18.0,May
+90105,Tafí Viejo,90,Tucumán,2020,Dengue ,8,De 35 A 44 Años,12.0,May
+90105,Tafí Viejo,90,Tucumán,2020,Dengue ,9,De 45 A 64 Años,13.0,May
+90105,Tafí Viejo,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,2.0,May
+90105,Tafí Viejo,90,Tucumán,2020,Dengue ,3,De 2 A 4 Años,2.0,May
+90105,Tafí Viejo,90,Tucumán,2020,Dengue ,4,De 5 A 9 Años,6.0,May
+90105,Tafí Viejo,90,Tucumán,2020,Dengue ,5,De 10 A 14 Años,8.0,May
+90105,Tafí Viejo,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,18.0,May
+90105,Tafí Viejo,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,12.0,May
+90105,Tafí Viejo,90,Tucumán,2020,Dengue ,7,De 25 A 34 Años,13.0,May
+90105,Tafí Viejo,90,Tucumán,2020,Dengue ,8,De 35 A 44 Años,10.0,May
+90105,Tafí Viejo,90,Tucumán,2020,Dengue ,9,De 45 A 64 Años,8.0,May
+90105,Tafí Viejo,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,2.0,May
+90105,Tafí Viejo,90,Tucumán,2020,Dengue ,4,De 5 A 9 Años,1.0,May
+90105,Tafí Viejo,90,Tucumán,2020,Dengue ,5,De 10 A 14 Años,3.0,May
+90105,Tafí Viejo,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,5.0,May
+90105,Tafí Viejo,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,9.0,May
+90105,Tafí Viejo,90,Tucumán,2020,Dengue ,7,De 25 A 34 Años,12.0,May
+90105,Tafí Viejo,90,Tucumán,2020,Dengue ,8,De 35 A 44 Años,7.0,May
+90105,Tafí Viejo,90,Tucumán,2020,Dengue ,9,De 45 A 64 Años,7.0,May
+90105,Tafí Viejo,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,1.0,May
+90105,Tafí Viejo,90,Tucumán,2020,Dengue ,3,De 2 A 4 Años,2.0,May
+90105,Tafí Viejo,90,Tucumán,2020,Dengue ,5,De 10 A 14 Años,3.0,May
+90105,Tafí Viejo,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,1.0,May
+90105,Tafí Viejo,90,Tucumán,2020,Dengue ,7,De 25 A 34 Años,2.0,May
+90105,Tafí Viejo,90,Tucumán,2020,Dengue ,8,De 35 A 44 Años,5.0,May
+90105,Tafí Viejo,90,Tucumán,2020,Dengue ,9,De 45 A 64 Años,3.0,May
+90105,Tafí Viejo,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,1.0,June
+90105,Tafí Viejo,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,2.0,June
+90105,Tafí Viejo,90,Tucumán,2020,Dengue ,9,De 45 A 64 Años,1.0,June
+18112,Monte Caseros,18,Corrientes,2020,Dengue ,5,De 10 A 14 Años,1.0,March
+18112,Monte Caseros,18,Corrientes,2020,Dengue ,6,De 15 a 24 años,1.0,June
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,4,De 5 A 9 Años,1.0,March
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,2.0,March
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,2.0,March
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,7,De 25 A 34 Años,1.0,March
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,9,De 45 A 64 Años,3.0,March
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,4,De 5 A 9 Años,2.0,March
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,5,De 10 A 14 Años,3.0,March
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,5.0,March
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,4.0,March
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,7,De 25 A 34 Años,9.0,March
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,8,De 35 A 44 Años,6.0,March
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,9,De 45 A 64 Años,4.0,March
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,1.0,March
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,1.0,April
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,3.0,April
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,7,De 25 A 34 Años,5.0,April
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,8,De 35 A 44 Años,2.0,April
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,9,De 45 A 64 Años,5.0,April
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,1.0,April
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,3,De 2 A 4 Años,2.0,April
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,6.0,April
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,4.0,April
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,7,De 25 A 34 Años,11.0,April
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,8,De 35 A 44 Años,7.0,April
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,9,De 45 A 64 Años,6.0,April
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,1.0,April
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,2.0,April
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,4,De 5 A 9 Años,3.0,April
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,5,De 10 A 14 Años,10.0,April
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,14.0,April
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,13.0,April
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,7,De 25 A 34 Años,16.0,April
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,8,De 35 A 44 Años,13.0,April
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,9,De 45 A 64 Años,16.0,April
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,2.0,April
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,3.0,April
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,3,1 a 2 años,2.0,April
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,3,De 2 A 4 Años,1.0,April
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,4,De 5 A 9 Años,2.0,April
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,5,De 10 A 14 Años,7.0,April
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,17.0,April
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,18.0,April
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,7,De 25 A 34 Años,27.0,April
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,8,De 35 A 44 Años,23.0,April
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,9,De 45 A 64 Años,23.0,April
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,1.0,April
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,2.0,May
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,3,1 a 2 años,5.0,May
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,3,De 2 A 4 Años,1.0,May
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,5,De 10 A 14 Años,12.0,May
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,11.0,May
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,9.0,May
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,7,De 25 A 34 Años,21.0,May
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,8,De 35 A 44 Años,11.0,May
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,9,De 45 A 64 Años,21.0,May
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,5.0,May
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,1.0,May
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,4,De 5 A 9 Años,3.0,May
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,5,De 10 A 14 Años,7.0,May
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,10.0,May
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,12.0,May
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,7,De 25 A 34 Años,14.0,May
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,8,De 35 A 44 Años,13.0,May
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,9,De 45 A 64 Años,13.0,May
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,4.0,May
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,3,1 a 2 años,1.0,May
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,3,De 2 A 4 Años,1.0,May
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,4,De 5 A 9 Años,1.0,May
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,5,De 10 A 14 Años,13.0,May
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,7.0,May
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,9.0,May
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,7,De 25 A 34 Años,17.0,May
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,8,De 35 A 44 Años,16.0,May
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,9,De 45 A 64 Años,27.0,May
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,2.0,May
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,3,De 2 A 4 Años,1.0,May
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,4,De 5 A 9 Años,3.0,May
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,5,De 10 A 14 Años,3.0,May
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,8.0,May
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,8.0,May
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,7,De 25 A 34 Años,21.0,May
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,8,De 35 A 44 Años,22.0,May
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,9,De 45 A 64 Años,11.0,May
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,3.0,May
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,3,De 2 A 4 Años,2.0,June
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,4,De 5 A 9 Años,2.0,June
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,5,De 10 A 14 Años,1.0,June
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,8.0,June
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,8.0,June
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,7,De 25 A 34 Años,6.0,June
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,8,De 35 A 44 Años,11.0,June
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,9,De 45 A 64 Años,5.0,June
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,3.0,June
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,4.0,June
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,6.0,June
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,7,De 25 A 34 Años,8.0,June
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,8,De 35 A 44 Años,12.0,June
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,9,De 45 A 64 Años,4.0,June
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,10,Mayor a 65 años,1.0,June
+90119,Yerba Buena,90,Tucumán,2020,Dengue ,6,De 15 a 24 años,1.0,June
+66126,Orán,66,Salta,2020,Dengue ,8,De 35 A 44 Años,1.0,February
+66126,Orán,66,Salta,2020,Dengue ,5,De 10 A 14 Años,1.0,March
+66126,Orán,66,Salta,2020,Dengue ,6,De 15 a 24 años,2.0,March
+66126,Orán,66,Salta,2020,Dengue ,6,De 15 a 24 años,1.0,March
+66126,Orán,66,Salta,2020,Dengue ,7,De 25 A 34 Años,3.0,March
+66126,Orán,66,Salta,2020,Dengue ,8,De 35 A 44 Años,1.0,March
+66126,Orán,66,Salta,2020,Dengue ,9,De 45 A 64 Años,1.0,March
+66126,Orán,66,Salta,2020,Dengue ,5,De 10 A 14 Años,1.0,March
+66126,Orán,66,Salta,2020,Dengue ,6,De 15 a 24 años,1.0,March
+66126,Orán,66,Salta,2020,Dengue ,6,De 15 a 24 años,2.0,March
+66126,Orán,66,Salta,2020,Dengue ,7,De 25 A 34 Años,2.0,March
+66126,Orán,66,Salta,2020,Dengue ,8,De 35 A 44 Años,2.0,March
+66126,Orán,66,Salta,2020,Dengue ,9,De 45 A 64 Años,1.0,March
+66126,Orán,66,Salta,2020,Dengue ,5,De 10 A 14 Años,1.0,April
+66126,Orán,66,Salta,2020,Dengue ,6,De 15 a 24 años,1.0,April
+66126,Orán,66,Salta,2020,Dengue ,7,De 25 A 34 Años,3.0,April
+66126,Orán,66,Salta,2020,Dengue ,8,De 35 A 44 Años,2.0,April
+66126,Orán,66,Salta,2020,Dengue ,9,De 45 A 64 Años,1.0,April
+66126,Orán,66,Salta,2020,Dengue ,10,Mayor a 65 años,1.0,April
+66126,Orán,66,Salta,2020,Dengue ,9,De 45 A 64 Años,1.0,April
+66126,Orán,66,Salta,2020,Dengue ,0,Desconocido/Sin Especificar,168.0,April
+66126,Orán,66,Salta,2020,Dengue ,5,De 10 A 14 Años,1.0,April
+66126,Orán,66,Salta,2020,Dengue ,6,De 15 a 24 años,3.0,April
+66126,Orán,66,Salta,2020,Dengue ,7,De 25 A 34 Años,5.0,April
+66126,Orán,66,Salta,2020,Dengue ,8,De 35 A 44 Años,2.0,April
+66126,Orán,66,Salta,2020,Dengue ,9,De 45 A 64 Años,2.0,April
+66126,Orán,66,Salta,2020,Dengue ,4,De 5 A 9 Años,1.0,April
+66126,Orán,66,Salta,2020,Dengue ,5,De 10 A 14 Años,3.0,April
+66126,Orán,66,Salta,2020,Dengue ,6,De 15 a 24 años,1.0,April
+66126,Orán,66,Salta,2020,Dengue ,6,De 15 a 24 años,2.0,April
+66126,Orán,66,Salta,2020,Dengue ,7,De 25 A 34 Años,4.0,April
+66126,Orán,66,Salta,2020,Dengue ,8,De 35 A 44 Años,3.0,April
+66126,Orán,66,Salta,2020,Dengue ,9,De 45 A 64 Años,2.0,April
+66126,Orán,66,Salta,2020,Dengue ,10,Mayor a 65 años,1.0,April
+66126,Orán,66,Salta,2020,Dengue ,3,De 2 A 4 Años,1.0,May
+66126,Orán,66,Salta,2020,Dengue ,4,De 5 A 9 Años,2.0,May
+66126,Orán,66,Salta,2020,Dengue ,6,De 15 a 24 años,1.0,May
+66126,Orán,66,Salta,2020,Dengue ,7,De 25 A 34 Años,3.0,May
+66126,Orán,66,Salta,2020,Dengue ,8,De 35 A 44 Años,2.0,May
+66126,Orán,66,Salta,2020,Dengue ,9,De 45 A 64 Años,3.0,May
+66126,Orán,66,Salta,2020,Dengue ,0,Desconocido/Sin Especificar,92.0,May
+66126,Orán,66,Salta,2020,Dengue ,6,De 15 a 24 años,1.0,May
+66126,Orán,66,Salta,2020,Dengue ,6,De 15 a 24 años,3.0,May
+66126,Orán,66,Salta,2020,Dengue ,8,De 35 A 44 Años,1.0,May
+66126,Orán,66,Salta,2020,Dengue ,9,De 45 A 64 Años,1.0,May
+66126,Orán,66,Salta,2020,Dengue ,0,Desconocido/Sin Especificar,37.0,May
+66126,Orán,66,Salta,2020,Dengue ,5,De 10 A 14 Años,2.0,May
+66126,Orán,66,Salta,2020,Dengue ,6,De 15 a 24 años,5.0,May
+66126,Orán,66,Salta,2020,Dengue ,6,De 15 a 24 años,1.0,May
+66126,Orán,66,Salta,2020,Dengue ,8,De 35 A 44 Años,7.0,May
+66126,Orán,66,Salta,2020,Dengue ,9,De 45 A 64 Años,1.0,May
+66126,Orán,66,Salta,2020,Dengue ,10,Mayor a 65 años,2.0,May
+66126,Orán,66,Salta,2020,Dengue ,0,Desconocido/Sin Especificar,110.0,May
+66126,Orán,66,Salta,2020,Dengue ,4,De 5 A 9 Años,1.0,May
+66126,Orán,66,Salta,2020,Dengue ,5,De 10 A 14 Años,1.0,May
+66126,Orán,66,Salta,2020,Dengue ,6,De 15 a 24 años,2.0,May
+66126,Orán,66,Salta,2020,Dengue ,6,De 15 a 24 años,3.0,May
+66126,Orán,66,Salta,2020,Dengue ,8,De 35 A 44 Años,3.0,May
+66126,Orán,66,Salta,2020,Dengue ,9,De 45 A 64 Años,1.0,May
+66126,Orán,66,Salta,2020,Dengue ,0,Desconocido/Sin Especificar,37.0,May
+66126,Orán,66,Salta,2020,Dengue ,3,De 2 A 4 Años,2.0,June
+66126,Orán,66,Salta,2020,Dengue ,4,De 5 A 9 Años,1.0,June
+66126,Orán,66,Salta,2020,Dengue ,6,De 15 a 24 años,2.0,June
+66126,Orán,66,Salta,2020,Dengue ,7,De 25 A 34 Años,1.0,June
+66126,Orán,66,Salta,2020,Dengue ,8,De 35 A 44 Años,1.0,June
+66126,Orán,66,Salta,2020,Dengue ,0,Desconocido/Sin Especificar,31.0,June
+66126,Orán,66,Salta,2020,Dengue ,5,De 10 A 14 Años,1.0,June
+66126,Orán,66,Salta,2020,Dengue ,7,De 25 A 34 Años,2.0,June
+66126,Orán,66,Salta,2020,Dengue ,0,Desconocido/Sin Especificar,22.0,June
+66126,Orán,66,Salta,2020,Dengue ,6,De 15 a 24 años,3.0,June
+66126,Orán,66,Salta,2020,Dengue ,6,De 15 a 24 años,1.0,June
+66126,Orán,66,Salta,2020,Dengue ,7,De 25 A 34 Años,3.0,June
+66126,Orán,66,Salta,2020,Dengue ,9,De 45 A 64 Años,1.0,June
+66126,Orán,66,Salta,2020,Dengue ,0,Desconocido/Sin Especificar,14.0,June
+66126,Orán,66,Salta,2020,Dengue ,0,Desconocido/Sin Especificar,45.0,June
+66126,Orán,66,Salta,2020,Dengue ,4,De 5 A 9 Años,1.0,July
+66126,Orán,66,Salta,2020,Dengue ,6,De 15 a 24 años,2.0,July
+66126,Orán,66,Salta,2020,Dengue ,8,De 35 A 44 Años,2.0,July
+66126,Orán,66,Salta,2020,Dengue ,5,De 10 A 14 Años,1.0,December
+66126,Orán,66,Salta,2020,Dengue ,9,De 45 A 64 Años,1.0,December
+66126,Orán,66,Salta,2020,Dengue ,7,De 25 A 34 Años,1.0,January
+66133,Rivadavia,66,Salta,2020,Dengue ,3,De 2 A 4 Años,1.0,May
+66133,Rivadavia,66,Salta,2020,Dengue ,6,De 15 a 24 años,4.0,May
+66133,Rivadavia,66,Salta,2020,Dengue ,9,De 45 A 64 Años,2.0,May
+66140,Rosario De La Frontera,66,Salta,2020,Dengue ,9,De 45 A 64 Años,1.0,June
+66140,Rosario De La Frontera,66,Salta,2020,Dengue ,10,Mayor a 65 años,1.0,July
+22140,San Fernando,22,Chaco,2020,Dengue ,3,1 a 2 años,1.0,March
+22140,San Fernando,22,Chaco,2020,Dengue ,4,De 5 A 9 Años,1.0,March
+22140,San Fernando,22,Chaco,2020,Dengue ,5,De 10 A 14 Años,1.0,March
+22140,San Fernando,22,Chaco,2020,Dengue ,9,De 45 A 64 Años,1.0,April
+22140,San Fernando,22,Chaco,2020,Dengue ,6,De 15 a 24 años,1.0,May
+22140,San Fernando,22,Chaco,2020,Dengue ,6,De 15 a 24 años,3.0,May
+22140,San Fernando,22,Chaco,2020,Dengue ,7,De 25 A 34 Años,4.0,May
+22140,San Fernando,22,Chaco,2020,Dengue ,8,De 35 A 44 Años,2.0,May
+22140,San Fernando,22,Chaco,2020,Dengue ,9,De 45 A 64 Años,5.0,May
+22140,San Fernando,22,Chaco,2020,Dengue ,5,De 10 A 14 Años,1.0,May
+22140,San Fernando,22,Chaco,2020,Dengue ,6,De 15 a 24 años,4.0,May
+22140,San Fernando,22,Chaco,2020,Dengue ,7,De 25 A 34 Años,2.0,May
+22140,San Fernando,22,Chaco,2020,Dengue ,10,Mayor a 65 años,2.0,May
+22140,San Fernando,22,Chaco,2020,Dengue ,5,De 10 A 14 Años,1.0,May
+22140,San Fernando,22,Chaco,2020,Dengue ,7,De 25 A 34 Años,3.0,May
+22140,San Fernando,22,Chaco,2020,Dengue ,8,De 35 A 44 Años,1.0,May
+22140,San Fernando,22,Chaco,2020,Dengue ,9,De 45 A 64 Años,1.0,May
+22140,San Fernando,22,Chaco,2020,Dengue ,10,Mayor a 65 años,1.0,May
+22140,San Fernando,22,Chaco,2020,Dengue ,6,De 15 a 24 años,2.0,May
+22140,San Fernando,22,Chaco,2020,Dengue ,7,De 25 A 34 Años,1.0,May
+22140,San Fernando,22,Chaco,2020,Dengue ,9,De 45 A 64 Años,2.0,May
+22140,San Fernando,22,Chaco,2020,Dengue ,4,De 5 A 9 Años,1.0,June
+22140,San Fernando,22,Chaco,2020,Dengue ,5,De 10 A 14 Años,1.0,June
+22140,San Fernando,22,Chaco,2020,Dengue ,6,De 15 a 24 años,1.0,June
+22140,San Fernando,22,Chaco,2020,Dengue ,8,De 35 A 44 Años,2.0,June
+22140,San Fernando,22,Chaco,2020,Dengue ,4,De 5 A 9 Años,3.0,June
+22140,San Fernando,22,Chaco,2020,Dengue ,6,De 15 a 24 años,1.0,June
+22140,San Fernando,22,Chaco,2020,Dengue ,7,De 25 A 34 Años,1.0,June
+22140,San Fernando,22,Chaco,2020,Dengue ,8,De 35 A 44 Años,1.0,June
+22140,San Fernando,22,Chaco,2020,Dengue ,8,De 35 A 44 Años,1.0,June
+86147,Río Hondo,86,Santiago Del Estero,2020,Dengue ,4,De 5 A 9 Años,2.0,June
+86147,Río Hondo,86,Santiago Del Estero,2020,Dengue ,5,De 10 A 14 Años,1.0,June
+86147,Río Hondo,86,Santiago Del Estero,2020,Dengue ,6,De 15 a 24 años,3.0,June
+86147,Río Hondo,86,Santiago Del Estero,2020,Dengue ,6,De 15 a 24 años,2.0,June
+86147,Río Hondo,86,Santiago Del Estero,2020,Dengue ,7,De 25 A 34 Años,3.0,June
+86147,Río Hondo,86,Santiago Del Estero,2020,Dengue ,8,De 35 A 44 Años,5.0,June
+86147,Río Hondo,86,Santiago Del Estero,2020,Dengue ,9,De 45 A 64 Años,5.0,June
+86147,Río Hondo,86,Santiago Del Estero,2020,Dengue ,10,Mayor a 65 años,1.0,June
+86147,Río Hondo,86,Santiago Del Estero,2020,Dengue ,5,De 10 A 14 Años,1.0,June
+86147,Río Hondo,86,Santiago Del Estero,2020,Dengue ,6,De 15 a 24 años,5.0,June
+86147,Río Hondo,86,Santiago Del Estero,2020,Dengue ,6,De 15 a 24 años,3.0,June
+86147,Río Hondo,86,Santiago Del Estero,2020,Dengue ,7,De 25 A 34 Años,5.0,June
+86147,Río Hondo,86,Santiago Del Estero,2020,Dengue ,8,De 35 A 44 Años,5.0,June
+86147,Río Hondo,86,Santiago Del Estero,2020,Dengue ,9,De 45 A 64 Años,2.0,June
+86147,Río Hondo,86,Santiago Del Estero,2020,Dengue ,6,De 15 a 24 años,3.0,June
+86147,Río Hondo,86,Santiago Del Estero,2020,Dengue ,6,De 15 a 24 años,4.0,June
+86147,Río Hondo,86,Santiago Del Estero,2020,Dengue ,7,De 25 A 34 Años,3.0,June
+86147,Río Hondo,86,Santiago Del Estero,2020,Dengue ,8,De 35 A 44 Años,3.0,June
+86147,Río Hondo,86,Santiago Del Estero,2020,Dengue ,9,De 45 A 64 Años,1.0,June
+86147,Río Hondo,86,Santiago Del Estero,2020,Dengue ,6,De 15 a 24 años,1.0,June
+86147,Río Hondo,86,Santiago Del Estero,2020,Dengue ,7,De 25 A 34 Años,2.0,June
+86147,Río Hondo,86,Santiago Del Estero,2020,Dengue ,8,De 35 A 44 Años,1.0,June
+22147,San Lorenzo,22,Chaco,2020,Dengue ,4,De 5 A 9 Años,1.0,April
+22147,San Lorenzo,22,Chaco,2020,Dengue ,6,De 15 a 24 años,1.0,April
+22147,San Lorenzo,22,Chaco,2020,Dengue ,7,De 25 A 34 Años,3.0,April
+22147,San Lorenzo,22,Chaco,2020,Dengue ,8,De 35 A 44 Años,3.0,April
+22147,San Lorenzo,22,Chaco,2020,Dengue ,6,De 15 a 24 años,1.0,April
+22147,San Lorenzo,22,Chaco,2020,Dengue ,7,De 25 A 34 Años,2.0,April
+22147,San Lorenzo,22,Chaco,2020,Dengue ,8,De 35 A 44 Años,5.0,April
+22147,San Lorenzo,22,Chaco,2020,Dengue ,9,De 45 A 64 Años,1.0,April
+22147,San Lorenzo,22,Chaco,2020,Dengue ,10,Mayor a 65 años,1.0,April
+22147,San Lorenzo,22,Chaco,2020,Dengue ,5,De 10 A 14 Años,2.0,April
+22147,San Lorenzo,22,Chaco,2020,Dengue ,6,De 15 a 24 años,2.0,April
+22147,San Lorenzo,22,Chaco,2020,Dengue ,6,De 15 a 24 años,7.0,April
+22147,San Lorenzo,22,Chaco,2020,Dengue ,7,De 25 A 34 Años,7.0,April
+22147,San Lorenzo,22,Chaco,2020,Dengue ,8,De 35 A 44 Años,5.0,April
+22147,San Lorenzo,22,Chaco,2020,Dengue ,9,De 45 A 64 Años,4.0,April
+22147,San Lorenzo,22,Chaco,2020,Dengue ,5,De 10 A 14 Años,1.0,May
+22147,San Lorenzo,22,Chaco,2020,Dengue ,6,De 15 a 24 años,1.0,May
+22147,San Lorenzo,22,Chaco,2020,Dengue ,7,De 25 A 34 Años,1.0,May
+22147,San Lorenzo,22,Chaco,2020,Dengue ,8,De 35 A 44 Años,4.0,May
+22147,San Lorenzo,22,Chaco,2020,Dengue ,4,De 5 A 9 Años,4.0,May
+22147,San Lorenzo,22,Chaco,2020,Dengue ,6,De 15 a 24 años,1.0,May
+22147,San Lorenzo,22,Chaco,2020,Dengue ,7,De 25 A 34 Años,2.0,May
+22147,San Lorenzo,22,Chaco,2020,Dengue ,8,De 35 A 44 Años,6.0,May
+22147,San Lorenzo,22,Chaco,2020,Dengue ,9,De 45 A 64 Años,5.0,May
+22147,San Lorenzo,22,Chaco,2020,Dengue ,10,Mayor a 65 años,2.0,May
+22147,San Lorenzo,22,Chaco,2020,Dengue ,3,De 2 A 4 Años,1.0,May
+22147,San Lorenzo,22,Chaco,2020,Dengue ,4,De 5 A 9 Años,2.0,May
+22147,San Lorenzo,22,Chaco,2020,Dengue ,6,De 15 a 24 años,2.0,May
+22147,San Lorenzo,22,Chaco,2020,Dengue ,6,De 15 a 24 años,3.0,May
+22147,San Lorenzo,22,Chaco,2020,Dengue ,7,De 25 A 34 Años,2.0,May
+22147,San Lorenzo,22,Chaco,2020,Dengue ,8,De 35 A 44 Años,3.0,May
+22147,San Lorenzo,22,Chaco,2020,Dengue ,9,De 45 A 64 Años,4.0,May
+22147,San Lorenzo,22,Chaco,2020,Dengue ,10,Mayor a 65 años,2.0,May
+22147,San Lorenzo,22,Chaco,2020,Dengue ,10,Mayor a 65 años,1.0,May
+22147,San Lorenzo,22,Chaco,2020,Dengue ,6,De 15 a 24 años,1.0,June
+22147,San Lorenzo,22,Chaco,2020,Dengue ,7,De 25 A 34 Años,2.0,June
+22147,San Lorenzo,22,Chaco,2020,Dengue ,9,De 45 A 64 Años,1.0,June
+22147,San Lorenzo,22,Chaco,2020,Dengue ,10,Mayor a 65 años,2.0,June
+18168,Santo Tomé,18,Corrientes,2020,Dengue ,7,De 25 A 34 Años,1.0,May
+18168,Santo Tomé,18,Corrientes,2020,Dengue ,9,De 45 A 64 Años,1.0,May
+>>>>>>> 3e84150bc088a8f4befc3eb409e66a23d4a61e10
 06648,Presidente Perón,06,Buenos Aires,2021,Dengue,6,De 15 a 24 años,1.0,March
 06760,San Miguel,06,Buenos Aires,2021,Dengue,3,De 2 A 4 Años,1.0,May
 06371,General San Martín,06,Buenos Aires,2021,Dengue,7,De 25 A 34 Años,1.0,March
