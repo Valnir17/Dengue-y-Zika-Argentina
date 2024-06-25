@@ -1,5 +1,4 @@
 id_depto,depto
-00002,Comuna 1
 00028,Capital
 00056,Grl. José De San Martín
 00126,Orán
@@ -53,8 +52,8 @@ id_depto,depto
 06245,Ensenada
 06252,Escobar
 06260,Esteban Echeverría
-06266,Exaltación De La Cruz
 06266,Exaltacion De La Cruz
+06266,Exaltación De La Cruz
 06270,Ezeiza
 06274,Florencio Varela
 06277,Florentino Ameghino
@@ -69,10 +68,10 @@ id_depto,depto
 06336,General Lavalle
 06343,General Paz
 06351,General Pinto
-06357,General Pueyrredon
 06357,General Pueyrredón
-06364,General San Martin
+06357,General Pueyrredon
 06364,General Rodríguez
+06364,General San Martin
 06371,#¡Valor!
 06371,General San Martín
 06385,General Viamonte
@@ -82,8 +81,8 @@ id_depto,depto
 06408,Hurlingham
 06410,Ituzaingo
 06410,Ituzaingó
-06412,José C. Paz
 06412,Jose C. Paz
+06412,José C. Paz
 06413,Junín
 06420,La Costa
 06427,La Matanza
@@ -124,8 +123,8 @@ id_depto,depto
 06648,Presidente Perón
 06651,Puán
 06655,Punta Indio
-06658,Quimes
 06658,Quilmes
+06658,Quimes
 06665,Ramallo
 06672,Rauch
 06679,Rivadavia
@@ -153,8 +152,8 @@ id_depto,depto
 06847,Tres Lomas
 06847,Tres Lomas 
 06854,25 De Mayo
-06861,Presidente Perón
 06861,Vicente López
+06861,Presidente Perón
 06868,Villa Gesell
 06875,Villarino
 06882,Zárate
@@ -188,8 +187,8 @@ id_depto,depto
 14070,Minas
 14077,Pocho
 14084,Presidente Roque Sáenz Peña
-14091,Punilla
 14091,Grl. Jose De San Martin
+14091,Punilla
 14098,Río Cuarto
 14105,Río Primero
 14112,Río Seco
@@ -214,8 +213,8 @@ id_depto,depto
 18063,General Paz
 18070,Goya
 18077,Itatí
-18084,Capital
 18084,Ituzaingó
+18084,Capital
 18091,Lavalle
 18098,Mburucuyá
 18105,Mercedes
@@ -231,8 +230,8 @@ id_depto,depto
 18175,Sauce
 22007,Almirante Brown
 22014,Bermejo
-22021,Comandante Fernandez
 22021,Comandante Fernández
+22021,Comandante Fernandez
 22028,Chacabuco
 22036,12 De Octubre
 22039,2 De Abril
@@ -243,8 +242,8 @@ id_depto,depto
 22063,General Guemes
 22070,Independencia
 22077,Libertad
-22084,Libertador General San Martín
 22084,Libertador General San Martin
+22084,Libertador General San Martín
 22091,Maipú
 22098,Mayor Luis J. Fontana
 22105,9 De Julio
@@ -294,17 +293,17 @@ id_depto,depto
 34035,Patiño
 34042,Pilagás
 34049,Pilcomayo
-34056,Pirané
 34056,Pirane
+34056,Pirané
 34063,Ramón Lista
 38007,Cochinoca
 38014,El Carmen
 38021,Dr. Manuel Belgrano
 38028,Humahuaca
 38035,Ledesma
-38042,Palpalá 
 38042,Palpalá
 38042,Palpala
+38042,Palpalá 
 38056,San Antonio
 38063,San Pedro
 38070,Santa Bárbara
@@ -335,12 +334,12 @@ id_depto,depto
 46014,Capital
 46021,Castro Barros
 46028,Coronel Felipe Varela
-46035,Chamical 
 46035,Chamical
+46035,Chamical 
 46042,Chilecito 
 46042,Chilecito
-46049,Famatina
 46049,Famatina 
+46049,Famatina
 46056,General Angel V. Peñaloza
 46063,General Belgrano
 46070,General Juan F. Quiroga
@@ -371,19 +370,19 @@ id_depto,depto
 50119,Tunuyan
 50119,Tunuyán
 50126,Tupungato
-54007,Apostoles
 54007,Apóstoles
+54007,Apostoles
 54014,Cainguás
 54021,Candelaria
 54028,Capital
-54035,Concepción 
 54035,Concepción
+54035,Concepción 
 54042,Eldorado
 54049,General Manuel Belgrano
 54056,Guarani
 54056,Guaraní
-54063,Iguazu
 54063,Iguazú
+54063,Iguazu
 54070,Leandro N. Alem
 54077,Libertador Grl. San Martin
 54077,Libertador Grl. San Martín
@@ -414,27 +413,27 @@ id_depto,depto
 62077,San Antonio
 62084,Valcheta
 62091,25 De Mayo
-66007,Anta
-66007,Orán
 66007,Grl. José De San Martín
+66007,Orán
+66007,Anta
 66014,Cachi
 66021,Cafayate
 66028,Capital
 66035,Cerrillos 
 66035,Cerrillos
 66042,Chicoana
-66049,General Güemes
 66049,General Guemes
-66056,Grl. José De San Martín
+66049,General Güemes
 66056,Grl. Jose De San Martin
+66056,Grl. José De San Martín
 66063,Guachipas
 66070,Iruya
 66077,La Caldera
 66084,La Candelaria
 66098,La Viña
 66105,Los Andes
-66112,Metán
 66112,Metan
+66112,Metán
 66119,Molinos
 66126,Oran
 66126,Orán
@@ -511,8 +510,8 @@ id_depto,depto
 86063,Ciudad De Buenos Aires
 86070,Figueroa
 86077,General Taboada
-86084,Guasayán
 86084,Capital
+86084,Guasayán
 86091,Jiménez
 86098,Juan F. Ibarra
 86105,Loreto
