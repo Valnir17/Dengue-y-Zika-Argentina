@@ -1,0 +1,84 @@
+2024-06-25 10:55:03,255:WARNING:/tmp/ipykernel_10826/2945403286.py:18: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  TablaCompleta['id_depto'] = TablaCompleta['id_depto'].astype(str)
+
+2024-06-25 10:55:03,281:WARNING:/tmp/ipykernel_10826/2945403286.py:25: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  TablaCompleta['depto'] = np.where(condition, 'La Matanza', TablaCompleta['depto'])
+
+2024-06-25 10:55:03,282:WARNING:/tmp/ipykernel_10826/2945403286.py:26: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  TablaCompleta['id_depto'] = np.where(condition, '06427', TablaCompleta['id_depto'])
+
+2024-06-25 10:55:03,295:WARNING:/tmp/ipykernel_10826/2945403286.py:29: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  TablaCompleta['depto'] = np.where(condition, 'Comuna 1', TablaCompleta['depto'])
+
+2024-06-25 10:55:03,297:WARNING:/tmp/ipykernel_10826/2945403286.py:30: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  TablaCompleta['id_depto'] = np.where(condition, '02001', TablaCompleta['id_depto'])
+
+2024-06-25 10:55:03,300:WARNING:/tmp/ipykernel_10826/2945403286.py:37: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  TablaCompleta['id_depto'] = TablaCompleta['id_depto'].astype(str)
+
+2024-06-25 10:57:12,872:WARNING:/tmp/ipykernel_10914/3145144199.py:18: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  TablaCompleta['id_depto'] = TablaCompleta['id_depto'].astype(str)
+
+2024-06-25 10:57:12,909:WARNING:/tmp/ipykernel_10914/3145144199.py:25: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  TablaCompleta['depto'] = np.where(condition, 'La Matanza', TablaCompleta['depto'])
+
+2024-06-25 10:57:12,911:WARNING:/tmp/ipykernel_10914/3145144199.py:26: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  TablaCompleta['id_depto'] = np.where(condition, '06427', TablaCompleta['id_depto'])
+
+2024-06-25 10:57:12,913:WARNING:/tmp/ipykernel_10914/3145144199.py:34: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  TablaCompleta['id_depto'] = TablaCompleta['id_depto'].astype(str)
+
+2024-06-25 10:57:13,092:WARNING:/tmp/ipykernel_10914/2869671215.py:3: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  TablaCompleta['mes'] = TablaCompleta['semanas'].astype(int).apply(lambda x: calendar.month_name[((x - 1) // 4 + 1) % 12 or 12])
+
+2024-06-25 10:57:13,282:WARNING:/tmp/ipykernel_10914/3611706648.py:6: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  Reportes['id_reporte'] = range(1, len(Reportes) + 1)
+
