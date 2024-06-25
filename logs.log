@@ -491,3 +491,285 @@ Try using .loc[row_indexer,col_indexer] = value instead
 See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
   Reportes['fecha'] = pd.to_datetime(Reportes['año'].astype(str) + '-' + Reportes['mes'], format='%Y-%B')
 
+2024-06-25 12:53:54,969:WARNING:/tmp/ipykernel_8269/2171918742.py:18: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  TablaCompleta['id_depto'] = TablaCompleta['id_depto'].astype(str)
+
+2024-06-25 12:53:55,015:WARNING:/tmp/ipykernel_8269/2171918742.py:25: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  TablaCompleta['depto'] = np.where(condition, 'La Matanza', TablaCompleta['depto'])
+
+2024-06-25 12:53:55,018:WARNING:/tmp/ipykernel_8269/2171918742.py:26: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  TablaCompleta['id_depto'] = np.where(condition, '06427', TablaCompleta['id_depto'])
+
+2024-06-25 12:53:55,025:WARNING:/tmp/ipykernel_8269/2171918742.py:29: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  TablaCompleta['id_depto'] = np.where(condition, '02001', TablaCompleta['id_depto'])
+
+2024-06-25 12:53:55,028:WARNING:/tmp/ipykernel_8269/2171918742.py:37: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  TablaCompleta['id_depto'] = TablaCompleta['id_depto'].astype(str)
+
+2024-06-25 12:53:55,097:WARNING:/tmp/ipykernel_8269/2171918742.py:47: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  TablaCompleta['id_depto'] = np.where(condition, pd.NA, TablaCompleta['id_depto'])
+
+2024-06-25 12:53:55,664:WARNING:/tmp/ipykernel_8269/3611706648.py:6: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  Reportes['id_reporte'] = range(1, len(Reportes) + 1)
+
+2024-06-25 12:53:56,009:WARNING:/tmp/ipykernel_8269/2545685648.py:10: FutureWarning: 
+
+Passing `palette` without assigning `hue` is deprecated and will be removed in v0.14.0. Assign the `x` variable to `hue` and set `legend=False` for the same effect.
+
+  sns.barplot(data=CantProv_por_prov, x='prov', y='count', palette=paleta, order=CantProv_por_prov.sort_values('count', ascending=False)['prov'])
+
+2024-06-25 12:59:20,903:WARNING:/tmp/ipykernel_8269/2483974744.py:3: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  Reportes['date'] = pd.to_datetime(Reportes['año'].astype(str) + '-' + Reportes['mes'].map(lambda x: str(list(calendar.month_name).index(x))).astype(str) + '-01', format='%Y-%m-%d')
+
+2024-06-25 13:51:50,068:WARNING:/tmp/ipykernel_9298/2171918742.py:18: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  TablaCompleta['id_depto'] = TablaCompleta['id_depto'].astype(str)
+
+2024-06-25 13:51:50,108:WARNING:/tmp/ipykernel_9298/2171918742.py:25: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  TablaCompleta['depto'] = np.where(condition, 'La Matanza', TablaCompleta['depto'])
+
+2024-06-25 13:51:50,111:WARNING:/tmp/ipykernel_9298/2171918742.py:26: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  TablaCompleta['id_depto'] = np.where(condition, '06427', TablaCompleta['id_depto'])
+
+2024-06-25 13:51:50,118:WARNING:/tmp/ipykernel_9298/2171918742.py:29: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  TablaCompleta['id_depto'] = np.where(condition, '02001', TablaCompleta['id_depto'])
+
+2024-06-25 13:51:50,123:WARNING:/tmp/ipykernel_9298/2171918742.py:37: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  TablaCompleta['id_depto'] = TablaCompleta['id_depto'].astype(str)
+
+2024-06-25 13:51:50,192:WARNING:/tmp/ipykernel_9298/2171918742.py:47: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  TablaCompleta['id_depto'] = np.where(condition, pd.NA, TablaCompleta['id_depto'])
+
+2024-06-25 13:51:50,892:WARNING:/tmp/ipykernel_9298/3611706648.py:6: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  Reportes['id_reporte'] = range(1, len(Reportes) + 1)
+
+2024-06-25 13:51:51,224:WARNING:/tmp/ipykernel_9298/2545685648.py:10: FutureWarning: 
+
+Passing `palette` without assigning `hue` is deprecated and will be removed in v0.14.0. Assign the `x` variable to `hue` and set `legend=False` for the same effect.
+
+  sns.barplot(data=CantProv_por_prov, x='prov', y='count', palette=paleta, order=CantProv_por_prov.sort_values('count', ascending=False)['prov'])
+
+2024-06-25 14:38:24,632:WARNING:/tmp/ipykernel_9789/2171918742.py:18: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  TablaCompleta['id_depto'] = TablaCompleta['id_depto'].astype(str)
+
+2024-06-25 14:38:24,672:WARNING:/tmp/ipykernel_9789/2171918742.py:25: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  TablaCompleta['depto'] = np.where(condition, 'La Matanza', TablaCompleta['depto'])
+
+2024-06-25 14:38:24,674:WARNING:/tmp/ipykernel_9789/2171918742.py:26: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  TablaCompleta['id_depto'] = np.where(condition, '06427', TablaCompleta['id_depto'])
+
+2024-06-25 14:38:24,681:WARNING:/tmp/ipykernel_9789/2171918742.py:29: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  TablaCompleta['id_depto'] = np.where(condition, '02001', TablaCompleta['id_depto'])
+
+2024-06-25 14:38:24,685:WARNING:/tmp/ipykernel_9789/2171918742.py:37: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  TablaCompleta['id_depto'] = TablaCompleta['id_depto'].astype(str)
+
+2024-06-25 14:38:24,752:WARNING:/tmp/ipykernel_9789/2171918742.py:47: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  TablaCompleta['id_depto'] = np.where(condition, pd.NA, TablaCompleta['id_depto'])
+
+2024-06-25 14:38:25,414:WARNING:/tmp/ipykernel_9789/3611706648.py:6: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  Reportes['id_reporte'] = range(1, len(Reportes) + 1)
+
+2024-06-25 14:38:25,663:WARNING:/tmp/ipykernel_9789/2545685648.py:10: FutureWarning: 
+
+Passing `palette` without assigning `hue` is deprecated and will be removed in v0.14.0. Assign the `x` variable to `hue` and set `legend=False` for the same effect.
+
+  sns.barplot(data=CantProv_por_prov, x='prov', y='count', palette=paleta, order=CantProv_por_prov.sort_values('count', ascending=False)['prov'])
+
+2024-06-25 15:15:36,155:WARNING:/tmp/ipykernel_10481/2171918742.py:18: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  TablaCompleta['id_depto'] = TablaCompleta['id_depto'].astype(str)
+
+2024-06-25 15:15:36,192:WARNING:/tmp/ipykernel_10481/2171918742.py:25: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  TablaCompleta['depto'] = np.where(condition, 'La Matanza', TablaCompleta['depto'])
+
+2024-06-25 15:15:36,193:WARNING:/tmp/ipykernel_10481/2171918742.py:26: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  TablaCompleta['id_depto'] = np.where(condition, '06427', TablaCompleta['id_depto'])
+
+2024-06-25 15:15:36,199:WARNING:/tmp/ipykernel_10481/2171918742.py:29: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  TablaCompleta['id_depto'] = np.where(condition, '02001', TablaCompleta['id_depto'])
+
+2024-06-25 15:15:36,203:WARNING:/tmp/ipykernel_10481/2171918742.py:37: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  TablaCompleta['id_depto'] = TablaCompleta['id_depto'].astype(str)
+
+2024-06-25 15:15:36,272:WARNING:/tmp/ipykernel_10481/2171918742.py:47: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  TablaCompleta['id_depto'] = np.where(condition, pd.NA, TablaCompleta['id_depto'])
+
+2024-06-25 15:15:36,991:WARNING:/tmp/ipykernel_10481/3611706648.py:6: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  Reportes['id_reporte'] = range(1, len(Reportes) + 1)
+
+2024-06-25 15:15:37,261:WARNING:/tmp/ipykernel_10481/2545685648.py:10: FutureWarning: 
+
+Passing `palette` without assigning `hue` is deprecated and will be removed in v0.14.0. Assign the `x` variable to `hue` and set `legend=False` for the same effect.
+
+  sns.barplot(data=CantProv_por_prov, x='prov', y='count', palette=paleta, order=CantProv_por_prov.sort_values('count', ascending=False)['prov'])
+
+2024-06-25 15:51:34,124:WARNING:/tmp/ipykernel_11193/2171918742.py:18: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  TablaCompleta['id_depto'] = TablaCompleta['id_depto'].astype(str)
+
+2024-06-25 15:51:34,157:WARNING:/tmp/ipykernel_11193/2171918742.py:25: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  TablaCompleta['depto'] = np.where(condition, 'La Matanza', TablaCompleta['depto'])
+
+2024-06-25 15:51:34,160:WARNING:/tmp/ipykernel_11193/2171918742.py:26: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  TablaCompleta['id_depto'] = np.where(condition, '06427', TablaCompleta['id_depto'])
+
+2024-06-25 15:51:34,166:WARNING:/tmp/ipykernel_11193/2171918742.py:29: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  TablaCompleta['id_depto'] = np.where(condition, '02001', TablaCompleta['id_depto'])
+
+2024-06-25 15:51:34,168:WARNING:/tmp/ipykernel_11193/2171918742.py:37: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  TablaCompleta['id_depto'] = TablaCompleta['id_depto'].astype(str)
+
+2024-06-25 15:51:34,235:WARNING:/tmp/ipykernel_11193/2171918742.py:47: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  TablaCompleta['id_depto'] = np.where(condition, pd.NA, TablaCompleta['id_depto'])
+
+2024-06-25 15:51:34,787:WARNING:/tmp/ipykernel_11193/3611706648.py:6: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  Reportes['id_reporte'] = range(1, len(Reportes) + 1)
+
+2024-06-25 15:51:35,143:WARNING:/tmp/ipykernel_11193/2545685648.py:10: FutureWarning: 
+
+Passing `palette` without assigning `hue` is deprecated and will be removed in v0.14.0. Assign the `x` variable to `hue` and set `legend=False` for the same effect.
+
+  sns.barplot(data=CantProv_por_prov, x='prov', y='count', palette=paleta, order=CantProv_por_prov.sort_values('count', ascending=False)['prov'])
+
