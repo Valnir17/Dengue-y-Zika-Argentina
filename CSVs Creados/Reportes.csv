@@ -442,9 +442,9 @@ prov_id,id_depto,año,mes,evento,edad_id,cantidad,id_reporte
 18,18126,2018,May,Dengue,10,2.0,441
 18,18168,2018,April,Dengue,8,1.0,442
 30,30015,2018,May,Dengue,7,1.0,443
-31,31084,2018,April,Dengue,9,1.0,444
-32,32084,2018,April,Dengue,8,1.0,445
-33,33084,2018,April,Dengue,10,1.0,446
+30,31084,2018,April,Dengue,9,1.0,444
+30,32084,2018,April,Dengue,8,1.0,445
+30,33084,2018,April,Dengue,10,1.0,446
 34,34014,2018,January,Dengue,6,3.0,447
 34,34014,2018,January,Dengue,9,1.0,448
 34,34014,2018,February,Dengue,7,1.0,449
