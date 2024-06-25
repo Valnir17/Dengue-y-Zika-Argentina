@@ -24,17 +24,17 @@ Rocio Sendra
 
 2) Añadir Dataset de lluvias, humedad y de temperaturas por provincia (o departamento) anualizado para el período que cubren los datasets de dengue. (2018 - 2024) - En Proceso
 
-3) Normalizar todas las tablas
+3) Normalizar todas las tablas - Hecho
 
-4) Gráficos y Análisis Exploratorio
+4) Gráficos y Análisis Exploratorio - En Proceso
 
-5) Reconocimiento de patrones (clasificación, regresión, clustering, etc)
+5) Reconocimiento de patrones (clasificación, regresión, clustering, etc) - Pendiente
 
-6) Evaluación e interpretación de métricas
+6) Evaluación e interpretación de métricas - Pendiente
 
-7) Armar modelo predictivo y gráficos finales
+7) Armar modelo predictivo y gráficos finales - Pendiente
 
-8) Dashboard
+8) Dashboard - Pendiente
 
 ------------------------------------------------------------------------------------
 
