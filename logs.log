@@ -1090,3 +1090,58 @@ Passing `palette` without assigning `hue` is deprecated and will be removed in v
 
   sns.barplot(data=CantProv_por_prov, x='prov', y='count', palette=paleta, order=CantProv_por_prov.sort_values('count', ascending=False)['prov'])
 
+2024-06-26 23:15:32,494:WARNING:/var/folders/46/9s45wmy9699b24x4g7424hym0000gn/T/ipykernel_926/2171918742.py:18: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  TablaCompleta['id_depto'] = TablaCompleta['id_depto'].astype(str)
+
+2024-06-26 23:15:32,522:WARNING:/var/folders/46/9s45wmy9699b24x4g7424hym0000gn/T/ipykernel_926/2171918742.py:25: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  TablaCompleta['depto'] = np.where(condition, 'La Matanza', TablaCompleta['depto'])
+
+2024-06-26 23:15:32,523:WARNING:/var/folders/46/9s45wmy9699b24x4g7424hym0000gn/T/ipykernel_926/2171918742.py:26: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  TablaCompleta['id_depto'] = np.where(condition, '06427', TablaCompleta['id_depto'])
+
+2024-06-26 23:15:32,528:WARNING:/var/folders/46/9s45wmy9699b24x4g7424hym0000gn/T/ipykernel_926/2171918742.py:29: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  TablaCompleta['id_depto'] = np.where(condition, '02001', TablaCompleta['id_depto'])
+
+2024-06-26 23:15:32,530:WARNING:/var/folders/46/9s45wmy9699b24x4g7424hym0000gn/T/ipykernel_926/2171918742.py:37: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  TablaCompleta['id_depto'] = TablaCompleta['id_depto'].astype(str)
+
+2024-06-26 23:15:32,592:WARNING:/var/folders/46/9s45wmy9699b24x4g7424hym0000gn/T/ipykernel_926/2171918742.py:47: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  TablaCompleta['id_depto'] = np.where(condition, pd.NA, TablaCompleta['id_depto'])
+
+2024-06-26 23:15:34,081:WARNING:/var/folders/46/9s45wmy9699b24x4g7424hym0000gn/T/ipykernel_926/3611706648.py:6: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  Reportes['id_reporte'] = range(1, len(Reportes) + 1)
+
+2024-06-26 23:15:34,370:WARNING:/var/folders/46/9s45wmy9699b24x4g7424hym0000gn/T/ipykernel_926/2545685648.py:10: FutureWarning: 
+
+Passing `palette` without assigning `hue` is deprecated and will be removed in v0.14.0. Assign the `x` variable to `hue` and set `legend=False` for the same effect.
+
+  sns.barplot(data=CantProv_por_prov, x='prov', y='count', palette=paleta, order=CantProv_por_prov.sort_values('count', ascending=False)['prov'])
+
