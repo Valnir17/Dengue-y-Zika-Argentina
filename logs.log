@@ -1435,3 +1435,69 @@ Passing `palette` without assigning `hue` is deprecated and will be removed in v
 2024-07-04 15:17:29,015:WARNING:/var/folders/46/9s45wmy9699b24x4g7424hym0000gn/T/ipykernel_1671/1031662512.py:16: UserWarning: The palette list has more values (24) than needed (9), which may not be intended.
   sns.barplot(x='counts', y='edad_desc',palette=paleta, data=conteo_por_edad)
 
+2024-07-04 15:51:40,199:WARNING:/var/folders/46/9s45wmy9699b24x4g7424hym0000gn/T/ipykernel_1671/2254249323.py:2: FutureWarning: 
+
+Passing `palette` without assigning `hue` is deprecated and will be removed in v0.14.0. Assign the `x` variable to `hue` and set `legend=False` for the same effect.
+
+  sns.barplot(df_depto_BsAs_max, palette=paleta)
+
+2024-07-04 15:51:40,200:WARNING:/var/folders/46/9s45wmy9699b24x4g7424hym0000gn/T/ipykernel_1671/2254249323.py:2: UserWarning: The palette list has more values (24) than needed (14), which may not be intended.
+  sns.barplot(df_depto_BsAs_max, palette=paleta)
+
+2024-07-04 15:52:41,313:WARNING:/var/folders/46/9s45wmy9699b24x4g7424hym0000gn/T/ipykernel_1671/1651431709.py:13: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  conteo_por_edad = TablaCompleta_filtrada_por_edad.groupby('edad_desc').size().reset_index(name='counts')
+
+2024-07-04 15:52:41,345:WARNING:/var/folders/46/9s45wmy9699b24x4g7424hym0000gn/T/ipykernel_1671/1651431709.py:16: FutureWarning: 
+
+Passing `palette` without assigning `hue` is deprecated and will be removed in v0.14.0. Assign the `y` variable to `hue` and set `legend=False` for the same effect.
+
+  sns.barplot(x='counts', y='edad_desc',palette=paleta, data=conteo_por_edad)
+
+2024-07-04 15:52:41,346:WARNING:/var/folders/46/9s45wmy9699b24x4g7424hym0000gn/T/ipykernel_1671/1651431709.py:16: UserWarning: The palette list has more values (24) than needed (9), which may not be intended.
+  sns.barplot(x='counts', y='edad_desc',palette=paleta, data=conteo_por_edad)
+
+2024-07-04 15:53:06,421:WARNING:/var/folders/46/9s45wmy9699b24x4g7424hym0000gn/T/ipykernel_1671/4119289261.py:13: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  conteo_por_edad = TablaCompleta_filtrada_por_edad.groupby('edad_desc').size().reset_index(name='counts')
+
+2024-07-04 15:53:06,442:WARNING:/var/folders/46/9s45wmy9699b24x4g7424hym0000gn/T/ipykernel_1671/4119289261.py:16: FutureWarning: 
+
+Passing `palette` without assigning `hue` is deprecated and will be removed in v0.14.0. Assign the `y` variable to `hue` and set `legend=False` for the same effect.
+
+  sns.barplot(x='counts', y='edad_desc',palette=paleta, data=conteo_por_edad)
+
+2024-07-04 15:53:06,443:WARNING:/var/folders/46/9s45wmy9699b24x4g7424hym0000gn/T/ipykernel_1671/4119289261.py:16: UserWarning: The palette list has more values (24) than needed (9), which may not be intended.
+  sns.barplot(x='counts', y='edad_desc',palette=paleta, data=conteo_por_edad)
+
+2024-07-04 15:53:24,366:WARNING:/var/folders/46/9s45wmy9699b24x4g7424hym0000gn/T/ipykernel_1671/383947472.py:13: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  conteo_por_edad = TablaCompleta_filtrada_por_edad.groupby('edad_desc').size().reset_index(name='counts')
+
+2024-07-04 15:53:24,413:WARNING:/var/folders/46/9s45wmy9699b24x4g7424hym0000gn/T/ipykernel_1671/383947472.py:16: FutureWarning: 
+
+Passing `palette` without assigning `hue` is deprecated and will be removed in v0.14.0. Assign the `y` variable to `hue` and set `legend=False` for the same effect.
+
+  sns.barplot(x='counts', y='edad_desc',palette=paleta, data=conteo_por_edad)
+
+2024-07-04 15:53:24,414:WARNING:/var/folders/46/9s45wmy9699b24x4g7424hym0000gn/T/ipykernel_1671/383947472.py:16: UserWarning: The palette list has more values (24) than needed (9), which may not be intended.
+  sns.barplot(x='counts', y='edad_desc',palette=paleta, data=conteo_por_edad)
+
+2024-07-04 15:53:44,170:WARNING:/var/folders/46/9s45wmy9699b24x4g7424hym0000gn/T/ipykernel_1671/4005431472.py:13: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  conteo_por_edad = TablaCompleta_filtrada_por_edad.groupby('edad_desc').size().reset_index(name='counts')
+
+2024-07-04 15:53:44,206:WARNING:/var/folders/46/9s45wmy9699b24x4g7424hym0000gn/T/ipykernel_1671/4005431472.py:16: FutureWarning: 
+
+Passing `palette` without assigning `hue` is deprecated and will be removed in v0.14.0. Assign the `y` variable to `hue` and set `legend=False` for the same effect.
+
+  sns.barplot(x='counts', y='edad_desc',palette=paleta, data=conteo_por_edad)
+
+2024-07-04 15:53:44,207:WARNING:/var/folders/46/9s45wmy9699b24x4g7424hym0000gn/T/ipykernel_1671/4005431472.py:16: UserWarning: The palette list has more values (24) than needed (9), which may not be intended.
+  sns.barplot(x='counts', y='edad_desc',palette=paleta, data=conteo_por_edad)
+
+2024-07-04 15:54:36,390:WARNING:/var/folders/46/9s45wmy9699b24x4g7424hym0000gn/T/ipykernel_1671/3361722643.py:2: FutureWarning: 
+
+Passing `palette` without assigning `hue` is deprecated and will be removed in v0.14.0. Assign the `x` variable to `hue` and set `legend=False` for the same effect.
+
+  sns.barplot(df_depto_BsAs_max, palette=paleta)
+
+2024-07-04 15:54:36,391:WARNING:/var/folders/46/9s45wmy9699b24x4g7424hym0000gn/T/ipykernel_1671/3361722643.py:2: UserWarning: The palette list has more values (24) than needed (14), which may not be intended.
+  sns.barplot(df_depto_BsAs_max, palette=paleta)
+
