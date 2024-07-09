@@ -1665,3 +1665,93 @@ Try using .loc[row_indexer,col_indexer] = value instead
 See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
   Reportes['id_reporte'] = range(1, len(Reportes) + 1)
 
+2024-07-09 14:40:26,327:WARNING:/var/folders/46/9s45wmy9699b24x4g7424hym0000gn/T/ipykernel_3631/1700501893.py:18: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  TablaCompleta['id_depto'] = TablaCompleta['id_depto'].astype(str)
+
+2024-07-09 14:40:26,358:WARNING:/var/folders/46/9s45wmy9699b24x4g7424hym0000gn/T/ipykernel_3631/1700501893.py:25: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  TablaCompleta['depto'] = np.where(condition, 'La Matanza', TablaCompleta['depto'])
+
+2024-07-09 14:40:26,361:WARNING:/var/folders/46/9s45wmy9699b24x4g7424hym0000gn/T/ipykernel_3631/1700501893.py:26: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  TablaCompleta['id_depto'] = np.where(condition, '06427', TablaCompleta['id_depto'])
+
+2024-07-09 14:40:26,365:WARNING:/var/folders/46/9s45wmy9699b24x4g7424hym0000gn/T/ipykernel_3631/1700501893.py:29: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  TablaCompleta['id_depto'] = np.where(condition, '02001', TablaCompleta['id_depto'])
+
+2024-07-09 14:40:26,368:WARNING:/var/folders/46/9s45wmy9699b24x4g7424hym0000gn/T/ipykernel_3631/1700501893.py:37: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  TablaCompleta['id_depto'] = TablaCompleta['id_depto'].astype(str)
+
+2024-07-09 14:40:26,430:WARNING:/var/folders/46/9s45wmy9699b24x4g7424hym0000gn/T/ipykernel_3631/1700501893.py:47: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  TablaCompleta['id_depto'] = np.where(condition, pd.NA, TablaCompleta['id_depto'])
+
+2024-07-09 14:40:27,958:WARNING:/var/folders/46/9s45wmy9699b24x4g7424hym0000gn/T/ipykernel_3631/3611706648.py:6: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  Reportes['id_reporte'] = range(1, len(Reportes) + 1)
+
+2024-07-09 14:40:30,604:WARNING:/var/folders/46/9s45wmy9699b24x4g7424hym0000gn/T/ipykernel_3631/2049171987.py:7: FutureWarning: 
+
+Passing `palette` without assigning `hue` is deprecated and will be removed in v0.14.0. Assign the `x` variable to `hue` and set `legend=False` for the same effect.
+
+  sns.barplot(x='prov', y='cantidad', data=casos_provincia, palette=paleta, order=casos_provincia.sort_values('cantidad', ascending=False)['prov'])
+
+2024-07-09 14:40:33,701:WARNING:/var/folders/46/9s45wmy9699b24x4g7424hym0000gn/T/ipykernel_3631/3732504610.py:10: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  TablaCompleta_filtrada_por_edad['edad_desc'] = pd.Categorical(TablaCompleta_filtrada_por_edad['edad_desc'], categories=orden_edad, ordered=True)
+
+2024-07-09 14:40:33,702:WARNING:/var/folders/46/9s45wmy9699b24x4g7424hym0000gn/T/ipykernel_3631/3732504610.py:13: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  conteo_por_edad = TablaCompleta_filtrada_por_edad.groupby('edad_desc')['cantidad'].sum()
+
+2024-07-09 14:40:33,723:WARNING:/var/folders/46/9s45wmy9699b24x4g7424hym0000gn/T/ipykernel_3631/3732504610.py:18: FutureWarning: 
+
+Passing `palette` without assigning `hue` is deprecated and will be removed in v0.14.0. Assign the `y` variable to `hue` and set `legend=False` for the same effect.
+
+  sns.barplot(x='cantidad', y='edad_desc',palette=paleta, data=conteo_por_edad)
+
+2024-07-09 14:40:33,724:WARNING:/var/folders/46/9s45wmy9699b24x4g7424hym0000gn/T/ipykernel_3631/3732504610.py:18: UserWarning: The palette list has more values (24) than needed (9), which may not be intended.
+  sns.barplot(x='cantidad', y='edad_desc',palette=paleta, data=conteo_por_edad)
+
+2024-07-09 14:40:33,999:WARNING:/var/folders/46/9s45wmy9699b24x4g7424hym0000gn/T/ipykernel_3631/2946380197.py:5: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_Buenos_aires['cantidad'] = df_Buenos_aires['cantidad'].astype(int)
+
+2024-07-09 14:40:34,032:WARNING:/var/folders/46/9s45wmy9699b24x4g7424hym0000gn/T/ipykernel_3631/3361722643.py:2: FutureWarning: 
+
+Passing `palette` without assigning `hue` is deprecated and will be removed in v0.14.0. Assign the `x` variable to `hue` and set `legend=False` for the same effect.
+
+  sns.barplot(df_depto_BsAs_max, palette=paleta)
+
+2024-07-09 14:40:34,033:WARNING:/var/folders/46/9s45wmy9699b24x4g7424hym0000gn/T/ipykernel_3631/3361722643.py:2: UserWarning: The palette list has more values (24) than needed (14), which may not be intended.
+  sns.barplot(df_depto_BsAs_max, palette=paleta)
+
