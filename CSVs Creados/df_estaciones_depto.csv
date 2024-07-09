@@ -38,15 +38,15 @@ Estacion,depto,prov
 87814,Paso De Indios,Chubut
 87823,Puerto Madryn ,Chubut
 87828,Trelew ,Chubut
-87344,Cordoba ,Cordoba
-87345,Cordoba Observatorio,Cordoba
-87347,Esc.Aviacion Militar ,Cordoba
-87534,Laboulaye ,Cordoba
-87467,Marcos Juarez ,Cordoba
-87349,Pilar Obs.,Cordoba
-87453,Rio Cuarto ,Cordoba
-87328,Villa Dolores ,Cordoba
-87244,Villa Maria Del Rio Seco,Cordoba
+87344,Cordoba ,Córdoba
+87345,Cordoba Observatorio,Córdoba
+87347,Esc.Aviacion Militar ,Córdoba
+87534,Laboulaye ,Córdoba
+87467,Marcos Juarez ,Córdoba
+87349,Pilar Obs.,Córdoba
+87453,Rio Cuarto ,Córdoba
+87328,Villa Dolores ,Córdoba
+87244,Villa Maria Del Rio Seco,Córdoba
 87166,Corrientes ,Corrientes
 87173,Ituzaingo,Corrientes
 87281,Mercedes  (Ctes),Corrientes
@@ -78,15 +78,15 @@ Estacion,depto,prov
 87097,Iguazu ,Misiones
 87187,Obera ,Misiones
 87178,Posadas ,Misiones
-87761,Chapelco ,Neuquen
-87715,Neuquen ,Neuquen
-87765,Bariloche ,Rio Negro
-87719,Cipolletti,Rio Negro
-87800,El Bolson ,Rio Negro
-87774,Maquinchao,Rio Negro
-87736,Rio Colorado,Rio Negro
-87784,San Antonio Oeste ,Rio Negro
-87791,Viedma ,Rio Negro
+87761,Chapelco ,Neuquén
+87715,Neuquen ,Neuquén
+87765,Bariloche ,Río Negro
+87719,Cipolletti,Río Negro
+87800,El Bolson ,Río Negro
+87774,Maquinchao,Río Negro
+87736,Rio Colorado,Río Negro
+87784,San Antonio Oeste ,Río Negro
+87791,Viedma ,Río Negro
 87050,Metan,Salta
 87016,Oran ,Salta
 87065,Rivadavia,Salta
@@ -116,4 +116,4 @@ Estacion,depto,prov
 87127,Termas De Rio Hondo ,Santiago Del Estero
 87934,Rio Grande B.A.,Tierra Del Fuego
 87938,Ushuaia ,Tierra Del Fuego
-87121,Tucuman ,Tucuman
+87121,Tucuman ,Tucumán
